@@ -24,9 +24,7 @@ data = pd.read_csv("data1.csv")
 print(f"原始数据量: {len(data)}")
 data['SMILES'] = data['SMILES'].str.strip()
 
-duplicate_stats = data.groupby('SMILES').agg({
-    : ['mean', 'std', 'count']
-}).reset_index()
+duplicate_stats = data.groupby('SMILES').agg({'Td/K': ['mean', 'std', 'count']}).reset_index()
 duplicate_stats.columns = ['SMILES', 'Td_mean', 'Td_std', 'count']
 
 reliable_data = duplicate_stats[
@@ -549,13 +547,13 @@ def analyze_fifteen_molecules(model, test_loader, smiles_list, y_scaler, device,
                     
                                                 
                     analysis_results.append({
-                        : molecules_analyzed + 1,
-                        : sample_smiles_str,
-                        : float(target_value),
-                        : float(pred_value),
-                        : float(abs(target_value - pred_value)),
-                        : atom_importance.tolist(),
-                        : output_file
+                        'molecule_id': molecules_analyzed + 1,
+                        'smiles': sample_smiles_str,
+                        'target_td': float(target_value),
+                        'predicted_td': float(pred_value),
+                        'error': float(abs(target_value - pred_value)),
+                        'atom_contributions': atom_importance.tolist(),
+                        'output_file': output_file
                     })
                 else:
                     print("原子贡献计算失败")
@@ -599,7 +597,7 @@ def create_comprehensive_summary(analysis_results):
         scatter = axes[0, 1].scatter(target_tds, predicted_tds, c=errors, cmap='viridis', 
                                    s=100, alpha=0.8, edgecolors='black', linewidth=1)
         axes[0, 1].plot([min(target_tds), max(target_tds)], [min(target_tds), max(target_tds)], 
-                       , lw=2, label='理想预测线')
+                        lw=2, label='理想预测线')
         axes[0, 1].set_xlabel('实际 Td (K)', fontsize=12)
         axes[0, 1].set_ylabel('预测 Td (K)', fontsize=12)
         axes[0, 1].set_title('预测值 vs 实际值', fontsize=14, fontweight='bold')
@@ -691,19 +689,19 @@ def generate_detailed_report(analysis_results):
         predicted_tds = [r['predicted_td'] for r in analysis_results]
         
         report = {
-            : {
-                : len(analysis_results),
-                : float(np.mean(errors)),
-                : float(np.std(errors)),
-                : float(np.min(errors)),
-                : float(np.max(errors)),
-                : float(np.median(errors)),
-                : float(np.corrcoef(target_tds, predicted_tds)[0, 1]**2)
+            'analysis_summary': {
+                'total_molecules': len(analysis_results),
+                'average_error': float(np.mean(errors)),
+                'std_error': float(np.std(errors)),
+                'min_error': float(np.min(errors)),
+                'max_error': float(np.max(errors)),
+                'median_error': float(np.median(errors)),
+                'r_squared': float(np.corrcoef(target_tds, predicted_tds)[0, 1]**2)
             },
-            : [],
-            : [],
-            : {},
-            : analysis_results
+            'best_predictions': [],
+            'worst_predictions': [],
+            'molecular_insights': {},
+            'detailed_results': analysis_results
         }
         
                            
@@ -719,12 +717,12 @@ def generate_detailed_report(analysis_results):
         
         if all_contributions:
             report['molecular_insights'] = {
-                : len(all_contributions),
-                : float(np.mean(all_contributions)),
-                : float(np.std(all_contributions)),
-                : len([c for c in all_contributions if c > 0]),
-                : len([c for c in all_contributions if c < 0]),
-                : len([c for c in all_contributions if abs(c) < 0.1])
+                'total_atoms_analyzed': len(all_contributions),
+                'avg_atom_contribution': float(np.mean(all_contributions)),
+                'contribution_std': float(np.std(all_contributions)),
+                'positive_contributions': len([c for c in all_contributions if c > 0]),
+                'negative_contributions': len([c for c in all_contributions if c < 0]),
+                'neutral_contributions': len([c for c in all_contributions if abs(c) < 0.1])
             }
         
                            
