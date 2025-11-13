@@ -1,0 +1,1155 @@
+﻿No.,IUPAC_Name,SMILES,Td/K,doi
+entry1,"tris(2,2,2-trinitroethoxy)methane",O=[N+](C(COCOCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)[O-],468.15, 10.1002/zaac.201100340
+entry2,tris(2-(1H-tetrazol-1-yl)ethyl)amine,N1(C=NN=N1)CCN(CCN2C=NN=N2)CCN3N=NN=C3,472.15,10.1515/znb-2009-11-1237
+entry3,"trimethyl 2,2',2''-(((1E,4E)-pentaaza-1,4-diene-1,3,5-triyl)tris(2H-tetrazole-5,2-diyl))triacetate",OCCN1N=C(N(/N=N/C2=NN(CCO)N=N2)/N=N/C3=NN(CCO)N=N3)N=N1,392.15,10.1039/c6cc08179g
+entry4,"tri(1,2,4,5-tetrazin-3-yl)amine",C1(N(C2=NN=CN=N2)C3=NN=CN=N3)=NN=CN=N1,504.15,10.1021/acs.joc.9b02484
+entry5,"tetrakis(2,2,2-trinitroethoxy)methane",O=[N+](C(COC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)[O-],464.15, 10.1002/zaac.201100340
+entry6,"tetrakis(2,2,2-trinitroethoxy)methane",O=[N+](C(COC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)[O-],307.15, 10.1002/zaac.201100340
+entry7,"propane-1,2,3-triyl tris(nitrocarbamate)",O=C(OCC(OC(N[N+]([O-])=O)=O)COC(N[N+]([O-])=O)=O)N[N+]([O-])=O,425.15, 10.1002/zaac.201500795
+entry8,"propane-1,2,3-triyl trinitrate",O=[N+](OCC(CO[N+]([O-])=O)O[N+]([O-])=O)[O-],470.55,10.1016/j.tca.2013.05.032
+entry9,"pentane-1,2,3,4,5-pentayl pentanitrate",O=[N+](OC(C(C(CO[N+]([O-])=O)O[N+]([O-])=O)O[N+]([O-])=O)CO[N+]([O-])=O)[O-],447.95,10.1016/j.tca.2013.05.032
+entry10,"oxybis(propane-3,1,2-triyl) tetranitrate",O=C(OCC)N(C1=NON=C1N([N+]([O-])=O)C(OCC)=O)[N+]([O-])=O,397.15, 10.1021/jacs.5b09831
+entry11,"oxybis(ethane-2,1-diyl) bis(2-azidoacetate)",O=C(OCCOCCOC(CN=[N+]=[N-])=O)CN=[N+]=[N-],504.52,10.1002/prep.202100105
+entry12,"oxetane-3,3-diyl dinitrate",O=[N+](C1=NON=C1N([N+]([O-])=O)CN([N+]([O-])=O)CN([N+]([O-])=O)C2=NON=C2[N+]([O-])=O)[O-],423.15,10.1002/zaac.201700037
+entry13,oxetan-3-yl nitrate,CC1(O[N+]([O-])=O)COC1,414.15, 10.1039/d1cc00466b
+entry14,"N-nitro-N-(2,2,2-trinitroethyl)glycine",CN(CC(N[N+]([O-])=O)=O)[N+]([O-])=O,386.15,10.1002/asia.201601148
+entry15,N-methyl-N-nitroglycine,CN(CC(O)=O)[N+]([O-])=O,426.15,10.1002/asia.201601148
+entry16,N-methylnitrous hydrazide,CN(N)N=O,394.15,10.1002/zaac.201100446
+entry17,N-methylnitramide,CN[N+]([O-])=O,359.15,10.1002/ejic.201402441
+entry18,"N-methyl-N-(2-oxo-2-(2-(2,2,2-trinitroethyl)hydrazineyl)ethyl)nitramide",CN(CC(NNCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O)[N+]([O-])=O,381.15,10.1002/asia.201601148
+entry19,"N-methyl-N-((nitro(4-nitro-1,2,5-oxadiazol-3-yl)amino)methyl)nitramide",CC1=CN(N2C(N)=NN=N2)N=N1,402.85, 10.1021/acs.joc.9b00801
+entry20,N-methyl-N-((5-(trinitromethyl)-2H-tetrazol-2-yl)methyl)nitramide,O=[N+](NC1=NN(CCO[N+]([O-])=O)N=N1)[O-],364.07, 10.1002/slct.201903408
+entry21,"N-methyl-N-((3-nitro-5-oxo-1,5-dihydro-4H-1,2,4-triazol-4-yl)methyl)nitramide",CN([N+]([O-])=O)CN1N=C([N+]([O-])=O)C=C1[N+]([O-])=O,483.15,10.1039/c6nj00202a
+entry22,"N-methyl-N-((3,4,4'-trinitro-2'H-[1,3'-bipyrazol]-2'-yl)methyl)nitramide",NC1=C(N(CCCN2N=NN=C2N)N=C1[N+]([O-])=O)[N+]([O-])=O,538.15,10.1039/c6ta02387h
+entry23,N-methyl-N-(((1-methyl-1H-tetrazol-5-yl)amino)methyl)nitramide,O=[N+](C([N+]([O-])=O)([N+]([O-])=O)CNC1=NN=NN1OC)[O-],421.15,10.1002/chem.201300994
+entry24,"N-methyl-2,2-dinitroethene-1,1-diamine",N/C(NC)=C([N+]([O-])=O)/[N+]([O-])=O,517.61,10.1002/jccs.200900077
+entry25,"N-methyl-2,2-dinitroethene-1,1-diamine",N/C(NO)=C([N+]([O-])=O)/[N+]([O-])=O,348.15,10.1016/j.mencom.2018.03.007
+entry26,"nitro(4H-1,2,4-triazol-1-ium-4-yl)amide",O=[N+](C(CNN1C=NN=C1)([N+]([O-])=O)[N+]([O-])=O)[O-],399.65,10.1039/c4ra03885a
+entry27,"N6-(4-nitro-1,2,5-oxadiazol-3-yl)-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazine-3,6-diamine",NC1=NN=C2N=NC(NC3=NON=C3[N+]([O-])=O)=NN21,522.65,10.1002/asia.201801145
+entry28,"N6-(3-nitro-1,2,4-oxadiazol-5-yl)-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazine-3,6-diamine",NC1=NN=C2N=NC(NC3=NC([N+]([O-])=O)=NO3)=NN21,495.15,10.1002/asia.201801145
+entry29,"N5,N6-bis(2,2,2-trinitroethyl)-[1,2,5]oxadiazolo[3,4-b]pyrazine-5,6-diamine",O=[N+](C1=NNC([N+]([O-])=O)=C1C2=NC(C3=NNC(C4=C([N+]([O-])=O)NN=C4[N+]([O-])=O)=N3)=NN2)[O-],645.15,10.1039/d0ta09158h
+entry30,"N5,N5'-(1,2,4,5-tetrazine-3,6-diyl)bis(1H-1,2,4-triazole-3,5-diamine)",NC1=NNC(NC2=NN=C(NC3=NC(N)=NN3)N=N2)=N1,630.25,10.1039/c7dt00935f
+entry31,"N3,N6-di(1H-1,2,4-triazol-5-yl)-1,2,4,5-tetrazine-3,6-diamine",C1(NC2=NN=C(NC3=NC=NN3)N=N2)=NC=NN1,623.15,10.1039/c5dt01641j
+entry32,"N3,N6-bis(3-nitro-1H-1,2,4-triazol-5-yl)-1,2,4,5-tetrazine-3,6-diamine",O=[N+](C1=NNC(NC2=NN=C(NC3=NC([N+]([O-])=O)=NN3)N=N2)=N1)[O-],556.75,10.1039/c7dt00935f
+entry33,"N3,N6-bis(3-nitro-1H-1,2,4-triazol-5-yl)-1,2,4,5-tetrazine-3,6-diamine",O=[N+](C1=NNC(NC2=NN=C(N=N2)NC3=NC([N+]([O-])=O)=NN3)=N1)[O-],575.15,10.1039/c5dt01641j
+entry34,"N3,N6-bis(3-nitro-1,2,4-oxadiazol-5-yl)-1,2,4,5-tetrazine-3,6-diamine",O=[N+](N(CN([N+]([O-])=O)C1=NON=C1C#N)C2=NON=C2C#N)[O-],405.15, 10.1021/acs.cgd.7b01264
+entry35,"N3,N6-bis(3-azido-1H-1,2,4-triazol-5-yl)-1,2,4,5-tetrazine-3,6-diamine",[N-]=[N+]=NC1=NNC(NC2=NN=C(NC3=NC(N=[N+]=[N-])=NN3)N=N2)=N1,462.95,10.1039/c7dt00935f
+entry36,"N3,N6-bis(2-methyl-2H-tetrazol-5-yl)-1,2,4,5-tetrazine-3,6-diamine",CN1N=NC(NC2=NN=C(NC3=NN(C)N=N3)N=N2)=N1,579.15,10.1039/c5dt01641j
+entry37,"N3,N4-bis(2,2,2-trinitroethyl)-1,2,5-oxadiazole-3,4-diamine",C12=NN=CN1N=CN=N2,516.15,10.1016/j.cej.2020.124027
+entry38,"N3,N3'-methylenebis(1,2,5-oxadiazole-3,4-diamine)",O=[N+](C1=NN(C([N+]([O-])=O)=C1[N+]([O-])=O)CN2C([N+]([O-])=O)=C([N+]([O-])=O)C([N+]([O-])=O)=N2)[O-],478.15,10.1002/anie.201609267
+entry39,"N3,N3'-(1,2,4,5-tetrazine-3,6-diyl)bis(N4-(2,2,2-trinitroethyl)-1,2,5-oxadiazole-3,4-diamine)",NC(N=C1N)=NN1C2=NN=C(N3C(N)=NC(N)=N3)N=N2,643.15,10.5560/ZNB.2013-3237 
+entry40,"N3-(2,2,2-trinitroethyl)-1,2,4-oxadiazole-3,5-diamine",NC1=NC([N+]([O-])=O)=NN1NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,381.15,10.1039/c3ta15057g
+entry41,"N3-(1H-tetrazol-1-yl)-N4-(2,2,2-trinitroethyl)-4H-1,2,4-triazole-3,4-diamine",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)CNN1C(NN2N=NN=C2)=NN=C1)[O-],455.15,10.1016/j.cej.2020.124027
+entry42,"N3-(1H-tetrazol-1-yl)-4H-1,2,4-triazole-3,4-diamine",NN1C(NN2N=NN=C2)=NN=C1,488.15,10.1016/j.cej.2020.124027
+entry43,"N2-nitro-N2-(2,2,2-trinitroethyl)glycinoyl azide",OC(CN([N+]([O-])=O)CC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O,440.15,10.1002/chem.201301190
+entry44,N2-methyl-N2-nitroglycinoyl azide,CN(CC(N=[N+]=[N-])=O)[N+]([O-])=O,329.15,10.1002/asia.201601148
+entry45,"N2-([1,2,4]triazolo[4,3-b][1,2,4,5]tetrazin-6-yl)-3,5-dinitropyrazine-2,6-diamine",NC1=NC2=NN=NN2N=C1C3=NN=NN3,493.15,10.1039/c9cc01777a
+entry46,"N'1,N'2-bis(2,2,2-trinitroethyl)oxalohydrazide",N/C(NN=CC=NN/C(N)=C([N+]([O-])=O)/[N+]([O-])=O)=C([N+]([O-])=O)/[N+]([O-])=O,490.83,10.1007/s10973-019-09013-x
+entry47,N/A,O=C(O)CN([N+]([O-])=O)C(CO[N+]([O-])=O)(CO[N+]([O-])=O)CO[N+]([O-])=O,409.15,10.1002/ejoc.201700434
+entry48,"N,N'-methylenebis(N-(4-cyano-1,2,5-oxadiazol-3-yl)nitramide)",O=[N+](N(CN([N+]([O-])=O)C1=NON=C1C2=NNN=N2)C3=NON=C3C4=NNN=N4)[O-],427.15, 10.1021/acs.cgd.7b01264
+entry49,"N,N'-methylenebis(N-(4-azido-1,2,5-oxadiazol-3-yl)nitramide)",[O-]/[N+](C1=NON=C1N([N+]([O-])=O)CN([N+]([O-])=O)C2=NON=C2/[N+]([O-])=N/N3N=C([N+]([O-])=O)N=C3)=N\N4N=C([N+]([O-])=O)N=C4,420.15, 10.1039/d1ra03919a
+entry50,"N,N'-methylenebis(N-(4-(hydrazineyl(imino)methyl)-1,2,5-oxadiazol-3-yl)nitramide)",N=C(C1=NON=C1N(CCN(C2=NON=C2C(NN)=N)[N+]([O-])=O)[N+]([O-])=O)NN,418.15,10.1039/c6ta08055c
+entry51,"N,N'-methylenebis(N-(4-(2H-tetrazol-5-yl)-1,2,5-oxadiazol-3-yl)nitramide)",O=C(CC(NC(CO[N+]([O-])=O)(CO[N+]([O-])=O)CO[N+]([O-])=O)=O)NC(CO[N+]([O-])=O)(CO[N+]([O-])=O)CO[N+]([O-])=O,377.15,10.1002/ejoc.201700434
+entry52,"N,N'-methylenebis(N-(4-(1H-tetrazol-5-yl)-1,2,5-oxadiazol-3-yl)nitramide)",O=[N+](NC1=NON=C1C2=NN=C(C3=NN=C(C4=NON=C4N[N+]([O-])=O)O3)O2)[O-],363.15,10.1002/anie.202014207
+entry53,"N,N'-methylenebis(N-(4-(1,2,4-oxadiazol-3-yl)-1,2,5-oxadiazol-3-yl)nitramide)",O=[N+](N(CCN(C1=NON=C1C2=NOC=N2)[N+]([O-])=O)C3=NON=C3C4=NOC=N4)[O-],448.15,10.1039/c6ta08055c
+entry54,"N,N'-methylenebis(N-((3,4,5-triiodo-1H-pyrazol-1-yl)methyl)nitramide)",IC1=C(I)N=C(I)N1CN([N+]([O-])=O)CN([N+]([O-])=O)CN2C(I)=C(I)N=C2I,493.95, 10.1021/acs.inorgchem.7b02277
+entry55,"N,N'-methylenebis(N-((2,4,5-triiodo-1H-imidazol-1-yl)methyl)nitramide)",N/C(NNC(NN/C(N)=C([N+]([O-])=O)/[N+]([O-])=O)=O)=C([N+]([O-])=O)\[N+]([O-])=O,508.25,10.1039/c6nj03370a
+entry56,"N,N'-bis(4-azido-1,2,5-oxadiazol-3-yl)methanediamine",O=[N+](C1=NOC(NC2=NN=C(NC3=NC([N+]([O-])=O)=NO3)N=N2)=N1)[O-],477.15, 10.1002/prep.201900014
+entry57,"N,N-bis((5-azido-3,4-dinitro-1H-pyrazol-1-yl)methyl)nitramide",O=[N+](OCN1N=C(N=C1C2=NC([N+]([O-])=O)=NN2CO[N+]([O-])=O)[N+]([O-])=O)[O-],449.15,10.1039/c6ta02384c
+entry58,"N,N-bis((4-nitro-1H-pyrazol-1-yl)methyl)nitramide",O=[N+](OCN1C2=NON=C2N(CO[N+]([O-])=O)C3=NON=C13)[O-],469.15,10.1039/c6ta02384c
+entry59,"N,N-bis((4-azido-3,5-dinitro-1H-pyrazol-1-yl)methyl)nitramide",[NH2+]=C1OC([C-]([N+]([O-])=O)[N+]([O-])=O)=NN1N,416.15,10.1039/c9cc08182h
+entry60,"N,N-bis((4-amino-3,5-dinitro-1H-pyrazol-1-yl)methyl)nitramide",O=[N+](OCN1C2=C(N(CO[N+]([O-])=O)N=C2[N+]([O-])=O)C([N+]([O-])=O)=N1)[O-],479.15,10.1039/c6ta02384c
+entry61,"N,N-bis((3,5-dinitro-1H-pyrazol-1-yl)methyl)nitramide",O=[N+](N(CN1C=C([N+]([O-])=O)C([N+]([O-])=O)=N1)CN2C=C([N+]([O-])=O)C([N+]([O-])=O)=N2)[O-],534.15,10.1002/chem.201300747
+entry62,"N,N-bis((3,4-dinitro-1H-pyrazol-1-yl)methyl)nitramide",O=C(C1=CC=CC=C1)C2=C(N=[N+]=[N-])C=CC=C2,362.72,10.1007/s10973-009-0572-8
+entry63,"N,N-bis((3,4,5-triiodo-1H-pyrazol-1-yl)methyl)nitramide",IC1=C(I)C(I)=NN1CC([N+]([O-])=O)([N+]([O-])=O)CN2C(I)=C(I)C(I)=N2,491.25, 10.1021/acs.inorgchem.7b02277
+entry64,"N,N-bis((2,4,5-triiodo-1H-imidazol-1-yl)methyl)nitramide",IC1=C(I)N=C(I)N1CC([N+]([O-])=O)([N+]([O-])=O)CN2C(I)=C(I)N=C2I,478.15, 10.1021/acs.inorgchem.7b02277
+entry65,"N,N-bis((1H-tetrazol-5-yl)methyl)nitramide",O=[N+](N(CC(O[N+]([O-])=O)CN([N+]([O-])=O)C(CO[N+]([O-])=O)(CO[N+]([O-])=O)CO[N+]([O-])=O)C(CO[N+]([O-])=O)(CO[N+]([O-])=O)CO[N+]([O-])=O)[O-],423.15,10.1002/ejoc.201700434
+entry66,"N',N'',2-tris((E)-2,4,6-trinitrobenzylidene)hydrazine-1-carbohydrazonhydrazide",O=[N+](C([N+]([O-])=O)C1=NNC(C2=NON=C2/N=N/C3=NON=C3C4=NC(C([N+]([O-])=O)[N+]([O-])=O)=NN4)=N1)[O-],393.15,10.1039/c9dt01514k
+entry67,"N,N'-(methylenebis(1,2,4-oxadiazole-3,5-diyl))dinitramide",O=[N+](C1=NN(N[N+]([O-])=O)C(C2=NC([N+]([O-])=O)=NN2N[N+]([O-])=O)=N1)[O-],394.15,10.1002/anie.201507456
+entry68,"N,N'-(hydrazine-1,2-diylbis(2-oxoethane-2,1-diyl))bis(N-methylnitramide)",O=[N+](C1=NON=C1C2=NON=C2C3=NON=C3[N+]([O-])=O)[O-],529.25,10.1007/s10973-018-7242-7
+entry69,"N,N'-(ethane-1,2-diylbis(3-nitro-1H-1,2,4-triazole-1,5-diyl))dinitramide",O=[N+](NC1=NON=C1C2=NOC(C3=NC(C4=NON=C4N[N+]([O-])=O)=NO3)=N2)[O-],357.15,10.1039/c8ce00857d
+entry70,"N,N'-(ethane-1,2-diylbis(3,5-dinitro-1H-pyrazole-1,4-diyl))dinitramide",O=[N+](NC1=C([N+]([O-])=O)C([N+]([O-])=O)=NN1CCN2N=C([N+]([O-])=O)C([N+]([O-])=O)=C2N[N+]([O-])=O)[O-],354.15,10.1002/chem.201404991
+entry71,"N,N'-(ethane-1,2-diylbis(3,4-dinitro-1H-pyrazole-1,5-diyl))dinitramide",O=[N+](C(CN([N+]([O-])=O)C1=NON=C1C2=NOC(C3=NC(C4=NON=C4N([N+]([O-])=O)CC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NO3)=N2)([N+]([O-])=O)[N+]([O-])=O)[O-],424.95,10.1002/cplu.201800107
+entry72,"N,N'-(ethane-1,2-diyl)bis(N-(4-(hydrazineyl(imino)methyl)-1,2,5-oxadiazol-3-yl)nitramide)",CN=[N+]([O-])C1=NON=C1N([N+]([O-])=O)CN([N+]([O-])=O)C2=NON=C2/[N+]([O-])=N\C,435.15,10.1039/c6ta08055c
+entry73,"N,N'-(ethane-1,2-diyl)bis(N-(4-(1H-tetrazol-5-yl)-1,2,5-oxadiazol-3-yl)nitramide)",CN(CC#N)[N+]([O-])=O,466.15,10.1002/asia.201601148
+entry74,"N,N'-(ethane-1,2-diyl)bis(N-(4-(1,2,4-oxadiazol-3-yl)-1,2,5-oxadiazol-3-yl)nitramide)",[N-]=[N+]=NC1=NON=C1NCNC2=NON=C2N=[N+]=[N-],451.15,10.1039/D1NJ04188F
+entry75,"N,N'-(diazene-1,2-diylbis([1,2,4]triazolo[4,3-b][1,2,4,5]tetrazine-3,6-diyl))dinitramide",[O-][N+]1=NC2=NN=C(/N=N\C3=NN=C4N=[N+](C(N)=NN43)[O-])N2N=C1N,483.15,10.1039/c9cc04496e
+entry76,"N,N'-(7-amino-[1,2,4]triazolo[1,5-a][1,3,5]triazine-2,5-diyl)dinitramide",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NN=C(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)O1)[O-],375.15,10.1021/jacs.7b05158
+entry77,"N,N'-(5-amino-4H,4'H-[3,3'-bi(1,2,4-triazole)]-4,5'-diyl)dinitramide",NC1=C([N+]([O-])=O)C(N=[N+]=[N-])=NN1,430.15,10.1016/j.fpc.2021.09.003
+entry78,"N,N'-(5,5'-dinitro-2H,2'H-[3,3'-bi(1,2,4-triazole)]-2,2'-diyl)dinitramide",O=[N+](C1=C([N+]([O-])=O)N(N[N+]([O-])=O)C(C2=NC([N+]([O-])=O)=C([N+]([O-])=O)N2N[N+]([O-])=O)=N1)[O-],389.15,10.1002/anie.201507456
+entry79,"N,N'-(5,5'-diamino-4H,4'H-[3,3'-bi(1,2,4-triazole)]-4,4'-diyl)dinitramide",NC1=NC(/N=N\C2=NOC(N)=N2)=NO1,628.15,10.1039/c4ra10821c
+entry80,"N,N'-(4,4',5,5'-tetranitro-1H,1'H-[2,2'-biimidazole]-1,1'-diyl)dinitramide",O=[N+](C1=NN(N[N+]([O-])=O)C2=C1N(N[N+]([O-])=O)N=C2[N+]([O-])=O)[O-],401.15,10.1002/anie.201606894
+entry81,"N,N'-(3,6-dinitropyrazolo[4,3-c]pyrazole-1,4-diyl)dinitramide",O=[N+](C1=NN(CCN2N=C([N+]([O-])=O)N=C2N[N+]([O-])=O)C(N[N+]([O-])=O)=N1)[O-],380.15,10.1002/anie.201408127
+entry82,"N,N'-(2H,2'H-[3,3'-bi(1,2,4-triazole)]-5,5'-diylbis(1,2,5-oxadiazole-4,3-diyl))dinitramide",[N-]=[N+]=NC1=NON=C1C2=NNC(C3=NC(C4=NON=C4N=[N+]=[N-])=NN3)=N2,452.15,10.1039/d0dt00498g
+entry83,"N,N'-(1H,1'H-[5,5'-bitetrazole]-1,1'-diyl)dinitramide",ON1N=NN=C1/N=N/C2=NN=NN2O,443.15,10.1002/chem.201203493
+entry84,"N,N'-(1,2,5-oxadiazole-3,4-diyl)dinitramide",[O-][N+]1=C(C#N)C(C#N)=NO1,477.15,10.3390/molecules25245836
+entry85,"N,N'-([5,5'-bi(1,2,4-oxadiazole)]-3,3'-diylbis(1,2,5-oxadiazole-4,3-diyl))dinitramide",O=[N+](NC1=NON=C1C2=NN=C(N=NC3=NN=C(C4=NON=C4N[N+]([O-])=O)O3)O2)[O-],521.15,10.1021/acs.cgd.8b01404
+entry86,"N,N'-([5,5'-bi(1,2,4-oxadiazole)]-3,3'-diylbis(1,2,5-oxadiazole-4,3-diyl))dinitramide",O=[N+](C1=C(OC2=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C2)C([N+]([O-])=O)=C(OC3=CC=C([N+]([O-])=O)C=C3[N+]([O-])=O)C([N+]([O-])=O)=C1)[O-],561.76, 10.1002/prep.201700119
+entry87,"N,N'-([5,5'-bi(1,2,4-oxadiazole)]-3,3'-diylbis(1,2,5-oxadiazole-4,3-diyl))bis(N-(2,2,2-trinitroethyl)nitramide)",O=[N+](NC1=NC(CC2=NOC(N[N+]([O-])=O)=N2)=NO1)[O-],425.15,10.1039/c9nj00421a
+entry88,"N,N'-([3,3'-bi(1,2,5-oxadiazole)]-4,4'-diyl)dinitramide",O=[N+](NC1=NON=C1/N=N/C2=NON=C2N[N+]([O-])=O)[O-],395.15,10.1002/chem.201400362
+entry89,"N,N'-([3,3'-bi(1,2,4-oxadiazole)]-5,5'-diyl)dinitramide",O=[N+](C1=C(N=[N+]=[N-])NC(C2=NC([N+]([O-])=O)=C(N=[N+]=[N-])N2)=N1)[O-],355.15,10.1016/j.fpc.2021.09.003
+entry90,"N,N'-([2,2'-bi(1,3,4-oxadiazole)]-5,5'-diylbis(1,2,5-oxadiazole-4,3-diyl))dinitramide",O=[N+](N(CCN(C1=NON=C1C2=NN=NN2)[N+]([O-])=O)C3=NON=C3C4=NN=NN4)[O-],436.15,10.1016/j.molstruc.2019.127358
+entry91,"N,N'-([1,2,4]triazolo[4,3-b][1,2,4,5]tetrazine-3,6-diyl)dinitramide",N/C(NC1=NN=C(N/C(N)=N/[N+]([O-])=O)N=N1)=N\[N+]([O-])=O,539.08,10.11943 /j.issn.1006-9941.2014.06.011
+entry92,"N,N'-((diazene-1,2-diylbis(1,3,4-oxadiazole-5,2-diyl))bis(1,2,5-oxadiazole-4,3-diyl))dinitramide",O=[N+](C1=C(C2=NNC(N2)=N[N+]([O-])=O)NN=C1C3=NNC(N3)=N[N+]([O-])=O)[O-],407.55,10.1039/c9nj01445d
+entry93,"N,N'-((5,5'-dinitro-2H,2'H-[3,3'-bi(1,2,4-triazole)]-2,2'-diyl)bis(methylene))bis(N-methylnitramide)",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NC(/N=N/C2=NNC(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=N2)=NN1)[O-],423.15,10.1021/ja2013455
+entry94,"N,N'-((4-nitro-1H-pyrazole-3,5-diyl)bis(2,4-dihydro-3H-1,2,4-triazole-5-yl-3-ylidene))dinitramide",O=[N+](NC1=NN=C(N1)C2=NNC(C3=NNC(N[N+]([O-])=O)=N3)=NN2)[O-],424.15,10.1039/c9dt04426d
+entry95,"N,N'-((3-nitro-5-oxo-1H-1,2,4-triazole-1,4(5H)-diyl)bis(methylene))bis(N-methylnitramide)",O=[N+](C(COC1=NC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NC(OC)=N1)([N+]([O-])=O)[N+]([O-])=O)[O-],446.85,10.1039/c6ra05826d
+entry96,"N,N'-((2H-1,2,3-triazole-4,5-diyl)bis(1H-1,2,4-triazole-3,5-diyl))dinitramide",NN1C(N)=NN=C1C2=NNN=C2C3=NN=C(N)N3N,531.15,10.1016/j.cej.2020.128021
+entry97,"N,N'-((1H-pyrazole-3,5-diyl)bis(4H-1,2,4-triazole-5,3-diyl))dinitramide",O=[N+](C1=NNN=C1NC2=NN=NN2)[O-],581.15,10.1039/d1ta00109d
+entry98,"N,N'-((1,3,4-oxadiazole-2,5-diyl)bis(1,2,5-oxadiazole-4,3-diyl))dinitramide",[N-]=[N+]=NC1=NON=C1C2=NN=C(C3=NON=C3N=[N+]=[N-])O2,442.15,10.1002/anie.202014207
+entry99,"N,N'-((1,2,4,5-tetrazine-3,6-diyl)bis(1H-1,2,4-triazole-5,3-diyl))dinitramide",O=[N+](N(CN(C1=NON=C1C2=NN=NN2)[N+]([O-])=O)C3=NON=C3C4=NN=NN4)[O-],422.15,10.1016/j.molstruc.2019.127358
+entry100,"N,N'-(((1H-1,2,4-triazole-3,5-diyl)bis(methylene))bis(3,5-dinitro-1H-pyrazole-1,4-diyl))dinitramide",O=[N+](C(C([N+]([O-])=O)=NN1)=C1C2=NOC(C3=C([N+]([O-])=O)C([N+]([O-])=O)=NN3)=N2)[O-],547.15,10.1002/cplu.201900454
+entry101,"N,N'-(((1,2,4,5-tetrazine-3,6-diyl)bis(azanediyl))bis(1,2,5-oxadiazole-4,3-diyl))dinitramide",O=[N+](C1=C(C([N+]([O-])=O)=NN1)C2=NC(C3=C([N+]([O-])=O)NN=C3[N+]([O-])=O)=NN2)[O-],573.15,10.1039/d0ta09158h
+entry102,"N,N'-(((1,2,4,5-tetrazine-3,6-diyl)bis(azanediyl))bis(1,2,5-oxadiazole-4,3-diyl))bis(N-(2,2,2-trinitroethyl)nitramide)",O=[N+](OC1(O[N+]([O-])=O)COC1)[O-],366.15, 10.1039/d1cc00466b
+entry103,"N,2-dimethyl-N-(2-methyl-2H-tetrazol-5-yl)-2H-tetrazol-5-amine",CN1N=NC(NC2=NN(C)N=N2)=N1,536.15,10.1039/b811273h
+entry104,"N',2-bis(2,2,2-trinitroethyl)hydrazine-1-carbohydrazide",O=C(OCC#CCOC(N[N+]([O-])=O)=O)N[N+]([O-])=O,422.15, 10.1002/zaac.201500795
+entry105,"N',2-bis(1-amino-2,2-dinitrovinyl)hydrazine-1-carbohydrazide",O=[N+](C1=NN(CO[N+]([O-])=O)C2=C1N(CO[N+]([O-])=O)N=C2[N+]([O-])=O)[O-],481.15,10.1039/c6ra19556c
+entry106,"N',2-bis((E)-2,4,6-trinitrobenzylidene)hydrazine-1-carboximidhydrazide",N/C(NN)=C([N+]([O-])=O)\[N+]([O-])=O,397.65,10.1002/anie.201501973
+entry107,"N',2-bis((E)-2,4,6-trinitrobenzylidene)hydrazine-1-carbohydrazide",O=[N+](OCC1(CO[N+]([O-])=O)CCC1(CO[N+]([O-])=O)CO[N+]([O-])=O)[O-],465.95,10.1021/jacs.9b06961
+entry108,N-(cyanomethyl)-N-methylnitramide,O=C1N/C(N([H])C2=NNN=C21)=N/[N+]([O-])=O,515.15,10.1016/j.cej.2020.126514
+entry109,"N-(7-(dinitromethylene)octahydro-[1,2,4]triazino[6,5-e][1,2,4]triazin-3(2H)-ylidene)nitramide",O=[N+](OC1COC1)[O-],426.15, 10.1039/d1cc00466b
+entry110,"N-(6-azido-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazin-3-yl)nitramide",NC(N=N1)=NN2C1=NN=C2N[N+]([O-])=O,565.15,10.1039/c8nj05220d
+entry111,"N-(6-amino-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazin-3-yl)nitramide",O=[N+](NC1=NN=C2N=NC(NC3=NON=C3N[N+]([O-])=O)=NN21)[O-],398.15,10.1039/c9nj03636a
+entry112,"N-(6-amino-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazin-3-yl)nitramide",O=[N+](CC1=NN=C(O1)C2=NON=C2N[N+]([O-])=O)[O-],367.45,10.1016/j.cej.2021.132503
+entry113,"N-(6-((4-(nitroamino)-1,2,5-oxadiazol-3-yl)amino)-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazin-3-yl)nitramide",O=[N+](C1=NN=C(NN2N=NN=C2)N1)[O-],459.15,10.1016/j.cej.2020.124027
+entry114,"N-(5-nitro-4H-1,2,4-triazol-3-yl)-1H-tetrazol-1-amine",O=C(N1)ON=C1C2=NON=C2N[N+]([O-])=O,400.4,10.1039/c8nj04428g
+entry115,"N-(5-nitro-2H-1,2,3-triazol-4-yl)nitramide",O=[N+]([N-]N1C=[NH+]N=C1)[O-],444.15, 10.1002/slct.201803239
+entry116,"N-(5-nitro-2H-1,2,3-triazol-4-yl)-1H-tetrazol-5-amine",O=[N+](C1=NN=C([C-]1[N+]#N)[N+]([O-])=O)[O-],427.15,10.1039/c7nj00876g
+entry117,"N-(5,6-dinitro-1,3-dihydro-2H-benzo[d]imidazol-2-ylidene)nitramide",CN1N=C([N+]([O-])=O)N=N1,423.15,10.1039/b812529e
+entry118,"N-(5-(6-(5-(nitroamino)-1H-1,2,4-triazol-3-yl)-1,4-dihydro-1,2,4,5-tetrazin-3-yl)-4H-1,2,4-triazol-3-yl)nitramide",O=[N+](NC1=NNC(C2=NN=C(C3=NC(N[N+]([O-])=O)=NN3)N=N2)=N1)[O-],435.15,10.1039/c9dt04426d
+entry119,"N-(5-(5-nitro-2H-1,2,3-triazol-4-yl)-2,4-dihydro-3H-1,2,4-triazol-3-ylidene)nitramide",O=[N+](C1=CNN=C1C2=NN/C(N2)=N\[N+]([O-])=O)[O-],478.15,10.1016/j.cej.2019.122331
+entry120,"N-(5-(5-(nitromethyl)-1,3,4-oxadiazol-2-yl)-2,4-dihydro-3H-1,2,4-triazol-3-ylidene)nitramide",NC1=NNC(C2=NN=C(C[N+]([O-])=O)O2)=N1,522.75,10.1016/j.cej.2021.132503
+entry121,"N-(5-(4-nitro-1,2,5-oxadiazol-3-yl)-1H-1,2,4-triazol-3-yl)nitramide",O=[N+](C1=NON=C1C2=NN(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)C=C2[N+]([O-])=O)[O-],407.15,10.1016/j.fpc.2021.04.005
+entry122,"N-(5-(4-amino-1,2,5-oxadiazol-3-yl)-1H-1,2,4-triazol-3-yl)nitramide",NC1=NON=C1C2=NN=C(N)O2,519.15,10.1039/c5ta06898c
+entry123,"N-(5-(4-(nitroamino)-1,2,5-oxadiazol-3-yl)-1H-1,2,4-triazol-3-yl)nitramide",O=[N+](NC1=NON=C1C2=NC(C([N+]([O-])=O)[N+]([O-])=O)=NN2)[O-],364.15,10.1021/acsami.9b08363
+entry124,"N-(5-((4-amino-1,2,5-oxadiazol-3-yl)methyl)-1H-1,2,4-triazol-3-yl)nitramide",NC1=NON=C1C2=NC(N[N+]([O-])=O)=NN2,468.65,10.1002/anie.201701659
+entry125,N-(4-nitro-5-(trinitromethyl)-1H-pyrazol-3-yl)nitramide,NC1=NC(NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NO1,428.15,10.1039/c7nj01119a
+entry126,"N-(4-nitro-1,2,5-oxadiazol-3-yl)nitramide",O=[N+](NC1=NNC(C2=NON=C2N[N+]([O-])=O)=N1)[O-],401.85,10.1002/anie.201701659
+entry127,"N-(4-nitro-1,2,5-oxadiazol-3-yl)nitramide",O=[N+](NC1=NN=C(N1)C2=NNC(C3=NN=C(N[N+]([O-])=O)N3)=C2)[O-],415.15,10.1039/d1nj03433b
+entry128,"N-(4H-1,2,4-triazol-4-yl)-N-(2,2,2-trinitroethyl)nitramide",CN(C(C([N+]([O-])=O)=NN1)=C1[N+]([O-])=O)[N+]([O-])=O,451.15,10.1039/c2ta01359b
+entry129,"N-(4,6-diazido-1,3,5-triazin-2-yl)nitramide",NC1=NN(N)N=C1[N+]([O-])=O,485.25,10.1039/c6cc03833f
+entry130,"N-(4-(5-oxo-4,5-dihydro-1,2,4-oxadiazol-3-yl)-1,2,5-oxadiazol-3-yl)nitramide",CC1=NC(C2=NON=C2N[N+]([O-])=O)=NO1,432.15,10.1039/c6nj03333d
+entry131,"N-(4-(5-methyl-1,2,4-oxadiazol-3-yl)-1,2,5-oxadiazol-3-yl)nitramide",CC1=NC(C2=NON=C2N([N+]([O-])=O)CC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NO1,445.15,10.1039/c6nj03333d
+entry132,"N-(4-(5-methyl-1,2,4-oxadiazol-3-yl)-1,2,5-oxadiazol-3-yl)-N-(2,2,2-trinitroethyl)nitramide",NC1=NC(C2=NON=C2N[N+]([O-])=O)=NO1,384.15, 10.1021/acs.cgd.9b00997
+entry133,"N-(4-(5-amino-1,2,4-oxadiazol-3-yl)-1,2,5-oxadiazol-3-yl)nitramide",C1(NN2N=NN=C2)=NN=CN1N3N=NN=C3,456.15,10.1016/j.cej.2020.124027
+entry134,"N-(4-(5-(nitromethyl)-1,3,4-oxadiazol-2-yl)-1,2,5-oxadiazol-3-yl)nitramide",NC1=[NH+]N=C(O1)C2=NON=C2[N-][N+]([O-])=O,405.15,10.1039/c5ta06898c
+entry135,"N-(4-(3-(trinitromethyl)-1H-1,2,4-triazol-5-yl)-1,2,5-oxadiazol-3-yl)nitramide",O=[N+](NC1=NNC=N1)[O-],481.15, 10.1002/slct.201803239
+entry136,"N-(4-(3-(dinitromethyl)-1H-1,2,4-triazol-5-yl)-1,2,5-oxadiazol-3-yl)nitramide",O=[N+](NC1=NON=C1C2=NC(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NN2)[O-],340.15,10.1021/acsami.9b08363
+entry137,"N-(4-(1H-tetrazol-1-yl)-4H-1,2,4-triazol-3-yl)-1H-tetrazol-1-amine",O=C(NN1C=NN=C1N[N+]([O-])=O)C2=NN=C(N[N+]([O-])=O)N2,478.45,10.1039/d1nj03551g
+entry138,"N-(3-nitro-1H-1,2,4-triazol-5-yl)nitramide",N#CC1=NNC(N[N+]([O-])=O)=N1,403.15, 10.1002/chem.201301339
+entry139,"N-(3-nitro-1-(trinitromethyl)-1H-1,2,4-triazol-5-yl)nitramide",NC(N1N[N+]([O-])=O)=NN=C1C2=NNN=C2[N+]([O-])=O,494.15,10.1016/j.enmf.2021.05.002
+entry140,"N-(3-cyano-1H-1,2,4-triazol-5-yl)nitramide",O/N=C(N=[N+]=[N-])/C1=NNC(N[N+]([O-])=O)=N1,339.15, 10.1002/chem.201301339
+entry141,"N-(3-azido-1H-1,2,4-triazol-5-yl)nitramide",O=[N+](C1=NNC(N=[N+]=[N-])=N1)[O-],447.15, 10.1002/zaac.201300203
+entry142,"N-(3-amino-5-(5-nitro-2H-1,2,3-triazol-4-yl)-4H-1,2,4-triazol-4-yl)nitramide",O=C(NN1C=NN=C1N)C2=NN=C(N[N+]([O-])=O)N2,517.75,10.1039/d1nj03551g
+entry143,"N-(3-amino-4H-1,2,4-triazol-4-yl)-5-(nitroamino)-4H-1,2,4-triazole-3-carboxamide",O=[N+](C1=C(C([N+]([O-])=O)=NN1)NC2=NN=NN2)[O-],552.15,10.1039/c6ta07740d
+entry144,"N-(3,5-dinitro-1H-pyrazol-4-yl)-N-methylnitramide",[O-]/[N+](C1=NON=C1N[N+]([O-])=O)=N\C,414.15,10.1039/c6ta08055c
+entry145,"N-(3,5-dinitro-1H-pyrazol-4-yl)-1H-tetrazol-5-amine",O=[N+](NC1=C([N+]([O-])=O)C([N+]([O-])=O)=NN1)[O-],408.15,10.1021/jacs.5b00714
+entry146,"N-(3,4-dinitro-1H-pyrazol-5-yl)nitramide",O=[N+](C1=NN(CC(N/2)=NOC2=N\[N+]([O-])=O)C([N+]([O-])=O)=C1[N+]([O-])=O)[O-],443.05,10.1021/acs.cgd.0c00016
+entry147,"N-(3-(trinitromethyl)-1H-1,2,4-triazol-5-yl)nitramide",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NNC=C1[N+]([O-])=O)[O-],427.35,10.1039/c8dt04712j
+entry148,"N-(3-(5-amino-4-nitro-1H-pyrazol-1-yl)-4H-1,2,4-triazol-4-yl)nitramide",NC1=C([N+]([O-])=O)C([N+]([O-])=O)=NN1CC2=NO/C(N2)=N/[N+]([O-])=O,474.15,10.1039/d1dt02093e
+entry149,"N-(3-(4-(nitro(2,2,2-trinitroethyl)amino)-1,2,5-oxadiazol-3-yl)-1H-1,2,4-triazol-5-yl)-N-(2,2,2-trinitroethyl)nitramide",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)CNC1=NC(C2=NON=C2NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NN1)[O-],441.16,10.1002/chem.201801597
+entry150,"N-(3-(1-hydroxy-1H-tetrazol-5-yl)-1H-1,2,4-triazol-5-yl)nitramide",O=[N+](/N=C(N1)\NN=C1C2=NN=NN2)[O-],488.15,10.1002/asia.201300063
+entry151,"N-(3-((5-amino-2H-tetrazol-2-yl)methyl)-1H-1,2,4-triazol-5-yl)nitramide",NC1=NN=NN1CC2=NNC(N[N+]([O-])=O)=N2,477.15,10.1039/c6ta05057c
+entry152,"N-(3-((5-amino-1H-tetrazol-1-yl)methyl)-1H-1,2,4-triazol-5-yl)nitramide",[N-]=[N+]=NC1=C([N+]([O-])=O)N=C2C3=NC([N+]([O-])=O)=C(N=[N+]=[N-])N3N=NN21,384.15, 10.1002/ejoc.201800347
+entry153,"N-(3-((5-(nitroamino)-1H-tetrazol-1-yl)methyl)-1H-1,2,4-triazol-5-yl)nitramide",NC(N=N1)=NN1CC2=NNC(N[N+]([O-])=O)=N2,491.15,10.1039/c6ta05057c
+entry154,"N-(3-((1H-tetrazol-1-yl)amino)-4H-1,2,4-triazol-4-yl)nitramide",NC1=NC(N)=NC2=C([N+]([O-])=O)C(N[N+]([O-])=O)=NN21,521.15,10.1021/acs.orglett.9b04642
+entry155,"N-(2-methyl-5-nitro-2H-1,2,3-triazol-4-yl)nitramide",[O-]/[N+](C/[N+]([O-])=N/[N+]([O-])=O)=N\C(C)(C)C,361.15, 10.1002/ejoc.201801533
+entry156,N-(2-hydrazineyl-2-oxoethyl)-N-methylnitramide,CN(CC(NN)=O)[N+]([O-])=O,389.15,10.1002/asia.201601148
+entry157,"N-(2,4-diamino-8-nitropyrazolo[1,5-a][1,3,5]triazin-7-yl)nitramide",O=[N+](C1=NN2C(N(N[N+]([O-])=O)C3=C([N+]([O-])=O)C([N+]([O-])=O)=NN3C2)=C1[N+]([O-])=O)[O-],390.15,10.1002/anie.201704687
+entry158,"N-(2,4,6-trinitrophenyl)-1H-tetrazol-5-amine",ON1N=NC([N+]([O-])=O)=N1,393.15,10.1021/ja106892a
+entry159,"N-(2,3,5,6-tetranitro-4H,9H-dipyrazolo[1,5-a:5',1'-d][1,3,5]triazin-4-yl)nitramide",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)CNC1=NN=NN1)[O-],423.15,10.1002/chem.201300994
+entry160,"N'-(2,2,2-trinitroethyl)isonicotinohydrazide",NC1=NN=NN1O,378.15,10.1002/chem.201203493
+entry161,"N-(2,2,2-trinitroethyl)-4H-1,2,4-triazol-4-amine",CN(C1=C2NN=[N+]1[O-])N=C2[N+]([O-])=O,374.15,10.1039/c2ta01359b
+entry162,"N-(2,2,2-trinitroethyl)-4-(5-((2,2,2-trinitroethyl)amino)-1H-1,2,4-triazol-3-yl)-1,2,5-oxadiazol-3-amine",O=[N+](C1=C(N[N+]([O-])=O)C([N+]([O-])=O)=NN1CCN2N=C([N+]([O-])=O)C(N[N+]([O-])=O)=C2[N+]([O-])=O)[O-],353.15,10.1002/chem.201404991
+entry163,"N-(2,2,2-trinitroethyl)-4-(((trinitromethyl)amino)methyl)-1,2,5-oxadiazol-3-amine",NC1=NON=C1C2=NO[N+]([O-])=C2C3=NON=C3N,536.32, 10.16572/j.issn1672-2191.201701008
+entry164,"N-(2,2,2-trinitroethyl)-1H-tetrazol-5-amine",O=[N+](C1=CN(CCN2N=NN/C2=N\[N+]([O-])=O)N=C1)[O-],409.15,10.1039/c6ta02387h
+entry165,"N-(2,2,2-trinitroethyl)-1H-tetrazol-1-amine",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)CNC1=NN=NN1CCN(CCN2N=NN=C2NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)CCN3C(NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NN=N3)[O-],414.15,10.1002/chem.201300994
+entry166,"N-(2,2,2-trinitroethyl)-1H-1,2,4-triazol-3-amine",O=[N+](C1=NON=C1C([N+]([O-])=O)[N+]([O-])=O)[O-],331.15,10.1039/d0ta01538e
+entry167,"N-(1-methyl-3-nitro-1H-1,2,4-triazol-5-yl)nitramide",CN1N=NN=C1N([N+]([O-])=O)CN([N+]([O-])=O)C,406, 10.1002/zaac.200900521
+entry168,"N-(1H-1,2,4-triazol-3-yl)nitramide",CC1=[N+]([O-])ON=C1,453.15,10.3390/molecules25245836
+entry169,"N-(1-amino-3,5-dinitro-1H-pyrazol-4-yl)-N-methylnitramide",CN(C(C([N+]([O-])=O)=NN1N)=C1[N+]([O-])=O)[N+]([O-])=O,449.15,10.1039/c2ta01359b
+entry170,"N-(1,4-dihydro-5H-tetrazol-5-ylidene)nitramide",O=[N+](/N=C1NN=NN\1)[O-],395.15,10.1002/zaac.200800430
+entry171,"N-(1,4-dihydro-5H-tetrazol-5-ylidene)nitramide",O=[N+](C1=NNC(N[N+]([O-])=O)=N1)[O-],408.15,10.1002/ejic.201101416
+entry172,"N-(1,3-bis(nitrooxy)-2-((nitrooxy)methyl)propan-2-yl)-N-nitroglycine",[N-]=[N+]=NC1=NON=C1N([N+]([O-])=O)CN([N+]([O-])=O)C2=NON=C2N=[N+]=[N-],424.65,10.1039/D1NJ04188F
+entry173,"N-(1-((1H-tetrazol-5-yl)methyl)-3-nitro-1H-1,2,4-triazol-5-yl)nitramide",O=[N+](/N=C1N(CC2=NN=NN2)N=NN/1)[O-],451.15,10.1039/c7ta05394k
+entry174,"N-([1,2,4]triazolo[4,3-b][1,2,4,5]tetrazin-6-yl)nitramide",OC1=NN2C=NN=C2N=N1,505.15,10.1039/d1nj00924a
+entry175,"N-([1,2,4]triazolo[4,3-b][1,2,4,5]tetrazin-6-yl)-4-nitro-1,2,5-oxadiazol-3-amine",O=[N+](C1=NON=C1NC(N=N2)=NN3C2=NN=C3)[O-],502.25,10.1002/asia.201801145
+entry176,"N-([1,2,4]triazolo[4,3-b][1,2,4,5]tetrazin-6-yl)-3-nitro-1,2,4-oxadiazol-5-amine",O=[N+](NC1=NN=C2N1N=CN=N2)[O-],405.15,10.1039/c9ta01717h
+entry177,"N-([1,2,4]triazolo[4,3-b][1,2,4,5]tetrazin-3-yl)nitramide",N/C(NN=C)=N/[N+]([O-])=O,443.33,10.11943/CJEM2018184
+entry178,"N-((nitro((nitro(4-nitro-1,2,5-oxadiazol-3-yl)amino)methyl)amino)methyl)-N-(4-nitro-1,2,5-oxadiazol-3-yl)nitramide",O=[N+](C1=CC([N+]([O-])=O)=C(/N=N/C2([N+]([O-])=O)CCCCC2)C=C1)[O-],437.32,10.1016/j.molstruc.2005.07.024
+entry179,"N-((nitro((nitro((3,4,5-triiodo-1H-pyrazol-1-yl)methyl)amino)methyl)amino)methyl)-N-((3,4,5-triiodo-1H-pyrazol-1-yl)methyl)nitramide",IC1=C(I)N=C(I)N1CN([N+]([O-])=O)CN([N+]([O-])=O)CN([N+]([O-])=O)CN2C(I)=C(I)N=C2I,507.45, 10.1021/acs.inorgchem.7b02277
+entry180,"N-((nitro((nitro((2,4,5-triiodo-1H-imidazol-1-yl)methyl)amino)methyl)amino)methyl)-N-((2,4,5-triiodo-1H-imidazol-1-yl)methyl)nitramide",O=[N+](C(N(C(C(N=C1)=NN1[N+]([O-])=O)=N2)N=C2[N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)[O-],409.15,10.1021/acsaem.0c00724
+entry181,N-((methyl(nitro)amino)methyl)-N-(2-methyl-2H-tetrazol-5-yl)nitramide,CN1N=C([N+]([O-])=O)C(N[N+]([O-])=O)=N1,385.15,10.1039/c2ta00136e
+entry182,N-((methyl(nitro)amino)methyl)-N-(2-((methyl(nitro)amino)methyl)-2H-tetrazol-5-yl)nitramide,CC1=C([N+]([O-])=N[N+]([O-])=O)C=C([N+]([O-])=N[N+]([O-])=O)C=C1,412.65,10.1039/c4ta04716h
+entry183,N-((methyl(nitro)amino)methyl)-N-(1-methyl-1H-tetrazol-5-yl)nitramide,CN1N=NN=C1NCN([N+]([O-])=O)C,465, 10.1002/zaac.200900521
+entry184,"N-((5-amino-3-nitro-1H-1,2,4-triazol-1-yl)methyl)-N-methylnitramide",CN([N+]([O-])=O)CN1N=NC2=CC([N+]([O-])=O)=CC([N+]([O-])=O)=C21,452.15,10.1002/ejic.201501126
+entry185,N-((5-amino-1H-tetrazol-1-yl)methyl)-N-methylnitramide,O=[N+](/N=C1NN=NN\1CCO[N+]([O-])=O)[O-],401.15,10.1002/chem.200802203
+entry186,"N-((5,7-dinitro-1H-benzo[d][1,2,3]triazol-1-yl)methyl)-N-methylnitramide",O=[N+](C1=CC=C(N2N=NN=C2)C=C1)[O-],467.15, 10.1039/c8ta06895j
+entry187,"N-((4-amino-3,5-dinitro-1H-pyrazol-1-yl)methyl)-N-methylnitramide",CN([N+]([O-])=O)C[N+]1=NN([O-])C2=CC([N+]([O-])=O)=CC([N+]([O-])=O)=C21,420.15,10.1002/ejic.201501126
+entry188,"N-((4,5-dinitro-1H-imidazol-1-yl)methyl)-N-methylnitramide",O=[N+](C1=CC=CC(N2N=NN=C2)=C1)[O-],424.15, 10.1039/c8ta06895j
+entry189,"N-((3,5-dinitro-1H-pyrazol-1-yl)methyl)-N-methylnitramide",N=C(N[N+]([O-])=O)NC(C([N+]([O-])=O)=NN1)=C1[N+]([O-])=O,506.15,10.1039/c2ta01359b
+entry190,"N-((3,5-dinitro-1H-1,2,4-triazol-1-yl)methyl)-N-methylnitramide",CN([N+]([O-])=O)CN1N=C([N+]([O-])=O)C([N+]([O-])=O)=C1,507.15,10.1039/c6nj00202a
+entry191,"N-((3,4-dinitro-1H-pyrazol-1-yl)methyl)-N-methylnitramide",CN([N+]([O-])=O)CN1C(N2C=C([N+]([O-])=O)C([N+]([O-])=O)=N2)=C([N+]([O-])=O)C=N1,537.15,10.1039/c6nj00202a
+entry192,"N-((2,4-dinitro-1H-imidazol-1-yl)methyl)-N-methylnitramide",O=[N+](C(CNN1N=NN=C1)([N+]([O-])=O)[N+]([O-])=O)[O-],389.15,10.1039/c2dt30684k
+entry193,N-((1H-tetrazol-1-yl)methyl)-N-methylnitramide,CN([N+]([O-])=O)CN(N=NN/1)C1=N\[N+]([O-])=O,393, 10.1002/zaac.200900521
+entry194,"methyl 2-(4,5-dinitro-1H-imidazol-1-yl)acetate",OC1C(O)N/C(N1)=C([N+]([O-])=O)/[N+]([O-])=O,448.81,10.1007/s10973-010-1244-4
+entry195,"hexane-1,2,6-triyl tris(2-azidoacetate)",CC(C)(C)N1CN/C(NC1)=C([N+]([O-])=O)\[N+]([O-])=O,453.85,10.1002/anie.201501973
+entry196,"hexane-1,2,3,4,5,6-hexayl hexanitrate",O=[N+](OC(C(C(C(CO[N+]([O-])=O)O[N+]([O-])=O)O[N+]([O-])=O)O[N+]([O-])=O)CO[N+]([O-])=O)[O-],449.35,10.1016/j.tca.2013.05.032
+entry197,"hexane-1,2,3,4,5,6-hexayl hexanitrate",O=C(C1=CC=NC=C1)NNCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,385.85,10.1039/c4ra03885a
+entry198,"ethyl N-nitro-N-(2,2,2-trinitroethyl)glycinate",CCOC(CN([N+]([O-])=O)C(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O)=O,463.15,10.1002/chem.201301190
+entry199,"ethyl N-nitro-N-((2,2,2-trinitroethoxy)carbonyl)glycinate",CCOC(CNCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O,396.15,10.1002/chem.201301190
+entry200,"ethyl (4-nitro-1,2,5-oxadiazol-3-yl)carbamate",O=[N+](C([N+]([O-])=O)C1=C([N+]([O-])=O)NN=C1)[O-],390.15,10.1039/c9dt04235k
+entry201,"ethyl (2,2,2-trinitroethyl)glycinate",CCOC(CNC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O)=O,450.15,10.1002/chem.201301190
+entry202,"ethyl ((2,2,2-trinitroethoxy)carbonyl)glycinate",O=C(C(NNCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O)NNCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,421.75,10.1039/c4ra03885a
+entry203,"ethane-1,2-diyl bis(nitrocarbamate)",O=[N+](OC(CO[N+]([O-])=O)C(O[N+]([O-])=O)CO[N+]([O-])=O)[O-],457.95,10.1016/j.tca.2013.05.032
+entry204,"dimethyl 2,2'-(triaz-1-ene-1,3-diylbis(2H-tetrazole-5,2-diyl))(E)-diacetate",OCCN(N=N1)N=C1N/N=N/C2=NN(CCO)N=N2,472.15,10.1016/j.cclet.2017.04.006
+entry205,"dimethyl 2,2'-(1,2-diazidoethane-1,2-diylidene)(2Z,2'Z)-bis(hydrazine-1-carboxylate)",O=C(OC)NN1N=NN=C1C2=NN=NN2NC(OC)=O,478.15,10.1002/anie.201404790
+entry206,"dimethyl 2,2'-(1,2-diazidoethane-1,2-diylidene)(2Z,2'Z)-bis(hydrazine-1-carboxylate)",O=[N+](NC1=NNC(C2=NON=C2/N=N\C3=NON=C3C4=NC(N[N+]([O-])=O)=NN4)=N1)[O-],447.45,10.1002/anie.201701659
+entry207,"dimethyl 1H,1'H-[5,5'-bitetrazole]-1,1'-diyldicarbamate",O=[N+](OCC(O[N+]([O-])=O)COCC(O[N+]([O-])=O)CO[N+]([O-])=O)[O-],451.15,10.1080/07370652.2015.1066463
+entry208,"diethyl 1,1'-(ethane-1,2-diyl)bis(1H-tetrazole-5-carboxylate)",[N-]=[N+]=NC1=C([N+]([O-])=O)C([N+]([O-])=O)=NN1CCN2N=C([N+]([O-])=O)C([N+]([O-])=O)=C2N=[N+]=[N-],385.15,10.1002/chem.201404991
+entry209,"diethyl (1,2,5-oxadiazole-3,4-diyl)bis(nitrocarbamate)",[O-][N+](ON=C1/N=N/C2=NO[N+]([O-])=C2C#N)=C1C#N,441.15,10.3390/molecules25245836
+entry210,"di(2'H-[1,5'-bitetrazol]-5-yl)amine",O/N=C(C1=NN=NN1)/C2=NN=NN2,562.15,10.1039/c8nj03472a
+entry211,di(1H-tetrazol-5-yl)methanone oxime,O/N=C(C1=NN=NN1)/C2=NN=NN2,561.85,10.1039/c3ta13425c
+entry212,di(1H-tetrazol-5-yl)methanone oxime,NC(C1=NN=NN1)C2=NN=NN2,513.15,10.1039/c8nj03472a
+entry213,di(1H-tetrazol-5-yl)methanamine,[H][C@]12CCCC[C@@]1([H])N=C(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N2[N+]([O-])=O,386.42,10.1039/c6ta08831g
+entry214,di(1H-tetrazol-5-yl)amine,C1(NC2=NN=NN2)=NN=NN1,523.15,10.1039/b811273h
+entry215,di(1H-tetrazol-5-yl)amine,O=[N+](C1=CN([N+]([O-])=O)N=C1C2=NN=C(C3=NN=C(C4=NN([N+]([O-])=O)C=C4[N+]([O-])=O)O3)O2)[O-],459.15,10.1039/d0nj00518e
+entry216,"cyclobutane-1,1,3,3-tetrayltetrakis(methylene) tetranitrate",O=[N+](OCC(CO[N+]([O-])=O)(CO[N+]([O-])=O)CO[N+]([O-])=O)[O-],438.15,10.1021/acs.inorgchem.6b00602
+entry217,"cyclobutane-1,1,2,2-tetrayltetrakis(methylene) tetranitrate",O=[N+](OCC1(CO[N+]([O-])=O)CC(CO[N+]([O-])=O)(CO[N+]([O-])=O)C1)[O-],469.35,10.1021/jacs.9b06961
+entry218,"butane-1,2,3,4-tetrayl tetranitrate",O=[N+](OCC(CO[N+]([O-])=O)(COCC(CO[N+]([O-])=O)(CO[N+]([O-])=O)CO[N+]([O-])=O)CO[N+]([O-])=O)[O-],464.75,10.1016/j.tca.2013.05.032
+entry219,"butane-1,2,3,4-tetrayl tetrakis(nitrocarbamate)",O=C(OCC(COC(N[N+]([O-])=O)=O)(COC(N[N+]([O-])=O)=O)COC(N[N+]([O-])=O)=O)N[N+]([O-])=O,470.15, 10.1002/zaac.202000387
+entry220,"but-2-yne-1,4-diyl bis(nitrocarbamate)",ON1N=NN=C1NNC2=NN=NN2O,393.15,10.1002/chem.201203493
+entry221,"bis(5-(trinitromethyl)-1,3,4-oxadiazol-2-yl)methanone",[O-][N+](ON=C1[N+]([O-])=O)=C1C2=NOC(/N=N/C3=NC(C4=[N+](ON=C4[N+]([O-])=O)[O-])=NO3)=N2,453.15,10.1039/c9nj00955h
+entry222,"bis(4,5-dinitro-1H-pyrazol-1-yl)methane",NC1=NON=C1NCNC2=NON=C2N,534.85,10.1016/j.molstruc.2020.127849
+entry223,"bis(4-(dinitromethylene)-1,3,5-triazinan-1-yl)methane",O=[N+](/C([N+]([O-])=O)=C1NCN(CC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)CN\1)[O-],410.15,10.1039/c9nj01932d
+entry224,"bis(3-nitro-1-(trinitromethyl)-1H-1,2,4-triazol-5-yl)methanone",O=[N+](C1=CC([N+]([O-])=O)=NN1CN2N=C([N+]([O-])=O)C=C2[N+]([O-])=O)[O-],603.15,10.1002/ejic.201800781
+entry225,"bis(3,5-dinitro-1H-pyrazol-4-yl)methane",[O-][N+]1=C(C([N+]([O-])=O)=NO1)C2=[N+]([O-])ON=C2[N+]([O-])=O,419.15,10.1021/acsaem.0c01162
+entry226,"bis(3,5-dinitro-1H-pyrazol-1-yl)methane",IC1=NN(CN2C(I)=C([N+]([O-])=O)C(I)=N2)C(I)=C1[N+]([O-])=O,593.15, 10.1021/acs.inorgchem.8b01600
+entry227,"bis(3,5-diiodo-4-nitro-1H-pyrazol-1-yl)methane",O=[N+](C1=C([N+]([O-])=O)C=NN1CN2N=CC([N+]([O-])=O)=C2[N+]([O-])=O)[O-],592.15,10.1002/ejic.201800781
+entry228,"bis(3,4,5-trinitro-1H-pyrazol-1-yl)methane",IC1=NN(CN2C(I)=C(I)C(I)=N2)C(I)=C1I,624.15, 10.1021/acs.inorgchem.8b01600
+entry229,"bis(3,4,5-triiodo-1H-pyrazol-1-yl)methane",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NN(CN2C=NC(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=N2)C=N1)[O-],420.15, 10.1021/acs.orglett.8b04114
+entry230,"bis(3-(trinitromethyl)-1H-1,2,4-triazol-1-yl)methane",O=[N+](C([N+]([O-])=O)C1=NN(CN2C=NC(C([N+]([O-])=O)[N+]([O-])=O)=N2)C=N1)[O-],372.15, 10.1021/acs.orglett.8b04114
+entry231,"bis(3-(dinitromethyl)-1H-1,2,4-triazol-1-yl)methane",O=[N+](OCC(CO[N+]([O-])=O)(N(CCO[N+]([O-])=O)CCO[N+]([O-])=O)CO[N+]([O-])=O)[O-],381.15,10.1002/ejoc.201700434
+entry232,bis(2-methyl-2H-tetrazol-5-yl)amine,ON1N=NC(C2=NN(O)N=N2)=N1,438.15,10.1016/j.poly.2012.12.015
+entry233,"bis(2,4,5-triiodo-1H-imidazol-1-yl)methane",O=C(NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,415.15,10.1039/c7nj01119a
+entry234,"bis(2,2,2-trinitroethyl)amine",O=C(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)C1=C([N+]([O-])=O)C=C(C(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O)C([N+]([O-])=O)=C1,465.85,10.1039/c6nj02198k
+entry235,"bis(2,2,2-trinitroethyl) oxalate",O=C(NC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O)OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,456.15, 10.1002/ejic.201600357
+entry236,"bis(2,2,2-trinitroethyl) iminodicarbonate",CN1N=NN=C1N/N=N/C2=NN=NN2C,455.15,10.1016/j.poly.2008.09.015
+entry237,"bis(2,2,2-trinitroethyl) 3,3'-(oxalylbis(nitroazanediyl))dipropionate",OC(CCN([N+]([O-])=O)C(C(N([N+]([O-])=O)CCC(O)=O)=O)=O)=O,461.15,10.1002/slct.202102271
+entry238,"bis(2,2,2-trinitroethyl) 2,5-dinitroterephthalate",O=C(C(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O)OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,459.15, 10.1002/ejic.201600357
+entry239,"bis(2,2,2-trinitroethoxy)methane",O=[N+](C(COCOCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)[O-],468.15, 10.1002/zaac.201100340
+entry240,"bis(2,2,2-trinitroethoxy)methane",O=C(NC(N=[N+]=[N-])=O)OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,400.15, 10.1002/ejic.201600357
+entry241,"adamantane-1,3,5,7-tetrayl tetranitrate",NC1=C([N+]([O-])=O)C2=NN=NN2N=C1N,566.15,10.1021/jacs.0c00161
+entry242,"adamantane-1,3,5,7-tetrayl tetrakis(nitrocarbamate)",O=[N+](OC1(CC2(O[N+]([O-])=O)C3)CC(C2)(O[N+]([O-])=O)CC3(O[N+]([O-])=O)C1)[O-],446.15, 10.1002/cplu.201700542
+entry243,"adamantane-1,3,5,7-tetrayl tetrakis(nitro(triaminomethyl)carbamate)",O=C(OC1(CC2(OC(N(C(N)(N)N)[N+]([O-])=O)=O)C3)CC(C2)(OC(N(C(N)(N)N)[N+]([O-])=O)=O)CC3(OC(N(C(N)(N)N)[N+]([O-])=O)=O)C1)N(C(N)(N)N)[N+]([O-])=O,488.15, 10.1002/cplu.201700542
+entry244,"8-nitrotetrazolo[1,5-b]pyridazine-6,7-diamine",[O-][N+]1=C2C(N3C(C([N+]([O-])=O)=C2)=NN=N3)=NO1,433.15,10.1080/07370650590936424
+entry245,"8-nitropyrazolo[1,5-a][1,3,5]triazine-2,4,7-triamine",NC1=NC(C2=NON=C2N)=NN1,518.15, 10.1021/acs.orglett.8b03639
+entry246,"8-nitro-4-oxo-4,6-dihydropyrazolo[5,1-d][1,2,3,5]tetrazine 2-oxide",[O-][N+]1=C2C(/N=N\C3=NO[N+]([O-])=C3C4=NO[N+]([O-])=C24)=NO1,434.25,10.1039/c8ta02274g
+entry247,"7-nitro-7H-imidazo[4',5':5,6]benzo[1,2-c:3,4-c']bis([1,2,5]oxadiazole) 3,4-dioxide",[O-]/[N+](C1=C(N)N2C(N=N1)=NC([N+]([O-])=O)=N2)=N\[N+]([O-])=O,427.15,10.1002/ejoc.201900314
+entry248,"7-nitro-3-(1H-tetrazol-5-yl)-[1,2,4]triazolo[5,1-c][1,2,4]triazin-4-amine",ON1C2=NON=C2C3=NO[N+]([O-])=C3C4=NON=C14,433.75,10.3389/fchem.2019.00559 
+entry249,"7-nitro-[1,2,5]oxadiazolo[3,4-c]pyridazin-6-amine",NC1=[N+]([O-])N=CN=[N+]1[O-],551.15,10.1021/acs.joc.9b02484
+entry250,"7-hydroxy-7H-tris([1,2,5]oxadiazolo)[3,4-b:3',4'-d:3'',4''-f]azepine 1-oxide",[O-][N+]1=C2C3=[N+]([O-])ON=C3C(N=CN4)=C4C2=NO1,472.45,10.1039/c6dt02438f
+entry251,"7H-imidazo[4',5':5,6]benzo[1,2-c:3,4-c']bis([1,2,5]oxadiazole) 3,4-dioxide",NC1=C([N+]([O-])=O)C2=NN=C([N+]([O-])=O)N2N=C1N=[N+]=[N-],490.15,10.1016/j.cej.2021.129635
+entry252,"7H-[1,2,4]triazolo[4,3-b][1,2,4]triazole-3,7-diamine",CC1=NN2C(N1N)=NN=C2N,562.15,10.1016/j.enmf.2020.11.004
+entry253,"7H-[1,2,4]triazolo[4,3-b][1,2,4]triazole-3,6,7-triamine",NN1C2=NN=C(N)N2N=C1N,524.15,10.1039/c5ta01329a
+entry254,"7H-[1,2,4]triazolo[4,3-b][1,2,4]triazole-3,6,7-triamine",NN1C2=NN=C(N)N2N=C1N,518.15,10.1002/chem.201500982
+entry255,"7H-[1,2,4]triazolo[4,3-b][1,2,4]triazole-3,6,7-triamine",O=[N+](NC1=NON=C1NC2=NN=C(NC3=NON=C3N[N+]([O-])=O)N=N2)[O-],422.15,10.1021/acsami.0c08526
+entry256,"7-amino-4,6-dinitro-1H-benzo[d][1,2,3]triazol-3-ium-1-olate",NC1=C([N+]([O-])=O)C=C([N+]([O-])=O)C(N2C3=NON=C3C4=NON=C4C5=NON=C25)=C1[N+]([O-])=O,601.15,10.1021/acsaem.0c01181
+entry257,"7-amino-1H-[1,2,3]triazolo[4,5-d][1,2,3]triazine 6-oxide",NC1=[N+]([O-])N=NC2=C1N=CN2,500.15,10.1021/acsaem.9b01889
+entry258,"7,7-dinitro-1,5-dioxocane-2,4-dione",[O-]/[N+](C1=NN(CC#N)N=N1)=N\C2=NN(CC#N)N=N2,455.15, 10.1039/c7nj02724a
+entry259,"7-(3-amino-2,4,6-trinitrophenyl)-7H-tris([1,2,5]oxadiazolo)[3,4-b:3',4'-d:3'',4''-f]azepine 1-oxide",NC1=C([N+]([O-])=O)C(N)=C([N+]([O-])=O)C(N2C3=NON=C3C4=NON=C4C5=NON=C25)=C1[N+]([O-])=O,563.15,10.1021/acsaem.0c01181
+entry260,"7-(3,5-diamino-2,4,6-trinitrophenyl)-7H-tris([1,2,5]oxadiazolo)[3,4-b:3',4'-d:3'',4''-f]azepine 1-oxide",O=[N+](C1=CC([N+]([O-])=O)=CC([N+]([O-])=O)=C1N2C3=NON=C3C4=NON=C4C5=NON=C25)[O-],606.15,10.1021/acsaem.0c01181
+entry261,"7-(2,4,6-trinitrophenyl)-7H-tris([1,2,5]oxadiazolo)[3,4-b:3',4'-d:3'',4''-f]azepine 1-oxide",[O-][N+]1=C([N+]([O-])=O)C2=NON=C2N1,448.15,10.1002/slct.201700810
+entry262,"7-(2,4,6-trinitrophenyl)-7H-tris([1,2,5]oxadiazolo)[3,4-b:3',4'-d:3'',4''-f]azepine",[O-][N+]1=C2C3=NON=C3N(C4=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C4[N+]([O-])=O)C5=NON=C5C2=NO1,590.15,10.1021/acsaem.0c01181
+entry263,"6-nitro-4H-pyrazolo[3,4-c][1,2,5]oxadiazole 5-oxide",O=[N+](NC(N=N1)=NN2C1=NN=C2)[O-],421.15,10.1021/jacs.8b09519
+entry264,"6-nitro-1,2,4-triazine-3,5-diamine",NC1=N[N+]([O-])=CC(N)=C1[N+]([O-])=O,598.35,10.11943/CJEM2019100
+entry265,"6-methyl-7H-[1,2,4]triazolo[4,3-b][1,2,4]triazole-3,7-diamine",NC(N1N2C(N)=C([N+]([O-])=O)C1=O)=C([N+]([O-])=O)C2=O,601.95,10.3390/molecules24234324 
+entry266,"6-guanidino-3-nitro-1,2,4,5-tetrazine 1,5-dioxide",O=[N+](C([N+]([O-])=O)C1=NNC([N+]([O-])=O)=N1)[O-],360.15,10.1021/ja2013455
+entry267,"6-azido-8-nitrotetrazolo[1,5-b]pyridazin-7-amine",O=C1NC(C2=NON=C2/N=N\C3=NON=C3C4=NOC(N4)=O)=NO1,588.9,10.1039/c8nj04428g
+entry268,"6-azido-3-nitro-[1,2,3]triazolo[1,5-b][1,2,4]triazin-5-amine",NC1=NC2=C([N+]([O-])=O)N=NN2N=C1N,529.15,10.1039/d1ta00109d
+entry269,"6-azido-3,8-dinitro-[1,2,4]triazolo[4,3-b]pyridazin-7-amine",[O-]N1C2=C(N)C([N+]([O-])=O)=CC([N+]([O-])=O)=C2[NH+]=N1,493.15,10.1002/chem.201502812
+entry270,"6-azido-1,2,4,5-tetrazin-3-amine",NC1=NN(C(N)=N)C(N)=C1[N+]([O-])=O,473.15,10.1039/c9dt03138c
+entry271,"6-azido-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazin-3-amine",NC1=NN=C2N=NC(N=[N+]=[N-])=NN21,438.15,10.1039/c9ta01717h
+entry272,"6-aminotetrazolo[1,5-b][1,2,4,5]tetrazine 5-oxide",O=C1N=NC(NNC(N)=N)=NN1,497.02,10.14077/j.issn.1007-7812.202007029
+entry273,"6-amino-7-nitro-[1,2,5]oxadiazolo[3,4-c]pyridazine 4-oxide",NC1=C([N+]([O-])=O)C2=NON=C2N=N1,459.15,10.1002/chem.201703930
+entry274,"6-amino-3-nitro-1,2,4,5-tetrazine 1,5-dioxide",[O-]C1=C(C(N)=C(C=C1[N+]#N)[N+]([O-])=O)[N+]([O-])=O,443.15,10.1002/zaac.201500703
+entry275,"6-amino-3-nitro-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazine 7-oxide",NC(NC1=NON=C1[N+]([O-])=O)=O,455.15, 10.1002/jhet.3109
+entry276,"6-amino-3-cyano-1,2,4,5-tetrazine 1,5-dioxide",[O-][N+]1=C(N)[N+]([O-])=NC(N2C(N=[N+]=[N-])=NC=N2)=N1,434.15,10.1002/chem.201405122
+entry277,"6-amino-3-(nitroamino)-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazine 7-oxide",O=[N+](C1=NON=C1N[N+]([O-])=O)[O-],338.15,10.3390/cryst5040418
+entry278,"6-amino-3-(5-azido-1H-1,2,4-triazol-1-yl)-1,2,4,5-tetrazine 1,5-dioxide",[O-][N+]1=C(N)[N+]([O-])=NC(N2C(C)=C([N+]([O-])=O)C(C)=N2)=N1,484.15,10.1002/chem.201405122
+entry279,"6-amino-3-(5-amino-3-nitro-1H-1,2,4-triazol-1-yl)-1,2,4,5-tetrazine 1,5-dioxide",[O-][N+]1=C(N)[N+]([O-])=NC(N2C(C)=CC(C)=N2)=N1,525.15,10.1002/chem.201405122
+entry280,"6-amino-3-(3-nitroguanidino)-1,2,4,5-tetrazine 1-oxide",[O-][N+]1=C(N)[N+]([O-])=NC([N+]([O-])=O)=N1,383.15,10.1002/chem.201405122
+entry281,"6-amino-3-(3,5-dimethyl-4-nitro-1H-pyrazol-1-yl)-1,2,4,5-tetrazine 1,5-dioxide",[O-][N+]1=C(N)[N+]([O-])=NC(N2C(N)=NC([N+]([O-])=O)=N2)=N1,441.15,10.1002/chem.201405122
+entry282,"6-amino-3-(3,5-dimethyl-1H-pyrazol-1-yl)-1,2,4,5-tetrazine 1,5-dioxide",NC1=NN=C(N2N=C(N=C2N)N)N=N1,587.15,10.5560/ZNB.2013-3237 
+entry283,"6-amino-3-(1H-tetrazol-5-yl)-1,2,4,5-tetrazine 1,5-dioxide",[O-][N+]1=C(N)[N+]([O-])=NC(N2C=CC=N2)=N1,510.15,10.1002/chem.201405122
+entry284,"6-amino-3-(1H-pyrazol-1-yl)-1,2,4,5-tetrazine 1,5-dioxide",[O-][N+]1=C(N)[N+]([O-])=NC(N2C=NC=N2)=N1,494.15,10.1002/chem.201405122
+entry285,"6-amino-3-(1H-1,2,4-triazol-1-yl)-1,2,4,5-tetrazine 1,5-dioxide",NC1=NO/C(N1)=N/[N+]([O-])=O,441.15,10.1002/anie.201509985
+entry286,"6-amino-1,2,4,5-tetrazine 1,5-dioxide",NC([N+]([O-])=N1)=NN2C1=NN=C2,520.15, 10.1002/prep.201900014
+entry287,"6-amino-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazine 7-oxide",O=[N+](NC(N=N1)=NN2C1=NN=C2N=NC3=NN=C(N=N4)N3N=C4N[N+]([O-])=O)[O-],443.15,10.1021/jacs.8b09519
+entry288,"65,165-dimethyl-2,3,5,7,9,10,12,13,15,17,19,20-dodecaaza-1,11(3,6)-ditetrazina-6,16(1,3)-dibenzenacycloicosaphane-4,8,14,18-tetraone",O=C(N[N+]([O-])=O)OCC(COC(N[N+]([O-])=O)=O)(COC(N[N+]([O-])=O)=O)COC(N[N+]([O-])=O)=O,469.15,10.1021/acs.inorgchem.6b00602
+entry289,"6,6-dinitro-1,4-dioxepane-2,3-dione",O=C(C1[N+]([O-])=O)OCC(COC1=O)([N+]([O-])=O)[N+]([O-])=O,442.15,10.1002/chem.201101896
+entry290,6-(trinitromethyl)picolinonitrile,OCC1=C(N=[N+]=[N-])C=CC=C1,408.36,10.1007/s10973-009-0572-8
+entry291,"6-(dinitromethyl)-1,3-dinitro-1,2,3,4-tetrahydro-1,3,5-triazine",NC1=NC(N=[N+]=[N-])=NN1C2=NN=C(NC3=NC(N=[N+]=[N-])=NN3)N=N2,462.85,10.1039/c7dt00935f
+entry292,"6-(5-amino-4H-1,2,4-triazol-3-yl)-7H-[1,2,4]triazolo[4,3-b][1,2,4]triazole-3,7-diamine",NC1=NN=C(N1N)C2=NNN=C2C3=NN=C(N3N)N,563.15,10.1021/acs.inorgchem.0c03014
+entry293,"6-(5-amino-3-azido-1H-1,2,4-triazol-1-yl)-N-(3-azido-1H-1,2,4-triazol-5-yl)-1,2,4,5-tetrazin-3-amine",NC1=NC(NC2=NN3C=NN=C3N=N2)=C([N+]([O-])=O)N=C1[N+]([O-])=O,528.15,10.11943/CJEM2020321
+entry294,"6-(4-amino-1,2,5-oxadiazol-3-yl)-7H-[1,2,4]triazolo[4,3-b][1,2,4]triazole-3,7-diamine",NC1=NN=C(N2N)N1N=C2C3=NN=C(N)N3,554.15,10.1039/d1dt02854e
+entry295,"6-(1H-tetrazol-5-yl)tetrazolo[1,5-b][1,2,4]triazin-7-amine",O=C1N=NC(NC2=NN=NN2)=NN1,485.06,10.11943/CJEM2019067
+entry296,"6-((1H-tetrazol-5-yl)amino)-1,2,4,5-tetrazin-3(2H)-one",O=[N+](C1=CC([N+]([O-])=O)=CC([N+]([O-])=O)=C1NC2=NN=NN2)[O-],456.15,10.1039/c3ta14485b
+entry297,"5-nitro-3H-1,2,4-triazol-3-one",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NNC=C1)[O-],377.25,10.1039/c8dt04712j
+entry298,"5-nitro-3-(trinitromethyl)-1H-1,2,4-triazole",O=[N+](C1=NNN=N1)[O-],403.15,10.1039/b812529e
+entry299,5-nitro-2H-tetrazole,O=[N+](C([N+]([O-])=O)([N+]([O-])=O)N1N=C([N+]([O-])=O)N=C1C2=NNC=N2)[O-],445.15,10.1021/acsaem.0c00724
+entry300,5-nitro-2H-tetrazol-2-ol,O=[N+](C1=NN(CC#N)N=N1)[O-],483.15,10.1039/b818925k
+entry301,5-nitro-2H-tetrazol-2-amine,NC1=NN/C(O1)=N/[N+]([O-])=O,426.15,10.1016/j.cej.2021.130912
+entry302,"5-nitro-2H-1,2,3-triazole-2,4-diamine",CN([N+]([O-])=O)CN1C([N+]([O-])=O)=NN(CN(C)[N+]([O-])=O)C1=O,484.15,10.1039/c6nj00202a
+entry303,"5'-nitro-2'-(trinitromethyl)-1H,2'H-3,3'-bi(1,2,4-triazole)",O=[N+](N1N=C(C2=NC([N+]([O-])=O)=NN2)N=C1)[O-],446.15,10.1021/acsaem.0c00724
+entry304,"5-nitro-1H-1,2,4-triazole-3-carbonitrile",O/N=C(N=[N+]=[N-])/C1=NNC([N+]([O-])=O)=N1,397.15, 10.1002/chem.201301339
+entry305,"5'-nitro-1H,2'H-[3,3'-bi(1,2,4-triazol)]-5-amine",NC(O1)=NN=C1C2=NON=C2[N+]([O-])=O,428.15,10.1021/acs.cgd.8b01404
+entry306,"5'-nitro-1,2'-bis(trinitromethyl)-1H,2'H-3,3'-bi(1,2,4-triazole)",O=[N+](/N=C1NN=NN\1)[O-],395.15,10.1002/zaac.200800430
+entry307,"5-nitro-[1,2,5]oxadiazolo[3,4-e]tetrazolo[1,5-a]pyridine 3-oxide",O=[N+](/N=C1NN=C2NC=NN2\1)[O-],442.15,10.1039/c7ta01111c
+entry308,"5-methyl-1-(4-methyl-1H-1,2,3-triazol-1-yl)-1H-tetrazole",O[C@]1(C)C[C@@](C)(OO)OO1,406.15,10.1002/ejic.201600767
+entry309,"5-imino-4-methyl-4,5-dihydro-1H-tetrazol-1-amine",NN1N=NC([N+]([O-])=O)=C1,448.15,10.1002/open.202000053
+entry310,"5-azido-5'-nitro-1H,2'H-3,3'-bi(1,2,4-triazole)",NC1=NNN=C1C2=NN=NN2,514.15,10.1039/c5dt03044g
+entry311,"5-azido-3-nitro-1H-1,2,4-triazole",O=[N+](C1=NN(NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)C(N=[N+]=[N-])=C1[N+]([O-])=O)[O-],390.15,10.1039/c3ta15057g
+entry312,"5-azido-3-methyl-1H-1,2,4-triazole",CN1C=C[N+]([C-]([N+]([O-])=O)[N+]([O-])=O)=N1,423.15,10.1039/d1ra00953b
+entry313,"5-azido-3-benzyl-1H-1,2,4-triazole",O=[N+](NC1=NC(N=[N+]=[N-])=NN1)[O-],416.15,10.1002/chem.201102901
+entry314,"5-azido-3,4-dinitro-N-(2,2,2-trinitroethyl)-1H-pyrazol-1-amine",NN1C(N=[N+]=[N-])=C([N+]([O-])=O)C([N+]([O-])=O)=N1,394.15,10.1039/c3ta15057g
+entry315,"5-azido-3,4-dinitro-1H-pyrazol-1-amine",O=[N+](C1=NN(C)C(N=[N+]=[N-])=N1)[O-],434.15, 10.1002/zaac.201300203
+entry316,"5-azido-1-methyl-3-nitro-1H-1,2,4-triazole",N#CC1=NNC(N=[N+]=[N-])=N1,443.15,10.1002/zaac.201300022
+entry317,"5-azido-1H-1,2,4-triazole-3-carbonitrile",[NH2+]=C1N(C)N=NN1[N-][N+]([O-])=O,423.15,10.1002/chem.201102142
+entry318,"5-azido-1H-1,2,4-triazole",ON1N=NN=C1C2=NN=NN2O.[H]O[H].[H]O[H]   ,487.15,10.1002/ejic.201201192
+entry319,"5-amino-3-nitro-[1,2,3]triazolo[1,5-b][1,2,4]triazine-6-carbonitrile",NC1=NC(N2C(N)=N1)=C(C(N)=N2)[N+]([O-])=O,679.15,10.1039/c9dt03138c
+entry320,"5-amino-3,6-dinitropyrazolo[1,5-a]pyrimidin-7(4H)-one",NC1=C([N+]([O-])=O)N=C([N+]([O-])=O)N1,378.35,10.1039/c6cc03833f
+entry321,5-amino-1H-tetrazol-1-ol,O=C(CN=[N+]=[N-])OCC(OC(CN=[N+]=[N-])=O)CCCCOC(CN=[N+]=[N-])=O,502.27,10.1002/prep.202100105
+entry322,"5-amino-1H-1,2,4-triazole-3-carbohydrazide",NC1=NC([N+]([O-])=O)=NN1C2=NC([N+]([O-])=O)=NN2,525.15,10.1039/c5ta09803c
+entry323,"5,7-dinitrobenzo[e][1,2,3,4]tetrazine 1,3-dioxide",NN1C(N)=NN=C1C2=NNN=C2[N+]([O-])=O,536.15,10.1016/j.enmf.2021.05.002
+entry324,"5,7-dinitro-1H-benzo[d][1,2,3]triazole-4,6-diamine",O=C1N=C(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N=C(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N1,440.75,10.1039/c6ra05826d
+entry325,"5,7-dinitro-1H-benzo[d][1,2,3]triazole",CC1=CC(C)=NC2=NC([N+]([O-])=O)=NN12,542.15,10.1016/j.jfluchem.2021.109743
+entry326,"5,7-dinitro-1H-benzo[d][1,2,3]triazole",O=[N+](C1=C(/C=N/NC2=NN=C(N/N=C/C3=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C3[N+]([O-])=O)N=N2)C([N+]([O-])=O)=CC([N+]([O-])=O)=C1)[O-],503.15,10.1039/d0nj03476b
+entry327,"5,7-dinitro-1H-benzo[d][1,2,3]triazol-4-amine",NC1=NON=C1C2=NO[N+]([O-])=C2C3=NON=C3NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,442.55,10.1002/slct.201601656
+entry328,"5,7-dimethyl-2-nitro-[1,2,4]triazolo[1,5-a]pyrimidine",[O-]N1C2=C(N)C([N+]([O-])=O)=C(N)C([N+]([O-])=O)=C2[NH+]=N1,530.15,10.1002/chem.201502812
+entry329,"5,7-diamino-4,6-dinitro-1H-benzo[d][1,2,3]triazol-3-ium-1-olate",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)CNC1=NC2=NON=C2N=C1NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)[O-],463.15,10.1002/chem.201303469
+entry330,"5,7-diamino-4,6-dinitro-1H-benzo[d][1,2,3]triazol-3-ium-1-olate",[O-][N+]1=NC(N2C(C([N+]([O-])=O)=CN2)=N1)=O,498.15,10.1016/j.cej.2021.129190 
+entry331,"5,7-diamino-2H-[1,2,3]triazolo[4,5-d]pyrimidine 6-oxide",NC1=[N+]([O-])C(N)=NC2=C1N=CN2,582.15, 10.1039/d0dt03260c
+entry332,"5,7-diamino-[1,2,5]oxadiazolo[3,4-d]pyrimidine 6-oxide",NC1=[N+]([O-])C(N)=NC2=NNN=C12,576.15, 10.1039/d0dt03260c
+entry333,"5,5'-dinitro-2H,2'H-3,3'-bipyrazole",NN1C(C2=NC([N+]([O-])=O)=NN2N)=NC([N+]([O-])=O)=N1,544.15,10.1002/anie.201507456
+entry334,"5,5'-dinitro-2H,2'H-3,3'-bi(1,2,4-triazole)",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NN=C2C3=NN=C(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N3C4=NON=C4N21)[O-],401.15,10.1002/ajoc.201600386
+entry335,"5,5'-dinitro-2H,2'H-3,3'-bi(1,2,4-triazole)",O=[N+](/N=C(N1)\NN=C1C(N/2)=NNC2=N/[N+]([O-])=O)[O-],467.15, 10.1002/chem.201202483
+entry336,"5,5'-dinitro-2H,2'H-[3,3'-bi(1,2,4-triazole)]-2,2'-diol",[H]C([N+]([O-])=O)([N+]([O-])=O)C1=NC(/N=N/C2=NNC(C([H])([N+]([O-])=O)[N+]([O-])=O)=N2)=NN1,353.15,10.1002/zaac.201100196
+entry337,"5,5'-dinitro-2H,2'H-[3,3'-bi(1,2,4-triazole)]-2,2'-diamine",O=[N+](/N=C1NC(/N=N/C(N/2)=NNC2=N/[N+]([O-])=O)=NN/1)[O-],482.15, 10.1002/zaac.201100102
+entry338,"5,5'-diazido-4,4'-dinitro-1H,1'H-2,2'-biimidazole",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NC(C2=NOC(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=N2)=NO1)[O-],397.15,10.1039/c3cc49879d
+entry339,"5,5'-diazido-1H,1'H-3,3'-bi(1,2,4-triazole)",O=[N+](OCC1=NC(C2=NOC(CO[N+]([O-])=O)=N2)=NO1)[O-],457.97,10.1002/prep.202000132
+entry340,"5,5'-bis(trinitromethyl)-3,3'-bi(1,2,4-oxadiazole)",O=[N+](CC1=NN=C(O1)C2=NN=C(C[N+]([O-])=O)O2)[O-],453.85,10.1016/j.cej.2021.132503
+entry341,"5,5'-bis(trinitromethyl)-3,3'-bi(1,2,4-oxadiazole)",O=[N+](C1=CNN=C1C2=NC(C3=NOC(C4=NNC=C4[N+]([O-])=O)=N3)=NO2)[O-],590.15,10.1002/cplu.201900454
+entry342,"5,5'-bis(trinitromethyl)-2H,2'H-3,3'-bi(1,2,4-triazole)",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NC(C2=NOC(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=N2)=NO1)[O-],397.15,10.1002/chem.201402291
+entry343,"5,5'-bis(nitromethyl)-2,2'-bi(1,3,4-oxadiazole)",O=[N+](C1=CNN=C1C2=NN=C(C3=NN=C(C4=NNC=C4[N+]([O-])=O)O3)O2)[O-],641.15,10.1039/d0nj00518e
+entry344,"5,5'-bis(dinitromethylene)-4,4',5,5'-tetrahydro-1H,1'H-3,3'-bi(1,2,4-triazole)",O=[N+](C1=NNC(C2=NC([N+]([O-])=O)=NN2)=N1)[O-],524.15, 10.1002/chem.201202483
+entry345,"5,5'-bis(4-nitro-1H-pyrazol-3-yl)-3,3'-bi(1,2,4-oxadiazole)",O=[N+](C1=C(C2=NC(C3=NOC(C4=C([N+]([O-])=O)C([N+]([O-])=O)=NN4)=N3)=NO2)NN=C1[N+]([O-])=O)[O-],545.15,10.1002/cplu.201900454
+entry346,"5,5'-bis(4-nitro-1H-pyrazol-3-yl)-2,2'-bi(1,3,4-oxadiazole)",O=[N+](C1=NON=C1C2=NNC(C3=NC(C4=NON=C4[N+]([O-])=O)=NN3)=N2)[O-],571.15,10.1039/d0dt00498g
+entry347,"5,5'-bis(4-nitro-1,2,5-oxadiazol-3-yl)-2H,2'H-3,3'-bi(1,2,4-triazole)",O=[N+](NC1=NON=C1C2=NNC(C3=NC(C4=NON=C4N[N+]([O-])=O)=NN3)=N2)[O-],385.15,10.1039/d0dt00498g
+entry348,"5,5'-bis(4-azido-1,2,5-oxadiazol-3-yl)-2H,2'H-3,3'-bi(1,2,4-triazole)",O=[N+](C(C([N+]([O-])=O)=NN1)=C1C2=NN=C(C3=NN=C(C4=C([N+]([O-])=O)C([N+]([O-])=O)=NN4)O3)O2)[O-],538.15,10.1039/d0nj00518e
+entry349,"5,5'-bis(4-azido-1,2,5-oxadiazol-3-yl)-2,2'-bi(1,3,4-oxadiazole)",C1(N2N=NN=C2)=NNN=N1,418.15,10.1002/chem.201300691
+entry350,"5,5'-bis(3,5-dinitro-1H-pyrazol-4-yl)-2,2'-bi(1,3,4-oxadiazole)",NC(N1N)=NN=C1C2=NNC(C3=NN=C(N)N3N)=C2[N+]([O-])=O,591.75,10.1016/j.fpc.2021.03.001
+entry351,"5,5'-bis(3,5-dinitro-1H-pyrazol-4-yl)-1H,1'H-3,3'-bi(1,2,4-triazole)",O=[N+](C(C([N+]([O-])=O)=NN1)=C1C2=NNC(C3=NC(C4=C([N+]([O-])=O)C([N+]([O-])=O)=NN4)=NN3)=N2)[O-],549.15,10.1039/d0ta09158h
+entry352,"5,5'-bis(3,4-dinitro-1H-pyrazol-5-yl)-3,3'-bi(1,2,4-oxadiazole)",O=[N+](C1=CN([N+]([O-])=O)N=C1C2=NC(C3=NOC(C4=NN([N+]([O-])=O)C=C4[N+]([O-])=O)=N3)=NO2)[O-],445.15,10.1002/cplu.201900454
+entry353,"5,5'-bis(3,4-dinitro-1H-pyrazol-5-yl)-2H,2'H-3,3'-bi(1,2,4-triazole)",O=[N+](C1=NNC(/N=N/C2=NC([N+]([O-])=O)=NN2)=N1)[O-],562.15, 10.1002/zaac.202000343
+entry354,"5,5'-bis(3,4-dinitro-1H-pyrazol-5-yl)-2,2'-bi(1,3,4-oxadiazole)",CN1N=NC(N(C)C2=NN(C)N=N2)=N1,509.15,10.1039/b811273h
+entry355,"5,5'-bis(1,4-dinitro-1H-pyrazol-3-yl)-3,3'-bi(1,2,4-oxadiazole)",O=[N+](C(C1=NN=NN1)C2=NN=NN2)[O-],511.15,10.1039/c8nj03472a
+entry356,"5,5'-bis(1,4-dinitro-1H-pyrazol-3-yl)-2,2'-bi(1,3,4-oxadiazole)",CN([N+]([O-])=O)CN1N=C([N+]([O-])=O)N=C1C2=NC([N+]([O-])=O)=NN2CN(C)[N+]([O-])=O,501.15,10.1039/c6nj00202a
+entry357,"5,5',5'',5'''-(pentane-1,3,3,5-tetrayl)tetrakis(1H-tetrazole)",NN1C(C2=NN(N)N=N2)=NN=N1,448.15,10.1039/c2dt30684k
+entry358,"5,5',5''-((1E,4E)-pentaaza-1,4-diene-1,3,5-triyl)tris(2-vinyl-2H-tetrazole)",CC(C)(C)N1N=C(N(/N=N/C2=NN(C(C)(C)C)N=N2)/N=N/C3=NN(C(C)(C)C)N=N3)N=N1,408.15,10.1039/c6cc08179g
+entry359,"5,5',5''-((1E,4E)-pentaaza-1,4-diene-1,3,5-triyl)tris(2-methyl-2H-tetrazole)",O=C(OC)CN1N=C(N(/N=N/C2=NN(CC(OC)=O)N=N2)/N=N/C3=NN(CC(OC)=O)N=N3)N=N1,394.15,10.1039/c6cc08179g
+entry360,"5,5',5''-((1E,4E)-pentaaza-1,4-diene-1,3,5-triyl)tris(2-benzyl-2H-tetrazole)",C=CCN1N=C(N(/N=N/C2=NN(CC=C)N=N2)/N=N/C3=NN(CC=C)N=N3)N=N1,373.15,10.1039/c6cc08179g
+entry361,"5,5',5''-((1E,4E)-pentaaza-1,4-diene-1,3,5-triyl)tris(2-allyl-2H-tetrazole)",CN1N=NN=C1N(/N=N/C2=NN=NN2C)/N=N/C3=NN=NN3C,414.15,10.1039/c6cc08179g
+entry362,"5,5',5''-((1E,4E)-pentaaza-1,4-diene-1,3,5-triyl)tris(2-(tert-butyl)-2H-tetrazole)",CN1N=NC(/N=N/N(/N=N/C2=NN(C)N=N2)C3=NN(C)N=N3)=N1,414.15,10.1039/c6cc08179g
+entry363,"5,5',5''-((1E,4E)-pentaaza-1,4-diene-1,3,5-triyl)tris(1-methyl-1H-tetrazole)",O=[N+](C1([N+]([O-])=O)CN([N+]([O-])=O)CN([N+]([O-])=O)C1)[O-],461.15,10.1002/prep.830080304
+entry364,"5,5'-(nitromethylene)bis(1H-tetrazole)",N/N=C(C1=NN=NN1)/C2=NN=NN2,520.75,10.1039/c3ta13425c
+entry365,"5,5'-(hydrazineylidenemethylene)bis(1H-tetrazole)",O=[N+](C1=C(C2=NC([N+]([O-])=O)=NN2)NN=C1C3=NC([N+]([O-])=O)=NN3)[O-],511.35,10.1039/c9nj01445d
+entry366,"5,5'-(hydrazine-1,2-diyl)bis(1H-tetrazol-1-ol)",NC(N1N)=NN=C1C2=CC(C3=NN=C(N)N3N)=NN2,626.15,10.1039/d0ce00278j 
+entry367,"5,5'-(4-nitro-1H-pyrazole-3,5-diyl)bis(4H-1,2,4-triazole-3,4-diamine)",O=[N+](C([N+]([O-])=O)C1=NC(/N=N/C2=NOC(C([N+]([O-])=O)[N+]([O-])=O)=N2)=NO1)[O-],396.15,10.1002/chem.201704446
+entry368,"5,5'-(4-nitro-1H-pyrazole-3,5-diyl)bis(3-nitro-1H-1,2,4-triazole)",NC1=NNC(C2=C([N+]([O-])=O)C(C3=NC(N)=NN3)=NN2)=N1,626.75,10.1039/c9nj01445d
+entry369,"5,5'-(4-nitro-1H-pyrazole-3,5-diyl)bis(1H-1,2,4-triazol-3-amine)",O=[N+](CN1N=C(C(C2=NN=NN2)=N1)C3=NN=NN3)[O-],554.15,10.1039/c8nj03472a
+entry370,"5,5'-(2H-1,2,3-triazole-4,5-diyl)bis(4H-1,2,4-triazole-3,4-diamine)",O=C1NC2=C([N+]([O-])=O)C([N+]([O-])=O)=C([N+]([O-])=O)C([N+]([O-])=O)=C2N1,528.15, 10.1002/prep.201400045
+entry371,"5,5'-(2H-1,2,3-triazole-4,5-diyl)bis(4H-1,2,4-triazole-3,4-diamine)",NC1=NN=C(N1N)C2=NNC(N)=N2,614.15,10.1021/acs.inorgchem.0c03014
+entry372,"5,5'-(2-(nitromethyl)-2H-1,2,3-triazole-4,5-diyl)bis(1H-tetrazole)",O=[N+](C1=NNC(C2=NC([N+]([O-])=O)=NN2)=N1)[O-],524.15,10.1002/ejic.201200221
+entry373,"5,5'-(1H-pyrazole-3,5-diyl)bis(4H-1,2,4-triazole-3,4-diamine)",O/N=C(N)/C1=NO[N+]([O-])=C1/C(N)=N/O,453.15,10.1039/c4nj01351d
+entry374,"5,5'-(1H-pyrazole-3,5-diyl)bis(4H-1,2,4-triazol-3-amine)",NC1=NN=C(N=[N+]=[N-])N=N1,473.15,10.1002/asia.201500086
+entry375,"5,10-bis(trinitromethyl)-[1,2,5]oxadiazolo[3,4-e]bis([1,2,4]triazolo)[4,3-a:3',4'-c]pyrazine",[N-]=[N+]=NC1=NON=C1C2=NN=C(C3=NN=C(C4=NON=C4N=[N+]=[N-])O3)O2,464.15,10.1002/anie.202014207
+entry376,"5-(nitroamino)-N-(3-(nitroamino)-4H-1,2,4-triazol-4-yl)-4H-1,2,4-triazole-3-carboxamide",O=[N+](C1=NN(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)C(N[N+]([O-])=O)=N1)[O-],394.15,10.1039/c7nj01917c
+entry377,"5-(dinitromethylene)-4,5-dihydro-1H-tetrazole",N#[N+]C([N-]N=N1)=C1C2=NNN=N2,414.15,10.1021/acs.joc.6b01098
+entry378,"5-(dinitromethyl)-3-(trinitromethyl)-1H-1,2,4-triazole",O=[N+](C1=NN(CC2=NN=NN2)N=N1)[O-],487.15,10.1039/b818925k
+entry379,"5-(5-nitro-2H-1,2,3-triazol-4-yl)-4H-1,2,4-triazole-3,4-diamine",NC1=CC([N+]([O-])=O)=NC2=C1[N-][N+]3=NC4=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C4N23,605.33,10.1021/acs.cgd.0c00026
+entry380,"5-(5-nitro-2H-1,2,3-triazol-4-yl)-1H-tetrazole",ON1C(C2=NNC(N[N+]([O-])=O)=N2)=NN=N1,389.15, 10.1002/chem.201301339
+entry381,"5-(5-nitro-1H-1,2,4-triazol-3-yl)-1H-tetrazol-1-ol",O=[N+](C1=NNC(C2=NNN=N2)=N1)[O-],484.15,10.1002/asia.201300063
+entry382,"5-(5-azido-2H-1,2,3-triazol-4-yl)-1H-tetrazole",[N-]=[N+]=NC1=NC(C2=NN=NN2)=NN1,437.15,10.1002/asia.201300063
+entry383,"5-(5-azido-1H-1,2,4-triazol-3-yl)-1H-tetrazole",ON1C(C2=NNC(N=[N+]=[N-])=N2)=NN=N1,417.15, 10.1002/chem.201301339
+entry384,"5-(5-azido-1H-1,2,4-triazol-3-yl)-1H-tetrazol-1-ol",[N-]=[N+]=NC1=NC(C2=NC([N+]([O-])=O)=NN2)=NN1,454.15,10.1039/c3dt51205c
+entry385,"5-(5-(nitromethyl)-1,3,4-oxadiazol-2-yl)-1H-1,2,4-triazol-3-amine",O=[N+](C1=C(C2=NN=C(C[N+]([O-])=O)O2)C([N+]([O-])=O)=CC([N+]([O-])=O)=C1)[O-],516.35,10.1016/j.cej.2021.132503
+entry386,"5-(4-nitro-1H-pyrazol-3-yl)-4H-1,2,4-triazole-3,4-diamine",O=[N+](C1=NNN=C1N[N+]([O-])=O)[O-],403.15,10.1039/c2ta00136e
+entry387,"5-(4-nitro-1,2,5-oxadiazol-3-yl)-1,3,4-oxadiazol-2-amine",ON1N=NN=C1C2=NON=C2N=[N+]=[N-],427.15,10.1039/c9nj03306h
+entry388,"5-(4-azido-1,2,5-oxadiazol-3-yl)-1H-tetrazol-1-ol",ON1C(C2=NON=C2N=[N+]=[N-])=NN=N1,460.15,10.1007/s10593-017-2121-x
+entry389,"5-(4-azido-1,2,5-oxadiazol-3-yl)-1H-tetrazol-1-ol",NC1=NON=C1C2=NN=NN2O,470.15,10.1021/jacs.5b07852
+entry390,"5-(4-amino-1,2,5-oxadiazol-3-yl)-4H-1,2,4-triazole-3,4-diamine",NC(N1)=NOC1=O,480.15,10.1039/c7nj03950f
+entry391,"5-(4-amino-1,2,5-oxadiazol-3-yl)-1H-tetrazol-1-ol",O=C(N1N)NN=C1C2=NN=NN2,541.15,10.1002/jhet.1877
+entry392,"5-(4-amino-1,2,5-oxadiazol-3-yl)-1,2,4-oxadiazol-3-amine",NC1=NOC(C2=NON=C2/N=N/C3=NON=C3C4=NC(N)=NO4)=N1,486.15, 10.1021/acs.orglett.8b03639
+entry393,"5-(4,5-dinitro-1H-pyrazol-1-yl)-3-nitro-1H-1,2,4-triazole",ON1C(C2=NNC([N+]([O-])=O)=N2)=NN=N1,425.15, 10.1002/chem.201301339
+entry394,"5-(3-nitro-1H-1,2,4-triazol-5-yl)-2H-tetrazole",ON1N=C(C2=NN=NN2)N=N1,448.15,10.1002/cplu.201402124
+entry395,"5-(2-amino-2-iminio-1,1-dinitroethyl)tetrazol-1-ide",[H]N1N=NN=C1C2=NON=C2/N=N/C3=NON=C3C4=NN=NN4,528.15,10.1039/c8ce01825a
+entry396,"5-(1H-tetrazol-5-yl)-2H-1,2,3-triazol-4-amine",NC1=NC(C2=NN=NN2)=NN1,620.15,10.1002/asia.201300063
+entry397,"5-(1,2,4-oxadiazol-3-yl)-1H-tetrazol-1-ol",O=[N+](C1=C(N=[N+]=[N-])C([N+]([O-])=O)=NN1CC2=NN=NN2)[O-],421.15,10.1002/chem.201700786
+entry398,5-((5-nitro-2H-tetrazol-2-yl)methyl)-1H-tetrazole,O=[N+](C1=NN(CC2=NN=NN2)N=N1)[O-],487.15,10.1039/b818925k
+entry399,5-((5-nitro-2H-tetrazol-2-yl)methyl)-1H-tetrazole,O=[N+](C1=NNN=C1C2=NN=NN2)[O-],461.15,10.1039/c5dt03044g
+entry400,"5-((4-azido-3,5-dinitro-1H-pyrazol-1-yl)methyl)-1H-tetrazole",O=[N+](C1=C([N+]([O-])=O)C([N+]([O-])=O)=NN1CC2=NN=NN2)[O-],428.15,10.1002/chem.201700786
+entry401,"5-((3,4,5-trinitro-1H-pyrazol-1-yl)methyl)-1H-tetrazole",IC1=C(I)N(CC2=NN=NN2)N=C1I,491.75,10.1016/j.cej.2018.06.056
+entry402,"5-((3,4,5-triiodo-1H-pyrazol-1-yl)methyl)-1H-tetrazole",O=[N+](C1=NN=C2N=NC(NC3=NON=C3[N+]([O-])=O)=NN21)[O-],457.35,10.1002/asia.201801145
+entry403,"4-oxo-4,6-dihydro-3H-pyrazolo[3,4-d][1,2,3]triazine 2-oxide",O=C1C(NC2=NON=C2N1)=O,511.15, 10.1039/c8ob02155d
+entry404,"4-nitro-N-(3-nitro-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazin-6-yl)-1,2,5-oxadiazol-3-amine",O=[N+](C1=CN(NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N=C1)[O-],385.15,10.1039/c3ta15057g
+entry405,"4-nitro-N-(2,2,2-trinitroethyl)-1H-pyrazol-1-amine",[N-]=[N+]=NC1=CC=C([N+]([O-])=O)C=C1,437.15, 10.1039/c8ta06895j
+entry406,"4-nitro-5-(3-nitro-1H-1,2,4-triazol-5-yl)-2H-1,2,3-triazole",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NNC([N+]([O-])=O)=N1)[O-],408.15,10.1021/ja2013455
+entry407,4-nitro-3-(trinitromethyl)-1H-pyrazole,O=[N+](NC1=NNC(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=C1[N+]([O-])=O)[O-],397.15,10.1039/c9nj02732g
+entry408,"4-nitro-3-(5-(nitroamino)-1,3,4-oxadiazol-2-yl)-1,2,5-oxadiazole 2-oxide",[O-][N+]1=C(C)C(/C=N/NC2=NN=NN2)=NO1,464.15,10.1039/d0nj00541j
+entry409,"4-nitro-3-(3-nitrophenyl)-1,2,5-oxadiazole 2-oxide",NN1C=C([N+]([O-])=O)C=N1,468.15,10.1039/c3ta15057g
+entry410,"4-nitro-2H-1,2,3-triazol-2-amine",NN1N=C([N+]([O-])=O)C(N=[N+]=[N-])=N1,414.15,10.1039/c2ta00136e
+entry411,4-nitro-1H-pyrazol-1-amine,O=[N+](C([N+]([O-])=O)([N+]([O-])=O)N1C=C([N+]([O-])=O)C=N1)[O-],405.15,10.1002/asia.201500533
+entry412,"4-nitro-1H-1,2,3-triazole-1,5-diamine",[O-][N+]1=C(C2=NON=C2NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)C(C3=NON=C3NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NO1,441.15,10.1002/jhet.2920
+entry413,"4-nitro-1H-1,2,3-triazol-1-amine",NN/C(N)=N/[N+]([O-])=O,457.15,10.5560/ZNB.2012-0066
+entry414,"4-nitro-1,2,5-oxadiazol-3-amine",[O-]/[N+](C1=NON=C1N)=N\N2N=C([N+]([O-])=O)N=C2,473.15, 10.1039/d1ra03919a
+entry415,4-nitro-1-(trinitromethyl)-1H-pyrazole,O=[N+](C([N+]([O-])=O)([N+]([O-])=O)N1C=C([N+]([O-])=O)N=C1)[O-],392.15,10.1002/cplu.201800305
+entry416,4-nitro-1-(trinitromethyl)-1H-imidazole,NC1=NN=C(N1N)C2=NNC=C2[N+]([O-])=O,604.15,10.1016/j.cej.2019.122331
+entry417,"4-nitro-1-(1H-tetrazol-5-yl)-1H-pyrazole-3,5-diamine",NC1=N[N+]([O-])=C([N+]([O-])=O)C(N)=C1[N+]([O-])=O,494.45,10.11943/CJEM2019100
+entry418,"4-nitro-1-(1H-tetrazol-5-yl)-1H-1,2,3-triazol-5-amine",NC1=C([N+]([O-])=O)C=NN1C2=NN=CN2N[N+]([O-])=O,468.15,10.1016/j.cej.2021.129190 
+entry419,"4''-nitro-[3,3':4',3''-ter(1,2,5-oxadiazol)]-4-amine",O=C(N1)ON=C1C2=NON=C2NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,434.98,10.1039/c8nj04428g
+entry420,"4-methyl-6-nitro-1,4-dihydropyrazolo[3,4-d][1,2,3]triazole 3-oxide",CC1N=C(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N([N+]([O-])=O)C1,390.43,10.1039/c6ta08831g
+entry421,"4-methyl-4'-nitro-[3,3'-bi(1,2,5-oxadiazole)] 5,5'-dioxide",CC1=NNC(N=[N+]=[N-])=N1,433.15, 10.1002/ejoc.201101450
+entry422,"4-methyl-3-nitro-1,2,5-oxadiazole 2-oxide",O=C(OCC)NC1=NON=C1[N+]([O-])=O,426.15, 10.1002/jhet.3109
+entry423,"4-methyl-1-nitro-2-(trinitromethyl)-4,5-dihydro-1H-imidazole",CC1=CN(N2C=CN=N2)N=N1,433.95, 10.1021/acs.joc.9b00801
+entry424,"4-methyl-1,1'-bi(1,2,3-triazole)",N/C(C1=NON=C1NN)=N\N,471.95,10.1016/j.molstruc.2019.127358
+entry425,"4H-[1,2,5]oxadiazolo[3,4-b][1,2,3]triazolo[4,5-e]pyrazine 6-oxide",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NCN([N+]([O-])=O)CN1[N+]([O-])=O)[O-],414.35,10.1002/anie.201501973
+entry426,"4H-[1,2,3]triazolo[4,5-c][1,2,5]oxadiazole 5-oxide",NC(NC(C([N+]([O-])=O)=NN1)=C1[N+]([O-])=O)=N,581.15,10.1039/c2ta01359b
+entry427,"4H,9H-[1,2,5]oxadiazolo[3',4':5,6]pyrazino[2,3-b][1,2,5]oxadiazolo[3,4-e]pyrazine",C12=NON=C1NC(NC3=NON=C3N4)C4N2,503.15, 10.1039/c8ob02155d
+entry428,"4H,4'H-[3,3'-bi(1,2,4-triazole)]-4,5,5'-triamine",O=[N+](C(C1=NCOCN1[N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)[O-],413.55,10.1002/anie.201501973
+entry429,"4H,4'H-[3,3'-bi(1,2,4-triazole)]-4,4',5,5'-tetraamine",O=C(NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)CCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,428.15,10.1039/c6dt03779h
+entry430,"4-diazo-5-nitro-2,4-dihydro-3H-pyrazol-3-one",O=C(NCCCCNC(NNC1=NN=C(N=N1)NNC2=O)=O)NNC3=NN=C(NNC(NCCCCN2)=O)N=N3,495.15, 10.1039/c5ra21345b
+entry431,"4-diazo-3,5-dinitro-4H-pyrazole",O=[N+](C1=NN(CO[N+]([O-])=O)C2=C1N(CO[N+]([O-])=O)N=C2[N+]([O-])=O)[O-],479.15,10.1002/anie.201606894
+entry432,"4-cyclopropyl-3-nitro-1,2,5-oxadiazole 2-oxide",[O-]/[N+](C1=NON=C1/N=[N+]([O-])/C2=NON=C2[N+]([O-])=O)=N\[N+]([O-])=O,388.15,10.1002/slct.202003182
+entry433,"4-azido-5-nitro-2H-1,2,3-triazole",[O-][N+]1=C(C(N=[N+]=[N-])=NO1)C2=[N+]([O-])ON=C2[N+]([O-])=O,386.15,10.1021/acsaem.0c01162
+entry434,"4-azido-5-nitro-2H-1,2,3-triazol-2-amine",NC1=NC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=N1,422.05,10.1039/c6ra05826d
+entry435,"4-azido-4'-nitro-[3,3'-bi(1,2,5-oxadiazole)] 2,5'-dioxide",[NH2+]=C(N)C([N+]([O-])=O)([N+]([O-])=O)C1=NN=N[N-]1,393.15,10.1021/jacs.0c01640
+entry436,"4-azido-4'-nitro-[3,3'-bi(1,2,5-oxadiazole)] 2,2'-dioxide",NC1=C(N=NN2)C2=C(C=C1[N+]([O-])=O)[N+]([O-])=O,614.15,10.1002/chem.201502812
+entry437,"4-azido-1-methyl-3,5-dinitro-1H-pyrazole",CN(C([N+]([O-])=O)=C1N=[N+]=[N-])N=C1[N+]([O-])=O,434.15,10.1039/c2ta01359b
+entry438,"4-amino-8-nitropyrazolo[5,1-d][1,2,3,5]tetrazine 2-oxide",NC1=C([N+]([O-])=O)N=NN1C2=NN=NN2,506.15,10.1039/d1ta00109d
+entry439,"4-amino-7H-pyrazolo[3,4-d][1,2,3]triazine 3-oxide",NC1=[N+]([O-])C(N)=NC2=NON=C12,553.15, 10.1039/d0dt03260c
+entry440,"4-amino-7H-imidazo[4,5-d][1,2,3]triazine 3-oxide",NC1=[N+]([O-])N=NC2=C1C=NN2,494.15,10.1021/acsaem.9b01889
+entry441,"4-amino-5-(1H-tetrazol-5-yl)-2,4-dihydro-3H-1,2,4-triazol-3-one",O=[N+](C1=NNC(N2N=CC([N+]([O-])=O)=C2[N+]([O-])=O)=N1)[O-],603.15,10.1039/c5ta09803c
+entry442,"4''-amino-4-((2,2,2-trinitroethyl)amino)-[3,3':4',3''-ter(1,2,5-oxadiazole)] 2'-oxide",NC1=NO[N+]([O-])=C1C#N,369.15,10.3390/molecules25245836
+entry443,"4-amino-3-cyano-1,2,5-oxadiazole 2-oxide",NC(N1C(N=N2)=NC([N+]([O-])=O)=N1)=C2[N+]([O-])=O,545.15,10.1002/chem.201604919
+entry444,"4-amino-3,5-dinitro-1H-pyrazol-1-ol",NN1C(CN=[N+]=[N-])=NN=C1CN=[N+]=[N-],482.15,10.1002/chem.201500098
+entry445,"4-amino-3-(5-amino-1,2,4-oxadiazol-3-yl)-1,2,5-oxadiazole 2-oxide",NC1=CC([N+]([O-])=O)=NC2=C1[N-][N+]3=NC4=C([N+]([O-])=O)C(N)=C([N+]([O-])=O)C=C4N23,579.6,10.1021/acs.cgd.0c00026
+entry446,"4-amino-3-(3-amino-1,2,4-oxadiazol-5-yl)-1,2,5-oxadiazole 2-oxide",NC1=NN=C(N2N)N1N=C2C3=NON=C3N,490.15,10.1039/d1dt02854e
+entry447,"4-amino-2,8,10-trinitrobenzo[4',5'][1,2,3]triazolo[2',1':2,3][1,2,3]triazolo[4,5-b]pyridin-6-ium-5-ide",[O-][N+]1=C(C2=[N+]([O-])ON=C2[N+]([O-])=O)C([N+]([O-])=O)=NO1,413.15,10.1002/ejic.201402960
+entry448,"4a,5,9a,10-tetrahydro-4H,9H-[1,2,5]oxadiazolo[3',4':5,6]pyrazino[2,3-b][1,2,5]oxadiazolo[3,4-e]pyrazine",[O-]N1C2=CC([N+]([O-])=O)=CC([N+]([O-])=O)=C2[NH+]=N1,455.15,10.1002/ejic.201501126
+entry449,"4,9-diamino-2,8,10-trinitrobenzo[4',5'][1,2,3]triazolo[2',1':2,3][1,2,3]triazolo[4,5-b]pyridin-6-ium-5-ide",O=[N+](C1=CC([N+]([O-])=O)=C(N2C3=NON=C3N(C4=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C4[N+]([O-])=O)C5=NON=C52)C([N+]([O-])=O)=C1)[O-],670.65,10.1016/j.fpc.2021.02.006
+entry450,"4,8-bis(azidomethyl)-4H,8H-bis([1,2,5]oxadiazolo)[3,4-b:3',4'-e]pyrazine",O=[N+](N1CN=C2N(CN([N+]([O-])=O)CC2([N+]([O-])=O)[N+]([O-])=O)C1)[O-],449.15,10.1039/c8cc10178g
+entry451,"4,8-bis(2,4,6-trinitrophenyl)-4H,8H-bis([1,2,5]oxadiazolo)[3,4-b:3',4'-e]pyrazine",[N-]=[N+]=NCN1C2=NON=C2N(CN=[N+]=[N-])C3=NON=C31,461.15,10.1039/c6ta02384c
+entry452,"4,6-dinitrobenzo[c][1,2,5]oxadiazole 1-oxide",NN1C(N)=NN=C1C2=NN=C(N)N2,602.15,10.1002/prep.202000316
+entry453,"4,6-dinitro-1H-benzo[d][1,2,3]triazol-3-ium-1-olate",NN1C=NN=C1N(N=C2)C3=C2C([N+]([O-])=O)=CC([N+]([O-])=O)=C3,540.15, 10.1021/acs.cgd.9b00775
+entry454,"4,6-dinitro-1H-benzo[d][1,2,3]triazol-3-ium-1-olate",[O-]N1C2=C(N)C([N+]([O-])=O)=C(N)C([N+]([O-])=O)=C2[NH+]=N1,530.15,10.1002/ejic.201501126
+entry455,"4,6-dinitro-1-(1H-tetrazol-5-yl)-1H-indazole",O=[N+](C1=CC([N+]([O-])=O)=CC2=C1C=NN2C3=NN=C(N/N=C/C4=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C4[N+]([O-])=O)N=N3)[O-],539.15,10.1039/d0nj03476b
+entry456,"4,6-diazido-N-(2,4,6-trinitrophenyl)-1,3,5-triazin-2-amine",NC1=NC(N=[N+]=[N-])=NC(N=[N+]=[N-])=N1,490.25,10.1016/j.tca.2015.01.026
+entry457,"4,6-diazido-1,3,5-triazin-2-amine",NC1=C(N=NN2)C2=C(C(N)=C1[N+]([O-])=O)[N+]([O-])=O,595.15,10.1002/chem.201502812
+entry458,"4,6-diamino-3-hydroxy-5-nitro-2-oxo-2,3-dihydropyrimidine 1-oxide",NC(N=N1)=C([N+]([O-])=O)N2C1=C([N+]([O-])=O)C(C3=NN(C(N)=C([N+]([O-])=O)N=N4)C4=C3[N+]([O-])=O)=N2,588.15,10.1039/c8cc05987j
+entry459,"4,6-bis(2,2,2-trinitroethoxy)-1,3,5-triazin-2-amine",NN1N=C([N+]([O-])=O)C([N+]([O-])=O)=N1,463.15,10.1039/c2ta00136e
+entry460,"4,6-bis(2,2,2-trinitroethoxy)-1,3,5-triazin-2(1H)-one",O=[N+](CN1C([N+]([O-])=O)=C([N+]([O-])=O)N=C1)[O-],420.15,10.1002/cplu.201800305
+entry461,"4,5-dinitro-2H-1,2,3-triazol-2-amine",O=[N+](C1=NN2C(C3=NC([N+]([O-])=O)=NN3CC2)=N1)[O-],580.15,10.1039/c8ta02704h
+entry462,"4,5-dinitro-1-(nitromethyl)-1H-imidazole",O=C(OC)CN1C([N+]([O-])=O)=C([N+]([O-])=O)N=C1,497.15,10.1002/cplu.201800305
+entry463,"4,5-bis(5-nitro-1H-1,2,4-triazol-3-yl)-2H-1,2,3-triazole",O=[N+](NC1=NC(C2=NNN=C2C3=NNC(N[N+]([O-])=O)=N3)=NN1)[O-],438.15,10.1039/d1nj00076d
+entry464,"4,5,6,7-tetranitro-1,3-dihydro-2H-benzo[d]imidazol-2-one",O=C1NC2=C([N+]([O-])=O)C([N+]([O-])=O)=C([N+]([O-])=O)C([N+]([O-])=O)=C2N1,572.15,10.1039/c6dt02438f
+entry465,"4,5,6,7-tetranitro-1,3-dihydro-2H-benzo[d]imidazol-2-one",NC1=NNC(C2=C([N+]([O-])=O)C(N)=NN2)=C1[N+]([O-])=O,501.15,10.1039/c8cc05987j
+entry466,"4,4''-dinitro-3,3':4',3''-ter(1,2,5-oxadiazole)",O=C(OCCNC(C(NCCOC(N[N+]([O-])=O)=O)=O)=O)N[N+]([O-])=O,448.15,10.1002/slct.202102271
+entry467,"4,4'-dinitro-2H,2'H-[3,3'-bipyrazole]-5,5'-diamine",O=[N+](C1=CNN=C1C2=NNC=C2[N+]([O-])=O)[O-],638.15,10.1002/chem.201804418
+entry468,"4,4'-dinitro-1H,1'H-3,3'-bipyrazole",[O-][N+]1=C([N+]([O-])=O)C(C2=NON=C2[N+]([O-])=O)=NO1,419.15, 10.1002/cplu.201700340
+entry469,"4,4'-dinitro-[3,3'-bi(1,2,5-oxadiazole)] 5-oxide",NC1=[NH+]N=C(/N=N/C2=N[NH+]=C(N)N2[N-][N+]([O-])=O)N1[N-][N+]([O-])=O,440.15,10.1021/acs.inorgchem.1c01972
+entry470,"4,4'-dinitro-[3,3'-bi(1,2,5-oxadiazole)] 2-oxide",CC1=NN2C(N1)=NN/C2=N/[N+]([O-])=O,392.15,10.1016/j.enmf.2020.11.004
+entry471,"4,4'-dinitro-[3,3'-bi(1,2,5-oxadiazole)] 2,2'-dioxide",NN1C(C2=NC([N+]([O-])=O)=C([N+]([O-])=O)N2N)=NC([N+]([O-])=O)=C1[N+]([O-])=O,490.15,10.1002/chem.201504407
+entry472,"4,4'-dinitro-[3,3'-bi(1,2,5-oxadiazole)] 2,2'-dioxide",[O-][N+]1=C(C([N+]([O-])=O)=NO1)C2=NON=C2[N+]([O-])=O,413.15, 10.1002/cplu.201700340
+entry473,"4,4''-dinitro-[3,3':4',3''-ter(1,2,5-oxadiazole)] 2'-oxide",[O-][N+]1=C(C2=[N+]([O-])ON=C2N)C(C3=[N+]([O-])ON=C3N)=NO1,456.75,10.1039/c8ta02274g
+entry474,"4,4''-dinitro-[3,3':4',3''-ter(1,2,5-oxadiazole)] 2',5,5''-trioxide",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)NCC1=NON=C1NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)[O-],420.15,10.1002/prep.201300135
+entry475,"4,4''-dinitro-[3,3':4',3''-ter(1,2,5-oxadiazole)] 2,2',2''-trioxide",[O-][N+]1=C(C2=NON=C2[N+]([O-])=O)C(C3=NON=C3[N+]([O-])=O)=NO1,504.15,10.1039/d0ta01538e
+entry476,"4,4'-diamino-[3,3'-bi(1,2,5-oxadiazole)] 5,5'-dioxide",[O-][N+]1=NC2=NN=C(N[N+]([O-])=O)N2N=C1N[N+]([O-])=O,387.15,10.1039/d0ta05933a
+entry477,"4,4'-diamino-[3,3'-bi(1,2,5-oxadiazole)] 2,2'-dioxide",[O-]/[N+](C1=NON=C1N[N+]([O-])=O)=N/C2=NON=C2N[N+]([O-])=O,363.15,10.1016/j.molstruc.2020.129536
+entry478,"4,4''-diamino-[3,3':4',3''-ter(1,2,5-oxadiazole)] 2'-oxide",ON1N=C([N+]([O-])=O)C([N+]([O-])=O)=C1[N+]([O-])=O,419.15, 10.1039/c2jm31535a
+entry479,"4,4''-diamino-[3,3':4',3''-ter(1,2,5-oxadiazole)] 2,2',2''-trioxide",[O-][N+]1=C(C2=NN=NN2)C(C3=NO[N+]([O-])=C3C4=NO[N+]([O-])=C4C5=NN=NN5)=NO1,462.05,10.1021/acsomega.0c01048
+entry480,"4,4''-di(1H-tetrazol-5-yl)-[3,3':4',3''-ter(1,2,5-oxadiazole)] 2',5,5''-trioxide",[O-][N+]1=C([N+]([O-])=O)C(C2=NO[N+]([O-])=C2C3=NO[N+]([O-])=C3[N+]([O-])=O)=NO1,403.85,10.1038/s41598-019-39723-z
+entry481,"4,4'-bis(nitroamino)-[3,3'-bi(1,2,5-oxadiazole)] 5,5'-dioxide",[O-][N+]1=C(C2=[N+]([O-])ON=C2N[N+]([O-])=O)C(N[N+]([O-])=O)=NO1,364.55,10.1039/c6ta03619h
+entry482,"4,4'-bis(nitroamino)-[3,3'-bi(1,2,5-oxadiazole)] 2,2'-dioxide",O=[N+](OCC1=NON=C1/N=N\C2=NON=C2CO[N+]([O-])=O)[O-],457.15,10.1016/j.dt.2021.08.008
+entry483,"4,4''-bis(nitro(2,2,2-trinitroethyl)amino)-[3,3':4',3''-ter(1,2,5-oxadiazole)] 2'-oxide",O=[N+](C([N+]([O-])=O)C1=NON=C1/N=N/C2=NON=C2C([N+]([O-])=O)[N+]([O-])=O)[O-],413.15,10.1039/c6ra22007j
+entry484,"4,4''-bis((2,2,2-trinitroethyl)amino)-[3,3':4',3''-ter(1,2,5-oxadiazole)] 2'-oxide",O=C1N(/N=N/N2C(NN=C2)=O)C=NN1,538.12,10.5012/bkcs.2013.34.7.2086
+entry485,"4,4''-bis((2,2,2-trinitroethyl)amino)-[3,3':4',3''-ter(1,2,5-oxadiazole)] 2'-oxide",[O-]/[N+](C1=NON=C1/[N+]([O-])=N/[N+]([O-])=O)=N\[N+]([O-])=O,366.15,10.1002/slct.202003182
+entry486,"4,4',5,5'-tetranitro-2H,2'H-3,3'-bipyrazole",O=[N+](C1=C([N+]([O-])=O)NC(C2=NC([N+]([O-])=O)=C([N+]([O-])=O)N2)=N1)[O-],563.15, 10.1080/07370652.2014.970246
+entry487,"4,4',5,5'-tetranitro-2H,2'H-[3,3'-bipyrazole]-2,2'-diamine",NN1C=NN=C1N2N=CC3=C2C=C([N+]([O-])=O)C=C3[N+]([O-])=O,540.15,10.1039/c9ce00782b
+entry488,"4,4',5,5'-tetranitro-2'-(trinitromethyl)-1H,2'H-3,3'-bipyrazole",O=[N+](C1=NNC(C2=C([N+]([O-])=O)C([N+]([O-])=O)=NN2)=C1[N+]([O-])=O)[O-],516.15,10.1002/chem.201804418
+entry489,"4,4',5,5'-tetranitro-1H,1'H-2,2'-biimidazole",NC(N1N)=NN=C1C2=NN=C(N)N2N,615.15,10.1039/c4ta05964f
+entry490,"4,4',5,5'-tetranitro-1H,1'H-[2,2'-biimidazole]-1,1'-diamine",O=[N+](C(CNC1=NON=C1C2=NOC(C3=NC(C4=NON=C4NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NO3)=N2)([N+]([O-])=O)[N+]([O-])=O)[O-],460.85,10.1002/cplu.201800107
+entry491,"4,4',5,5'-tetranitro-1H,1'H-[2,2'-biimidazole]-1,1'-diamine",CN1C(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NC(/N=N/C2=NN(C)C(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=N2)=N1,438.15,10.1021/ja2013455
+entry492,"4,4,4-trinitro-N-(2,2,2-trinitroethyl)butanamide",O=C(OCCCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N,418.15,10.1021/acs.joc.5b00655
+entry493,"4,4,4-trinitrobutyl carbamate",O=C(OCCCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N,429.15,10.1021/acs.joc.5b00655
+entry494,"4,4,4-trinitrobutyl carbamate",O=C(N=[N+]=[N-])CCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,358.15,10.1039/c6dt03779h
+entry495,"4,4,4-trinitrobutanoyl azide",OC(CCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O,449.15,10.1039/c6dt03779h
+entry496,"4,4,4-trinitrobutanoic acid",NC(CCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O,393.15,10.1039/c6dt03779h
+entry497,"4,4,4-trinitrobutanamide",CC1=[N+]([O-])ON=C1N([N+]([O-])=O)CN([N+]([O-])=O)C2=NO[N+]([O-])=C2C,398.15,10.3390/molecules25245836
+entry498,"4,4'-(methylenebis(nitroazanediyl))bis(3-methyl-1,2,5-oxadiazole 2-oxide)",[O-][N+]1=C(C#N)C(C2=NOC(/N=N/C3=NC(C4=NO[N+]([O-])=C4C#N)=NO3)=N2)=NO1,496.15,10.1002/chem.202101987 
+entry499,"4,4'-(methylenebis(nitroazanediyl))bis(1,2,5-oxadiazole-3-carboxylic acid)",C1(NC2=NON=C2/N=N\C3=NON=C3NC4=NN=CN=N4)=NN=CN=N1,492.15,10.1021/acs.joc.9b02484
+entry500,"4,4'-(2-nitro-1,4-phenylene)bis(3-nitro-1,2,5-oxadiazole 2-oxide)",O=[N+](C1=C(/C=C/C2=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C2)C([N+]([O-])=O)=CC([N+]([O-])=O)=C1/C=C/C3=CC=C([N+]([O-])=O)C=C3[N+]([O-])=O)[O-],548.25,10.1039/c4nj01091d
+entry501,"4,4'-([5,5'-bi(1,2,4-oxadiazole)]-3,3'-diyl)bis(N-(2,2,2-trinitroethyl)-1,2,5-oxadiazol-3-amine)",O=[N+](NC1=NON=C1C2=NOC(C3=NC(C4=NON=C4N[N+]([O-])=O)=NO3)=N2)[O-],373.95,10.1002/cplu.201800107
+entry502,"4,4'-((4-amino-4H-1,2,4-triazole-3,5-diyl)bis(methylene))bis(6-nitro-1,4-dihydropyrazolo[3,4-d][1,2,3]triazole 3-oxide)",NN1C(CN2N=C([N+]([O-])=O)C([N+]([O-])=O)=C2)=NN=C1CN3N=CC([N+]([O-])=O)=C3[N+]([O-])=O,454.15,10.1002/chem.201501612
+entry503,"4,4'-((2,4,6-trinitro-1,3-phenylene)bis(oxy))bis(1,3-dinitrobenzene)",[N-]=[N+]=NC1=NC(NNC2=NC(N=[N+]=[N-])=NC(N=[N+]=[N-])=N2)=NC(N=[N+]=[N-])=N1,471.25,10.1016/j.tca.2015.01.026
+entry504,"4,4'-((1E,1'E)-(2,4,6-trinitro-1,3-phenylene)bis(ethene-2,1-diyl))bis(1,3-dinitrobenzene)",NC1=NO[N+]([O-])=C1C2=[N+]([O-])ON=C2N,443.15,10.1002/ejic.201402960
+entry505,"4-(dinitromethylene)-1-nitroso-1,3,5-triazinane",O=[N+](/C([N+]([O-])=O)=C1NCN([N+]([O-])=O)CN\1)[O-],431.15,10.1039/c8cc05562a
+entry506,"4-(dinitromethylene)-1-nitro-1,3,5-triazinane",O=[N+](/C([N+]([O-])=O)=C1NCN([N+]([O-])=O)CN\1)[O-],437.15,10.1039/c8cc05562a
+entry507,"4-(dinitromethylene)-1-nitro-1,3,5-triazinane",CC1=NC(C2=NON=C2NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NO1,473.15,10.1039/c6nj03333d
+entry508,"4-(dinitromethylene)-1,3,5-oxadiazinane",O=[N+](/C([N+]([O-])=O)=C1NCN(N=O)CN\1)[O-],428.15,10.1039/c8cc10178g
+entry509,"4-(dinitromethylene)-1-(2,2,2-trinitroethyl)-1,3,5-triazinane",O=[N+](/C([N+]([O-])=O)=C(NCN/1)\NC1=C([N+]([O-])=O)/[N+]([O-])=O)[O-],408.15,10.1039/c9nj01932d
+entry510,4-(dinitromethyl)-5-nitro-1H-pyrazole,[O-][N+](ON=C1C2CC2)=C1[N+]([O-])=O,484.15,10.3390/molecules25245836
+entry511,"4-(5-methyl-1,2,4-oxadiazol-3-yl)-N-(2,2,2-trinitroethyl)-1,2,5-oxadiazol-3-amine",NC1=NON=C1N2N=C([N+]([O-])=O)C=C2[N+]([O-])=O,518.15,.10.1021/acs.orglett.0c01960
+entry512,"4-(5-amino-1H-1,2,4-triazol-3-yl)-1,2,5-oxadiazol-3-amine",NC1=NON=C1C2=NN=C(N)N2N,545.15,10.1002/slct.201900994
+entry513,"4-(5-amino-1H-1,2,4-triazol-3-yl)-1,2,5-oxadiazol-3-amine",NC1=NC(C2=NO[N+]([O-])=C2C#N)=NO1,468.15,10.1002/chem.202101987 
+entry514,"4-(5-amino-1,3,4-oxadiazol-2-yl)-1,2,5-oxadiazol-3-amine",NC1=NC(C2=NON=C2N)=NN1,575.48,10.1002/chem.201801597
+entry515,"4-(5-amino-1,2,4-oxadiazol-3-yl)-3-cyano-1,2,5-oxadiazole 2-oxide",NC1=N[N+]([O-])=NC2=C([N+]([O-])=O)C=NN21,575.15,10.1016/j.cej.2021.129190 
+entry516,"4-(5-(nitromethyl)-1,3,4-oxadiazol-2-yl)-1,2,5-oxadiazol-3-amine",NC1=NON=C1CC2=NC(N[N+]([O-])=O)=NN2,469.95,10.1002/anie.201701659
+entry517,"4-(5-(nitroamino)-1,2,4-oxadiazol-3-yl)-3-(1H-tetrazol-5-yl)-1,2,5-oxadiazole 2-oxide",[O-]C1=N[N+](C2=CC=C([N+]([O-])=O)C=C2)=NO1,509.15, 10.1039/c8ta06895j
+entry518,"4-(3,5-dinitro-1H-pyrazol-1-yl)-1,2,5-oxadiazol-3-amine",OCC1=NN=C(CO)N1NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,402.15,10.1002/chem.201500098
+entry519,"4-((2-(6-(3,5-dimethyl-1H-pyrazol-1-yl)-1,2,4,5-tetrazin-3-yl)hydrazineylidene)methyl)phenol",O=[N+](C1=NON=C1C2=C([N+]([O-])=O)C([N+]([O-])=O)=NN2C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)[O-],407.15,10.1016/j.fpc.2021.04.005
+entry520,"3-nitro-N1-(2,2,2-trinitroethyl)-1H-1,2,4-triazole-1,5-diamine",O=[N+](C1=NOC(NC(N=N2)=NN3C2=NN=C3[N+]([O-])=O)=N1)[O-],482.95,10.1002/asia.201801145
+entry521,"3-nitro-N-(3-nitro-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazin-6-yl)-1,2,4-oxadiazol-5-amine",O=[N+](C1=NN(NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)C=N1)[O-],414.15,10.1039/c3ta15057g
+entry522,"3-nitro-N-(2,2,2-trinitroethyl)-1H-1,2,4-triazol-1-amine",[N-]=[N+]=NC1=CC=CC([N+]([O-])=O)=C1,437.15, 10.1039/c8ta06895j
+entry523,"3-nitro-6-(trinitromethyl)-1,2,3,4-tetrahydro-1,3,5-triazine",O=[N+](C([N+]([O-])=O)C1=NCN([N+]([O-])=O)CN1[N+]([O-])=O)[O-],375.15,10.1039/c8cc05562a
+entry524,"3-nitro-6-(1H-tetrazol-5-yl)-[1,2,3]triazolo[1,5-b][1,2,4]triazin-5-amine",NC1=NC2=C([N+]([O-])=O)N=NN2N=C1C#N,469.15,10.1039/d1ta00109d
+entry525,"3-nitro-5-(4-nitro-1H-pyrazol-3-yl)-1H-1,2,4-triazole",NC1=NC(C2=NNN=C2[N+]([O-])=O)=NN1,536.47,10.1039/c7ta08941d
+entry526,"3-nitro-4-(trinitromethyl)-3,6-dihydro-2H-1,3,5-oxadiazine",O=[N+](C(CN([N+]([O-])=O)N1C=NN=C1)([N+]([O-])=O)[N+]([O-])=O)[O-],375.85,10.1039/c4ra03885a
+entry527,"3-nitro-4-(5-nitro-1H-1,2,4-triazol-3-yl)-1,2,5-oxadiazole",O=[N+](NC1=NNC(C2=NON=C2[N+]([O-])=O)=N1)[O-],436.35,10.1002/anie.201701659
+entry528,"3-nitro-4-(4-nitro-1-(trinitromethyl)-1H-pyrazol-3-yl)-1,2,5-oxadiazole",[O-][N+](ON=C1C2=CC([N+]([O-])=O)=CC=C2)=C1[N+]([O-])=O,435.15,10.3390/molecules25245836
+entry529,"3-nitro-4-(3-nitrophenyl)-1,2,5-oxadiazole 2-oxide",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NCCN1[N+]([O-])=O)[O-],402.95,10.1002/anie.201501973
+entry530,"3-nitro-4-(1H-tetrazol-5-yl)-1,2,5-oxadiazole",[O-]/[N+](C1=NON=C1[N+]([O-])=O)=N\[N+]([O-])=O,382.15,10.1002/slct.202003182
+entry531,"3-nitro-1H-1,2,4-triazole-1,5-diamine",NN1C=NC([N+]([O-])=O)=N1,579.15,10.1039/c3ta15057g
+entry532,"3-nitro-1H-1,2,4-triazole",O=[N+](C1=NNC=N1)[O-],490.15,10.1039/c8ra04116d
+entry533,"3-nitro-1H-1,2,4-triazole",NC(N=N1)=NN2C1=NN=C2[N+]([O-])=O,486.15,10.1039/c8nj05220d
+entry534,"3-nitro-1H-1,2,4-triazol-1-amine",O=[N+](C1=NNC=N1)[O-],490.15,10.1039/c8ra04116d
+entry535,"3-nitro-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazin-6-amine",O=[N+](N=C1NNC(N/C(NN2)=C([N+]([O-])=O)/[N+]([O-])=O)C2N1)[O-],396.65,10.1002/anie.201501973
+entry536,"3-nitro-[1,2,3]triazolo[1,5-b][1,2,4]triazine-5,6-diamine",NC1=NC2=C([N+]([O-])=O)N=NN2N=C1C3=NN=NN3,513.15,10.1039/d1ta00109d
+entry537,3-methyloxetan-3-yl nitrate,NC([N+]([O-])=N1)=NN2C1=NN=C2N[N+]([O-])=O,455.15,10.1021/acsaem.0c00487
+entry538,"3-methyl-4-nitro-1,2,5-oxadiazole 2-oxide",CC1=[N+]([O-])ON=C1C2=NC(N[N+]([O-])=O)=NN2,453.65,10.1002/anie.201701659
+entry539,"3-methyl-4-(3-(nitroamino)-1H-1,2,4-triazol-5-yl)-1,2,5-oxadiazole 2-oxide",CC1=[N+]([O-])ON=C1/C=N/N/C(N)=N/[N+]([O-])=O,468.85,10.1080/07370652.2014.956191
+entry540,"3-methyl-4-((E)-(2-((E)-N'-nitrocarbamimidoyl)hydrazineylidene)methyl)-1,2,5-oxadiazole 2-oxide",[O-][N+](ON=C1C2=NO[N+]([O-])=C2C)=C1[N+]([O-])=O,402.15,10.3390/molecules25245836
+entry541,"3-methyl-1,2,5-oxadiazole 2-oxide",CC1=[N+]([O-])ON=C1[N+]([O-])=O,461.15,10.3390/molecules25245836
+entry542,"3H-[1,2,3]triazolo[4,5-d]pyrimidine-5,7-diamine",[O-][N+]1=C(NC(N)=N)[N+]([O-])=NC([N+]([O-])=O)=N1,407.15,10.1002/chem.201405122
+entry543,"3-cyano-4-nitro-1,2,5-oxadiazole 2-oxide",[O-][N+](ON=C1[N+]([O-])=O)=C1C(N)=O,387.15,10.3390/molecules25245836
+entry544,"3-carbamoyl-4-nitro-1,2,5-oxadiazole 2-oxide",[N-]=[N+]=NC1COC1,463.15,10.1021/acs.joc.1c01060
+entry545,3-azidooxetane,NC1=NC(N=[N+]=[N-])=NN=C1[N+]([O-])=O,435.15,10.1002/prep.202000136
+entry546,"3-azido-6-nitro-1,2,4-triazin-5-amine",[N-]=[N+]=NC1=NON=C1C2=NNN=N2,458.75,10.1007/s10593-017-2123-8
+entry547,3-azido-4-nitro-1H-pyrazol-5-amine,NC(NC1=C([N+]([O-])=O)C=NN12)=C([N+]([O-])=O)C2=O,564.15,10.1039/d1ce00049g
+entry548,"3-azido-4-(2H-tetrazol-5-yl)-1,2,5-oxadiazole",N/C(C1=NNC(N=[N+]=[N-])=N1)=N\O,440.15,10.1002/zaac.201300022
+entry549,"3-amino-6-oxo-6H-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazin-2-ium-5-ide",[O-][N+]1=C(N)N=NC(NC(N[N+]([O-])=O)=N)=N1,450.15,10.1002/chem.201405122
+entry550,"3-amino-1,2,4-oxadiazol-5(4H)-one",[O-][N+]1=C(C2=NOC=N2)C(C3=NOC=N3)=NO1,481.15,10.1039/c7dt03320f
+entry551,"3,8-dinitropyrazolo[5,1-c][1,2,4]triazine-4,7-diamine",[N-]=[N+]=NC1=NN=C(N=[N+]=[N-])N=N1,403.15,10.1021/ja0509735
+entry552,"3,8-dinitro-[1,2,4]triazolo[4,3-b]pyridazine-6,7-diamine",[O-][N+]1=N[N+]([O-])=NC2=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C21,477.15,10.1002/prep.201100151
+entry553,"3,8-diazido-2,9-dinitrodiimidazo[1,2-d:2',1'-f][1,2,3,4]tetrazine",NC1=NN=C2N(N)C=NN21,492.15,10.1039/c7ta01111c
+entry554,"3,7-dinitro-[1,2,4]triazolo[5,1-c][1,2,4]triazin-4-amine",NC1=C([N+]([O-])=O)N(O)N=C1[N+]([O-])=O,366.15,10.1002/asia.201601615
+entry555,"3,7-diamino-2,6-dinitro-1H,5H-pyrazolo[1,2-a]pyrazole-1,5-dione",O=[N+](/C([N+]([O-])=O)=C(NN1)/NC(C1N/2)NNC2=C([N+]([O-])=O)/[N+]([O-])=O)[O-],398.75,10.1002/anie.201501973
+entry556,"3,7-bis(dinitromethylene)decahydro-[1,2,4]triazino[6,5-e][1,2,4]triazine",NN1N=C([N+]([O-])=O)C2=C1C([N+]([O-])=O)=NN2N,503.15,10.1002/anie.201606894
+entry557,"3,7,9,9-tetranitro-3,4,6,7,8,9-hexahydro-2H-pyrimido[1,6-a][1,3,5]triazine",[O-]N1C2=CC([N+]([O-])=O)=CC([N+]([O-])=O)=C2[NH+]=N1,455.15,10.1002/chem.201502812
+entry558,"3,7,7-trinitro-1,5-dioxocane-2,4-dione",O=C(C1)OCC(COC1=O)([N+]([O-])=O)[N+]([O-])=O,496.15,10.1002/chem.201101896
+entry559,"3,6-dinitropyrazolo[4,3-c]pyrazole-1,4-diol",O=C(N[N+]([O-])=O)OC1C(OC(N[N+]([O-])=O)=O)C([N+]([O-])=O)C(OC(N[N+]([O-])=O)=O)C(OC(N[N+]([O-])=O)=O)C1[N+]([O-])=O,433.15,10.1002/zaac.201700230
+entry560,"3,6-dinitropyrazolo[4,3-c]pyrazole-1,4-diamine",O=[N+](C1=NNC2C([N+]([O-])=O)=NNC21)[O-],609.15,10.1039/c6ra19556c
+entry561,"3,6-dinitropyrazolo[4,3-c]pyrazole-1,4-diamine",NC(C([N+]([O-])=O)=NN1N)=C1[N+]([O-])=O,514.15,10.1039/c2ta01359b
+entry562,"3,6-dinitropyrazolo[4,3-c]pyrazol-1(4H)-amine",NN1C([N+]([O-])=O)=NC([N+]([O-])=O)=N1,438.15,10.1039/c2dt30684k
+entry563,"3,6-dinitropyrazolo[1,5-a]pyrimidine-5,7-diamine",C[C@]1(OO)OO[C@@](OO)(C)CC1,397.15,10.1002/ejic.201600767
+entry564,"3,6-dinitrocyclohexane-1,2,4,5-tetrayl tetrakis(nitrocarbamate)",O=[N+](C1=NN(CN=[N+]=[N-])C2=C1N(CN=[N+]=[N-])N=C2[N+]([O-])=O)[O-],471.15,10.1039/c6ra19556c
+entry565,"3,6-dinitro-1,4-dihydropyrazolo[4,3-c]pyrazole",NC1=NC2=C([N+]([O-])=O)C=NN2C(N)=C1[N+]([O-])=O,598.15,10.1039/d1ce00049g
+entry566,"3,6-dinitro-1,3a,4,6a-tetrahydropyrazolo[4,3-c]pyrazole",O=[N+](C1=NNC2=C1NN=C2[N+]([O-])=O)[O-],609.15, 10.1002/asia.201402538
+entry567,"3,6-diazido-1,2,4,5-tetrazine",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)CN([N+]([O-])=O)C1=NON=C1NC2=NN=C(NC3=NON=C3N([N+]([O-])=O)CC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N=N2)[O-],417.15,10.1021/acsami.0c08526
+entry568,"3,6-diamino-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazine 7-oxide",[N-]=[N+]=NC1=NC(N=[N+]=[N-])=NC(NNC2=NN=C(NNC3=NC(N=[N+]=[N-])=NC(N=[N+]=[N-])=N3)N=N2)=N1,467.05, 10.1055/s-0037-1611696
+entry569,"3,6-di(2H-tetrazol-5-yl)-1,2,4,5-tetrazine",[N-]=[N+]=NC1=NC(N=[N+]=[N-])=NC(NNC2=NN=C(NNC3=NC(N=[N+]=[N-])=NC(N=[N+]=[N-])=N3)N=N2)=N1,467.05,10.1002/anie.201711220
+entry570,"3,6-bis(nitroamino)-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazine 7-oxide",O=[N+](NC(N=N1)=NN2C1=NN=C2N[N+]([O-])=O)[O-],411.15,10.1021/jacs.8b09519
+entry571,"3,6-bis(2-(4,6-diazido-1,3,5-triazin-2-yl)hydrazineyl)-1,2,4,5-tetrazine",[N-]=[N+]=NC1=NC(N=[N+]=[N-])=NC(N=NC2=NN=C(N=NC3=NC(N=[N+]=[N-])=NC(N=[N+]=[N-])=N3)N=N2)=N1,461.75, 10.1055/s-0037-1611696
+entry572,"3,6-bis(2-(4,6-diazido-1,3,5-triazin-2-yl)hydrazineyl)-1,2,4,5-tetrazine",[N-]=[N+]=NC1=NC(N=[N+]=[N-])=NC(N=NC2=NN=C(N=NC3=NC(N=[N+]=[N-])=NC(N=[N+]=[N-])=N3)N=N2)=N1,461.75,10.1002/anie.201711220
+entry573,"3,6-bis(2-((E)-2,4,6-trinitrobenzylidene)hydrazineyl)-1,2,4,5-tetrazine",O=[N+](C1=C(/C=N/NC2=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C2[N+]([O-])=O)C([N+]([O-])=O)=CC([N+]([O-])=O)=C1)[O-],481.15,10.1039/d0nj03476b
+entry574,"3,6-bis((4,6-diazido-1,3,5-triazin-2-yl)diazenyl)-1,2,4,5-tetrazine",N/C(NNC1=NN=C(NN/C(N)=N/[N+]([O-])=O)N=N1)=N\[N+]([O-])=O,453.09, 10.1002/prep.202000338
+entry575,"3,6-bis((4,6-diazido-1,3,5-triazin-2-yl)diazenyl)-1,2,4,5-tetrazine",[O-][N+]1=NC(NC2=NC([N+]([O-])=O)=NO2)=NN=C1NC3=NC([N+]([O-])=O)=NO3,501.15, 10.1002/prep.201900014
+entry576,"3,6-bis((3-nitro-1,2,4-oxadiazol-5-yl)amino)-1,2,4,5-tetrazine 1-oxide",NN1C2=NN=C(N)N2N=C1N,523.77,10.1007/s10973-016-5781-3
+entry577,"3,5-dinitro-N2,N6-bis(2,4,6-trinitrophenyl)pyridine-2,6-diamine",O=[N+](C1=C(NC2=C([N+]([O-])=O)C=C([N+]([O-])=O)C(NC3=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C3[N+]([O-])=O)=N2)C([N+]([O-])=O)=CC([N+]([O-])=O)=C1)[O-],626.45,10.1016/j.fpc.2021.02.006
+entry578,"3,5-dinitro-N2,N6-bis(2,4,6-trinitrophenyl)pyridine-2,6-diamine",NC1=NC(N[N+]([O-])=O)=NC2=NC(N[N+]([O-])=O)=NN21,462.15,10.1039/c8dt03126f
+entry579,"3,5-dinitro-N1-(2,2,2-trinitroethyl)-1H-pyrazole-1,4-diamine",[N-]=[N+]=NC1=CC([N+]([O-])=O)=CC([N+]([O-])=O)=C1,448.15, 10.1039/c8ta06895j
+entry580,"3,5'-dinitro-2'H-1,3'-bi(1,2,4-triazole)",NN1C([N+]([O-])=O)=CC([N+]([O-])=O)=N1,498.15,10.1039/c3ta15057g
+entry581,"3,5'-dinitro-2'H-[1,3'-bi(1,2,4-triazol)]-5-amine",NC1=NN=NN1C2=NC([N+]([O-])=O)=NN2,512.15,10.1039/c5ta09803c
+entry582,"3,5'-dinitro-2'H-[1,3'-bi(1,2,4-triazol)]-2'-amine",O=[N+](C1=NN(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)C([N+]([O-])=O)=C1)[O-],416.15,10.1002/asia.201500533
+entry583,"3,5-dinitro-1H-pyrazole-1,4-diamine",OOC(OO)C1=CC=C(C(OO)OO)C=C1,378.15,10.1039/c5cc05015d
+entry584,"3,5-dinitro-1H-pyrazole",NC1=C([N+]([O-])=O)N(NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N=C1[N+]([O-])=O,389.15,10.1039/c3ta15057g
+entry585,"3,5-dinitro-1H-pyrazol-4-ol",O=[N+](C1=NNC(N(C=N2)N=C2[N+]([O-])=O)=N1)[O-],523.15,10.1039/c5ta09803c
+entry586,"3,5-dinitro-1H-pyrazol-1-amine",NN(C([N+]([O-])=O)=N1)N=C1N(C=N2)N=C2[N+]([O-])=O,440.15,10.1039/c5ta09803c
+entry587,"3,5-dinitro-1H-1,2,4-triazol-1-amine",NN1C([N+]([O-])=O)=NC([N+]([O-])=O)=N1,438.15,10.1039/c2ta00136e
+entry588,"3,5-dinitro-1H-1,2,4-triazol-1-amine",NN1C(C#N)=C([N+]([O-])=O)C([N+]([O-])=O)=N1,490.15,10.1039/c3ta15057g
+entry589,"3,5'-dinitro-1'H-[1,3'-bi(1,2,4-triazol)]-1'-amine",NN1C(N(C=N2)N=C2[N+]([O-])=O)=NC([N+]([O-])=O)=N1,515.15,10.1039/c5ta09803c
+entry590,"3,5'-dinitro-1'H-[1,3'-bi(1,2,4-triazol)]-1'-amine",NC1=C([N+]([O-])=O)N(C2=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C2[N+]([O-])=O)N=C1[N+]([O-])=O,510.65,10.1002/ejoc.202100159
+entry591,"3,5-dinitro-1-(trinitromethyl)-1H-pyrazole",NN(C([N+]([O-])=O)=N1)N=C1N(C=N2)N=C2[N+]([O-])=O,459.15,10.1039/c7ta02585h
+entry592,"3,5-dinitro-1-(2,4,6-trinitrophenyl)-1H-pyrazol-4-amine",C[C@]1(OO)OO[C@@](OO)(C)C1,391.15,10.1002/ejic.201600767
+entry593,"3,5-diamino-4-nitropyridazine 1-oxide",NC1=NN(C2=NN=NN2)C(N)=C1[N+]([O-])=O,545.15,10.1039/c9dt03138c
+entry594,"3,5-diamino-4-nitro-1H-pyrazole-1-carboximidamide",NC1=NC2=C([N+]([O-])=O)N=NN2N=C1N=[N+]=[N-],439.15,10.1039/d1ta00109d
+entry595,"3,5-diamino-4,6-dinitropyridazine 1-oxide",O=[N+](C1=C(C2=C([N+]([O-])=O)NN=C2[N+]([O-])=O)NN=C1C3=C([N+]([O-])=O)NN=C3[N+]([O-])=O)[O-],573.15,10.1021/acs.inorgchem.1c01202
+entry596,"3,5-bis(azidomethyl)-4H-1,2,4-triazol-4-amine",NN1C(CN2N=C([N+]([O-])=O)C(N)=C2[N+]([O-])=O)=NN=C1CN3N=C([N+]([O-])=O)C(N)=C3[N+]([O-])=O,560.15,10.1002/chem.201501612
+entry597,"3,5-bis(4-nitro-1H-pyrazol-3-yl)-1,2,4-oxadiazole",O=[N+](C1=C(N[N+]([O-])=O)C([N+]([O-])=O)=NN1CC2=NNC(CN3N=C([N+]([O-])=O)C(N[N+]([O-])=O)=C3[N+]([O-])=O)=N2)[O-],395.15,10.1002/chem.201501612
+entry598,"3,5-bis(3,5-dinitro-1H-pyrazol-4-yl)-1H-1,2,4-triazole",O=[N+](C1=C(NN=C1[N+]([O-])=O)C2=NC(C3=C([N+]([O-])=O)C([N+]([O-])=O)=NN3)=NN2)[O-],527.15,10.1039/d0ta09158h
+entry599,"3,5-bis(3,4-dinitro-1H-pyrazol-5-yl)-1H-1,2,4-triazole",O=[N+](C1=NNC([N+]([O-])=O)=C1)[O-],472.15,10.1002/cplu.201800318
+entry600,"3,5-bis(3,4-dinitro-1H-pyrazol-5-yl)-1,2,4-oxadiazole",O=[N+](C1=C([N+]([O-])=O)C([N+]([O-])=O)=NN1CC2=NN([N+]([O-])=O)C(CN3N=C([N+]([O-])=O)C([N+]([O-])=O)=C3[N+]([O-])=O)=N2)[O-],407.15,10.1002/chem.201501612
+entry601,"3,5-bis(1,4-dinitro-1H-pyrazol-3-yl)-1,2,4-oxadiazole",IC(C(I)=C1I)=NN1CC2=NN=C(CN3N=C(I)C(I)=C3I)N2N,533.15,10.1016/j.cej.2019.02.192
+entry602,"3,5-bis((3,4,5-trinitro-1H-pyrazol-1-yl)methyl)-4H-1,2,4-triazol-4-amine",[O-][N+]1=C(C2=NOC(N)=N2)C(N)=NO1,461.15, 10.1002/jhet.3109
+entry603,"3,5-bis((3,4,5-trinitro-1H-pyrazol-1-yl)methyl)-1H-1,2,4-triazole",O=[N+](C1=CN([N+]([O-])=O)N=C1C2=NOC(C3=NN([N+]([O-])=O)C=C3[N+]([O-])=O)=N2)[O-],429.15,10.1002/cplu.201900454
+entry604,"3,5-bis((3,4,5-triiodo-1H-pyrazol-1-yl)methyl)-4H-1,2,4-triazol-4-amine",IC(N=C1I)=C(I)N1CC2=NN=C(CN3C(I)=NC(I)=C3I)N2N,509.15,10.1016/j.cej.2019.02.192
+entry605,"3,5-bis((2,4,5-triiodo-1H-imidazol-1-yl)methyl)-4H-1,2,4-triazol-4-amine",NC(NC1=NON=C1NC(N)=O)=O,512.15, 10.1002/jhet.3109
+entry606,"3,4-dinitro-N1-(2,2,2-trinitroethyl)-1H-pyrazole-1,5-diamine",O=[N+](C1=NN(NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)C=C1[N+]([O-])=O)[O-],383.15,10.1039/c3ta15057g
+entry607,"3,4-dinitro-N-(2,2,2-trinitroethyl)-1H-pyrazol-1-amine",NN1C(N)=C([N+]([O-])=O)C([N+]([O-])=O)=N1,527.15,10.1039/c3ta15057g
+entry608,"3,4-dinitro-1H-pyrazole-1,5-diamine",NN1C=C([N+]([O-])=O)C([N+]([O-])=O)=N1,514.15,10.1039/c3ta15057g
+entry609,"3,4-dinitro-1H-pyrazole",NC1=C([N+]([O-])=O)C([N+]([O-])=O)=NN1NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,379.15,10.1039/c3ta15057g
+entry610,"3,4-dinitro-1H-pyrazol-1-amine",O=[N+](C1=CN(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N=C1[N+]([O-])=O)[O-],414.15,10.1002/asia.201500533
+entry611,"3,4-dinitro-1-(trinitromethyl)-1H-pyrazole",O=[N+](NC1=NON=C1N[N+]([O-])=O)[O-],372.15, 10.1021/jacs.5b09831
+entry612,"3,4-dicyano-1,2,5-oxadiazole 2-oxide",NC1=C([N+]([O-])=O)N=NN1N,467.05,10.1039/c6cc03833f
+entry613,"3,4-di(1,2,4-oxadiazol-3-yl)-1,2,5-oxadiazole 2-oxide",O=[N+](OCC1=NC(C2=NOC(CO[N+]([O-])=O)=N2)=NO1)[O-],456.53,10.1021/acs.oprd.8b00076
+entry614,"3,4-di(1,2,4-oxadiazol-3-yl)-1,2,5-oxadiazole 2-oxide",O=[N+](NC1=NC(CN2C(N[N+]([O-])=O)=NN=N2)=NN1)[O-],432.15,10.1039/c6ta05057c
+entry615,"3,4-bis(5-amino-1,2,4-oxadiazol-3-yl)-1,2,5-oxadiazole 2-oxide",[O-][N+]1=C(C2=[N+]([O-])ON=C2[N+]([O-])=O)C(C3=[N+]([O-])ON=C3[N+]([O-])=O)=NO1,419.65,10.1039/c8ta02274g
+entry616,"3,4-bis(5-(hydroxymethyl)isoxazol-3-yl)-1,2,5-oxadiazole 2-oxide",[O-][N+]1=C(C2=NOC(N)=N2)C(C3=NOC(N)=N3)=NO1,546.15, 10.1002/jhet.3109
+entry617,"3,4-bis(5-((nitrooxy)methyl)isoxazol-3-yl)-1,2,5-oxadiazole 2-oxide",OCC1=CC(C2=[N+]([O-])ON=C2C3=NOC(CO)=C3)=NO1,528.25,10.1002/cplu.201900710
+entry618,"3,4-bis(3,5-dinitrophenyl)-1,2,5-oxadiazole 2-oxide",[O-]/[N+](C1=NON=C1/N=[N+]([O-])/C2=NON=C2/[N+]([O-])=N/[N+]([O-])=O)=N\[N+]([O-])=O,368.15,10.1002/slct.202003182
+entry619,"3,4-bis((Z)-N'-hydroxycarbamimidoyl)-1,2,5-oxadiazole 2-oxide",O/N=C(N)/C1=NON=C1/C(N)=N/O,471.15,10.1039/c4nj01351d
+entry620,"3,4-bis((E)-(hydroxyimino)methyl)-1,2,5-oxadiazole 2-oxide",C1(NN2N=NN=C2)=NN=CN1/N=N/N3C(NN4N=NN=C4)=NN=C3,443.15,10.1016/j.cej.2020.124027
+entry621,"3',4,8,8'-tetranitro-[7,7'-bipyrazolo[5,1-c][1,2,4]triazine]-3,4'-diamine",NC(/C([N+]([O-])=O)=N\NC1=NN=NN1)=O,421.15,10.1002/prep.202000136
+entry622,"3,4,5-trinitro-1H-pyrazol-1-ol",O=[N+](C1=C(C([N+]([O-])=O)=NN1C[N+]([O-])=O)[N+]([O-])=O)[O-],475.15,10.1039/c7ta02585h
+entry623,"3,4,5-trinitro-1-(nitromethyl)-1H-pyrazole",IC1=NN(C2=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C2[N+]([O-])=O)C(I)=C1I,377.15,10.1016/j.cej.2019.02.192
+entry624,"3,4,5-triiodo-1-(2,4,6-trinitrophenyl)-1H-pyrazole",[O-]/[N+](C1=NON=C1N[N+]([O-])=O)=N/C2=NON=C2N[N+]([O-])=O,363.15,10.1021/ja501176q
+entry625,"3,3',5,5'-tetraazido-4,4'-bi(1,2,4-triazole)",[O-][N+]1=C(C2=NNC(/N=N/C3=NC(C4=[N+]([O-])ON=C4N=[N+]=[N-])=NN3)=N2)C(N=[N+]=[N-])=NO1,470.15,10.1002/chem.202101987 
+entry626,"3,3'',4',5,5''-pentanitro-1H,1'H,1''H-4,3':5',4''-terpyrazole",O=[N+](C1=CNN=C1C2=NOC(C3=NNC=C3[N+]([O-])=O)=N2)[O-],587.15,10.1002/cplu.201900454
+entry627,"3,3'-(oxalylbis(nitroazanediyl))dipropionic acid",NC1=NON=C1C2=NON=C2C3=NON=C3N,543.35,10.1007/s10973-018-7242-7
+entry628,"3,3'-(diazene-1,2-diyl)bis(1,2,4-oxadiazol-5(4H)-one)",NC(NC1=NON=C1/N=N/C2=NON=C2NC(N)=O)=O,523.15, 10.1002/jhet.3109
+entry629,"3,3'-(4-nitro-1,3-phenylene)bis(4-nitro-1,2,5-oxadiazole 2-oxide)",OC1=C([N+]([O-])=O)C(/C=C/C2=C([N+]([O-])=O)C(/C=C/C3=C([N+]([O-])=O)C(O)=C([N+]([O-])=O)C=C3[N+]([O-])=O)=C([N+]([O-])=O)C=C2[N+]([O-])=O)=C([N+]([O-])=O)C=C1[N+]([O-])=O,541.45,10.1039/c4nj01091d
+entry630,"3,3'-((1E,1'E)-(2,4,6-trinitro-1,3-phenylene)bis(ethene-2,1-diyl))bis(2,4,6-trinitrophenol)",NC1=[N+]([O-])ON=C1C2=NO[N+]([O-])=C2N,433.15,10.1002/ejic.201402960
+entry631,3-(trinitromethyl)-1H-pyrazole,O=[N+](NC1=NC(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NN1)[O-],398.15,10.1039/c7nj00695k
+entry632,"3-(dinitromethylene)-2,3,4,5-tetrahydro-1,2,4-triazin-5-ol",[O-][N+](ON=C1[N+]([O-])=O)=C1C#N,406.15,10.3390/molecules25245836
+entry633,"3-(dinitromethyl)-5-nitro-1H-1,2,4-triazole",O=[N+](C([N+]([O-])=O)C1=NOC=N1)[O-],438.15,10.1039/c7dt03320f
+entry634,"3-(dinitromethyl)-4-nitro-1,2,5-oxadiazole",O=C1NC(C([N+]([O-])=O)[N+]([O-])=O)=NO1,349.15,10.1002/chem.201704446
+entry635,"3-(dinitromethyl)-1,2,4-oxadiazole",OC1C=NN/C(N1)=C([N+]([O-])=O)\[N+]([O-])=O,532.56,10.1007/s10973-019-09013-x
+entry636,"3-(dinitromethyl)-1,2,4-oxadiazol-5(4H)-one",N/C(NNC1=NN=C(N2N=C(C)C=C2C)N=N1)=N\[N+]([O-])=O,471.3, 10.1002/prep.202000338
+entry637,"3-(5-nitro-2H-1,2,3-triazol-4-yl)-1H-1,2,4-triazol-5-amine",NC1=NC(C2=NNC=C2[N+]([O-])=O)=NN1,554.15,10.1016/j.cej.2019.122331
+entry638,"3-(5-amino-1H-1,2,4-triazol-3-yl)-4-azido-1,2,5-oxadiazole 2-oxide",NC1=NC(C2=[N+]([O-])ON=C2N=[N+]=[N-])=NO1,423.15,10.1002/chem.202101987 
+entry639,"3-(5-amino-1,3,4-oxadiazol-2-yl)-4-nitro-1,2,5-oxadiazole 2-oxide",NC(N1O)=C([N+]([O-])=O)C(N)=[N+]([O-])C1=O,544.15,10.1021/jacs.1c05292
+entry640,"3-(5-amino-1,2,4-oxadiazol-3-yl)-4-nitro-1,2,5-oxadiazole 2-oxide",NC1=NC(C2=[N+]([O-])ON=C2[N+]([O-])=O)=NO1,449.15,10.1039/c9nj00955h
+entry641,"3-(5-amino-1,2,4-oxadiazol-3-yl)-4-nitro-1,2,5-oxadiazole 2-oxide",[O-][N+]1=C(C2=CC([N+]([O-])=O)=CC=C2)C([N+]([O-])=O)=NO1,448.15,10.3390/molecules25245836
+entry642,"3-(5-amino-1,2,4-oxadiazol-3-yl)-4-azido-1,2,5-oxadiazole 2-oxide",NC1=NC(N=NC2=NOC(N2)=O)=NO1,539.9,10.11943/CJEM2018278
+entry643,"3-(4-nitrophenyl)-1,2,3,4-oxatriazol-3-ium-5-olate",O=[N+](C1=NON=C1C2=NOC(N=NC3=NC(C4=NON=C4[N+]([O-])=O)=NO3)=N2)[O-],529.41, 10.1021/acs.cgd.8b01016
+entry644,"3-(4-nitro-1H-pyrazol-3-yl)-1H-1,2,4-triazol-5-amine",[O-][N+]1=C(C2=NOC(N)=N2)C([N+]([O-])=O)=NO1,471.15, 10.1002/jhet.3109
+entry645,"3-(4-nitro-1,2,5-oxadiazol-3-yl)-1,2,4-oxadiazol-5-amine",O=C(N1)ON=C1C2=NON=C2[N+]([O-])=O,494.83,10.1039/c8nj04428g
+entry646,"3-(4-nitro-1,2,5-oxadiazol-3-yl)-1,2,4-oxadiazol-5(4H)-one",NC1=NON=C1C2=NON=C2C3=NON=C3[N+]([O-])=O,530.35,10.1002/prep.201500291
+entry647,"3-(4,6-dinitro-1H-indazol-1-yl)-4H-1,2,4-triazol-4-amine",NN1C=NN=C1N(N=C2)C3=C2C([N+]([O-])=O)=CC([N+]([O-])=O)=C3,452.15, 10.1021/acs.cgd.9b00775
+entry648,"3-(4,6-dinitro-1H-indazol-1-yl)-4H-1,2,4-triazol-4-amine",[N-]=[N+]=NC1=NC(NC2=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C2[N+]([O-])=O)=NC(N=[N+]=[N-])=N1,470.95,10.1016/j.tca.2015.01.026
+entry649,"3-(4,6-dinitro-1H-indazol-1-yl)-4H-1,2,4-triazol-4-amine",NN1C=NN=C1N/N=C/C2=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C2[N+]([O-])=O,458.15,10.1039/d0nj03476b
+entry650,"3-(4,6-dinitro-1H-indazol-1-yl)-4H-1,2,4-triazol-4-amine",NN1C(N)=NN=C1CC2=NON=C2/N=N\C3=NON=C3CC4=NN=C(N)N4N,586.15,10.1016/j.enmf.2020.07.001
+entry651,"3-(4-((2,2,2-trinitroethyl)amino)-1,2,5-oxadiazol-3-yl)-1,2,4-oxadiazol-5(4H)-one",[O-]C1=N[N+](C2=CC=CC([N+]([O-])=O)=C2)=NO1,510.15, 10.1039/c8ta06895j
+entry652,"3-(3-nitrophenyl)-1,2,3,4-oxatriazol-3-ium-5-olate",[O-][N+]1=C(C)C(/C=N/NC2=NN=CN2N)=NO1,481.15,10.1039/d0nj00541j
+entry653,"3-(3,5-dinitrophenyl)-4-nitro-1,2,5-oxadiazole 2-oxide",CC1=CC(C)=NN1C2=NN=C(NN=CC3=CC=C(O)C=C3)N=N2,496.76,10.1107/S2053229618006617
+entry654,"3-(3,5-dinitrophenyl)-1,2,3,4-oxatriazol-3-ium-5-olate",[O-][N+](ON=C1[N+]([O-])=O)=C1C2=CC([N+]([O-])=O)=CC([N+]([O-])=O)=C2,426.15,10.3390/molecules25245836
+entry655,"3-(3,5-dinitro-1H-pyrazol-1-yl)-4-nitro-1,2,5-oxadiazole",O=[N+](C(C=C1[N+]([O-])=O)=NN1C2=NNC=N2)[O-],573.15,.10.1021/acs.orglett.0c01960
+entry656,"3-(3,5-dinitro-1H-pyrazol-1-yl)-1H-1,2,4-triazole",NC1=NC(N2N=C([N+]([O-])=O)C=C2[N+]([O-])=O)=NN1,529.15,.10.1021/acs.orglett.0c01960
+entry657,"3-(3,5-dinitro-1H-pyrazol-1-yl)-1H-1,2,4-triazol-5-amine",[O-]C1=N[N+](C2=CC([N+]([O-])=O)=CC([N+]([O-])=O)=C2)=NO1,502.15, 10.1039/c8ta06895j
+entry658,"3-(3,4-dinitro-1-(trinitromethyl)-1H-pyrazol-5-yl)-4-nitro-1,2,5-oxadiazole",CC1=NON=C1C2=C([N+]([O-])=O)C([N+]([O-])=O)=NN2C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,414.15,10.1002/prep.201600050
+entry659,"3-(3,4-dinitro-1-(trinitromethyl)-1H-pyrazol-5-yl)-4-methyl-1,2,5-oxadiazole",[O-]C1=N[N+](C2=CC=C([N+]([O-])=O)C=C2[N+]([O-])=O)=NO1,424.15, 10.1039/c8ta06895j
+entry660,"3-(2,4-dinitrophenyl)-1,2,3,4-oxatriazol-3-ium-5-olate",O=[N+](C1=C(OCC(CO[N+]([O-])=O)(CO[N+]([O-])=O)CO[N+]([O-])=O)C=CC([N+]([O-])=O)=C1)[O-],457.65,10.1055/s-0035-1561474
+entry661,"3-(1H-tetrazol-5-yl)-1H-1,2,4-triazol-5-amine",NC1=NC(C2=NC([N+]([O-])=O)=NN2)=NN1,528.15,10.1039/c3dt51205c
+entry662,"3-((methyl(nitro)amino)methyl)-4,6-dinitro-1H-benzo[d][1,2,3]triazol-3-ium-1-olate",CN([N+]([O-])=O)CN1C([N+]([O-])=O)=C([N+]([O-])=O)N=C1,463.15,10.1039/c6nj00202a
+entry663,"3-((5-amino-1,2,4-oxadiazol-3-yl)diazenyl)-1,2,4-oxadiazol-5(4H)-one",[O-][N+]1=C(C2=NN=NN2)C(C3=NOC(N[N+]([O-])=O)=N3)=NO1,394.35,10.1039/c8dt03616k
+entry664,"3-((4-amino-3,5-dinitro-1H-pyrazol-1-yl)methyl)-1,2,4-oxadiazol-5-amine",NC1=NC(CN2C([N+]([O-])=O)=C([N+]([O-])=O)C([N+]([O-])=O)=N2)=NO1,474.65,10.1021/acs.cgd.0c00016
+entry665,"3-((3,4-dinitro-1H-pyrazol-1-yl)methyl)-5-((4,5-dinitro-1H-pyrazol-1-yl)methyl)-4H-1,2,4-triazol-4-amine",NN1C(CN2N=C([N+]([O-])=O)C([N+]([O-])=O)=C2[N+]([O-])=O)=NN=C1CN3N=C([N+]([O-])=O)C([N+]([O-])=O)=C3[N+]([O-])=O,486.15,10.1002/chem.201501612
+entry666,"3-((3,4,5-trinitro-1H-pyrazol-1-yl)methyl)-1,2,4-oxadiazol-5-amine",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NC=CC=C1)[O-],387.15,10.3390/molecules23010002
+entry667,"3-((1H-tetrazol-5-yl)amino)-6-amino-1,2,4,5-tetrazine 1-oxide",NC1=NC(CN([N-]2)C(C([N+]#N)=C2[N+]([O-])=O)=O)=NO1,393.75,10.1021/acs.cgd.0c00016
+entry668,"2-nitro-2-(1H-tetrazol-5-yl)ethene-1,1-diamine",N/C(N)=C([N+]([O-])=O)\C1=NC=NN1,540.15,10.1021/jacs.0c01640
+entry669,"2-nitro-2-(1H-1,2,4-triazol-5-yl)ethene-1,1-diamine",N/C(N)=C([N+]([O-])=O)\C1=NC=NC(N)=N1,549.15,10.1021/jacs.0c01640
+entry670,"2-nitro-2-((nitrooxy)methyl)propane-1,3-diyl dinitrate",O=[N+](OCC(CO[N+]([O-])=O)([N+]([O-])=O)CO[N+]([O-])=O)[O-],453.05,10.1016/j.tca.2013.05.032
+entry671,"2-nitro-2-(((nitrocarbamoyl)oxy)methyl)propane-1,3-diyl bis(nitrocarbamate)",O=C(OCC(COC(N[N+]([O-])=O)=O)([N+]([O-])=O)COC(N[N+]([O-])=O)=O)N[N+]([O-])=O,421.15, 10.1002/zaac.201500795
+entry672,2-nitro-1H-benzo[d]imidazole,C=CN1N=NC(CCC2=NN=NN2C=C)=N1,459.15, 10.1515/znb-2016-0146
+entry673,2-nitro-1-(trinitromethyl)-1H-imidazole,O=[N+](C1=CC2=C(N/C(N2)=N/[N+]([O-])=O)C=C1[N+]([O-])=O)[O-],523.15, 10.1002/prep.201400045
+entry674,2-methyl-5-nitro-2H-tetrazole,CN1N=NC(N2N=NN=C2)=N1,408.15,10.1002/chem.201300691
+entry675,"2'-methyl-2'H-1,5'-bitetrazole",CN1N=NC(N([N+]([O-])=O)CN([N+]([O-])=O)C)=N1,389, 10.1002/zaac.200900521
+entry676,"2-methyl-2-((nitrooxy)methyl)propane-1,3-diyl dinitrate",CC(CO[N+]([O-])=O)(CO[N+]([O-])=O)CO[N+]([O-])=O,455.05,10.1016/j.tca.2013.05.032
+entry677,"2-methyl-1-(4-((((4-((E)-2-methyl-1-oxidodiazen-1-yl)-1,2,5-oxadiazol-3-yl)(nitro)amino)methyl)(nitro)amino)-1,2,5-oxadiazol-3-yl)diazene 1-oxide",O=[N+](N(CN(C1=NON=C1C2=NOC=N2)[N+]([O-])=O)C3=NON=C3C4=NOC=N4)[O-],422.15,10.1039/c6ta08055c
+entry678,"2-methoxy-4,6-bis(2,2,2-trinitroethoxy)-1,3,5-triazine",O=[N+](C(C1=NC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=N1)([N+]([O-])=O)[N+]([O-])=O)[O-],442.65,10.1039/c6ra05826d
+entry679,"2'H-1,5'-bitetrazole",O=[N+](C(C1=NC(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NN1)[N+]([O-])=O)[O-],416.15,10.1039/c7ta00730b
+entry680,"2H,2'H-[5,5'-bitetrazole]-2,2'-diol",C1(NC2=NN=NN2)=NN=NN1,523.15,10.1039/b811273h
+entry681,"2-ethyl-2-((nitrooxy)methyl)propane-1,3-diyl dinitrate",CCC(CO[N+]([O-])=O)(CO[N+]([O-])=O)CO[N+]([O-])=O,450.85,10.1016/j.tca.2013.05.032
+entry682,2-azidobenzaldehyde,COC1=NC(OC)=NC(N=[N+]=[N-])=N1,460.15,10.1021/acs.joc.9b00269
+entry683,"2-azido-4,6-dimethoxy-1,3,5-triazine",O=[N+](C(COC1=NC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NC(N=[N+]=[N-])=N1)([N+]([O-])=O)[N+]([O-])=O)[O-],443.05,10.1039/c6ra05826d
+entry684,"2-azido-4,6-bis(2,2,2-trinitroethoxy)-1,3,5-triazine",NN1N=NC([N+]([O-])=O)=N1,413.15,10.1039/c2dt30684k
+entry685,"2a1-nitrohexahydro-2H-1,3,5-trioxacyclopenta[cd]pentalene-2,4,6-triyl tris(nitrocarbamate)",O=[N+](O[C@H]1OC2C3([N+]([O-])=O)C1O[C@H](O[N+]([O-])=O)C3O[C@@H]2O[N+]([O-])=O)[O-],429.93, 10.1039/c7ra05295b
+entry686,"2,9-dinitro-5,6-dihydrobis([1,2,4]triazolo)[1,5-a:5',1'-c]pyrazine",CC(C([N+]([O-])=O)=CC([N+]([O-])=N[N+]([O-])=O)=C1)=C1[N+]([O-])=O,410.15,10.1039/c4ta04716h
+entry687,"2,6-diiodo-3,5-dinitro-4H,9H-dipyrazolo[1,5-a:5',1'-d][1,3,5]triazine",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NC(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=CC=C1)[O-],374.15,10.3390/molecules23010002
+entry688,"2,6-diamino-9H-purine 1-oxide",NC(O1)=NN=C1C2=[N+]([O-])ON=C2[N+]([O-])=O,423.15,10.1016/j.enmf.2020.09.004
+entry689,"2,6-bis(trinitromethyl)pyridine",O=[N+](C1=C(NC(N=C(NC2=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C2[N+]([O-])=O)C([N+]([O-])=O)=C3)=C3[N+]([O-])=O)C([N+]([O-])=O)=CC([N+]([O-])=O)=C1)[O-],633.15,10.1002/chem.201600769
+entry690,"2,5-bis(trinitromethyl)-1,3,4-oxadiazole",O=[N+](C([N+]([O-])=O)C1=NN(C([N+]([O-])=O)[N+]([O-])=O)N=N1)[O-],361.15,10.1021/acs.orglett.9b01565
+entry691,"2,5-bis(dinitromethyl)-2H-tetrazole",O=[N+](C([N+]([O-])=O)C1=NN=C(C([N+]([O-])=O)[N+]([O-])=O)O1)[O-],359.15,10.1021/jacs.7b05158
+entry692,"2,5-bis(dinitromethyl)-1,3,4-oxadiazole",O=[N+](C1=CNN=C1C2=NN=C(C3=NNC=C3[N+]([O-])=O)O2)[O-],611.15,10.1039/d0nj00518e
+entry693,"2,5-bis(4-nitro-1H-pyrazol-3-yl)-1,3,4-oxadiazole",O=[N+](C1=CN([N+]([O-])=O)N=C1C2=NN=C(C3=NN([N+]([O-])=O)C=C3[N+]([O-])=O)O2)[O-],432.15,10.1039/d0nj00518e
+entry694,"2,5-bis(4-azido-1,2,5-oxadiazol-3-yl)-1,3,4-oxadiazole",O=C(CN(CC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)[N+]([O-])=O)N=[N+]=[N-],362.15,10.1002/chem.201301190
+entry695,"2,5-bis(1,4-dinitro-1H-pyrazol-3-yl)-1,3,4-oxadiazole",CN([N+]([O-])=O)CN1N=NC(N([N+]([O-])=O)CN([N+]([O-])=O)C)=N1,397, 10.1002/zaac.200900521
+entry696,"2,4-dinitro-1H-imidazole-1,5-diamine",O=[N+](/N=C1N(N[N+]([O-])=O)N=NN/1)[O-],383.15,10.1002/anie.201502919
+entry697,"2,4-dinitro-1H-imidazol-5-amine",NC1=[NH+]N=NN1/N=[N+]([O-])/[O-],358.15,10.1002/chem.201102142
+entry698,"2,4-bis(dinitromethylene)-1,3,5-triazinane",NN1N=C([N+]([O-])=O)C([N+]([O-])=O)=C1C2=C([N+]([O-])=O)C([N+]([O-])=O)=NN2N,525.15, 10.1021/jacs.7b08789
+entry699,"2,4-bis(2,2,2-trinitroethoxy)-6-(trinitromethyl)-1,3,5-triazine",O=[N+](C(COC1=NC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=N1)([N+]([O-])=O)[N+]([O-])=O)[O-],441.95,10.1039/c6ra05826d
+entry700,"2,4,6-tris(2,2,2-trinitroethoxy)-1,3,5-triazine",OC1=C([N+]([O-])=O)C=C([N+]([O-])=O)N=C1[N+]([O-])=O,504.55, 10.1002/prep.202000177
+entry701,"2,4,6-trinitropyridin-3-ol",O=[N+](N1C2N([N+]([O-])=O)C3N([N+]([O-])=O)C4N([N+]([O-])=O)C3N([N+]([O-])=O)C2N([N+]([O-])=O)C14)[O-],485.15,10.1016/j.tca.2005.02.021
+entry702,"2,4,6-trinitro-5-(7H-tris([1,2,5]oxadiazolo)[3,4-b:3',4'-d:3'',4''-f]azepin-7-yl)benzene-1,3-diamine",[O-][N+]1=C2C3=NON=C3N(C4=C([N+]([O-])=O)C(N)=C([N+]([O-])=O)C(N)=C4[N+]([O-])=O)C5=NON=C5C2=NO1,575.15,10.1021/acsaem.0c01181
+entry703,"2,4,6-trinitro-3-(7H-tris([1,2,5]oxadiazolo)[3,4-b:3',4'-d:3'',4''-f]azepin-7-yl)aniline",[O-][N+]1=C2C3=NON=C3N(C4=C([N+]([O-])=O)C(N)=C([N+]([O-])=O)C=C4[N+]([O-])=O)C5=NON=C5C2=NO1,587.15,10.1021/acsaem.0c01181
+entry704,"2,3-dinitro-2,3-bis(((nitrocarbamoyl)oxy)methyl)butane-1,4-diyl bis(nitrocarbamate)",O=[N+](C1=NN2C(NC3=C([N+]([O-])=O)C([N+]([O-])=O)=NN3CC2)=C1[N+]([O-])=O)[O-],580.15,10.1002/anie.201704687
+entry705,"2,3,5,6-tetranitro-9,10-dihydro-4H-dipyrazolo[1,5-a:5',1'-d][1,3,5]triazepine",O=[N+](C1=NN2C(NC3=C([N+]([O-])=O)C([N+]([O-])=O)=NN3C2)=C1[N+]([O-])=O)[O-],534.15,10.1002/anie.201704687
+entry706,"2,3,5,6-tetranitro-4H,9H-dipyrazolo[1,5-a:5',1'-d][1,3,5]triazine",NN1C2=C([N+]([O-])=O)C([N+]([O-])=O)=NN2CN3N=C([N+]([O-])=O)C([N+]([O-])=O)=C13,515.15,10.1002/anie.201704687
+entry707,"2,3,5,6-tetranitro-4H,9H-dipyrazolo[1,5-a:5',1'-d][1,3,5]triazin-4-amine",O=C(OCC([N+]([O-])=O)([N+]([O-])=O)C)N[N+]([O-])=O,413.15,10.1021/acs.joc.5b00655
+entry708,"2,3,5,12,14,15,17,18,20,27,29,30-dodecaaza-1,16(3,6)-ditetrazinacyclotriacontaphane-4,13,19,28-tetraone",O=C(NC1=CC(NC(NNC2=NN=C(N=N2)NNC3=O)=O)=CC(C)=C1)NNC4=NN=C(NNC(NC5=CC(C)=CC(N3)=C5)=O)N=N4,488.45, 10.1039/c5ra21345b
+entry709,"2,3,5,10,12,13,15,16,18,23,25,26-dodecaaza-1,14(3,6)-ditetrazinacyclohexacosaphane-4,11,17,24-tetraone",O=C(NCCCCCCNC(NNC1=NN=C(N=N1)NNC2=O)=O)NNC3=NN=C(NNC(NCCCCCCN2)=O)N=N3,483.05, 10.1039/c5ra21345b
+entry710,"2,2-dinitropropyl nitrocarbamate",O=C(OCC([N+]([O-])=O)([N+]([O-])=O)C)N,465.15,10.1021/acs.joc.5b00655
+entry711,"2,2-dinitropropyl carbamate",O=C(OCC([N+]([O-])=O)([N+]([O-])=O)COC(NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O)NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,442.15, 10.1002/zaac.201300563
+entry712,"2,2-dinitropropane-1,3-diyl dipropionate",CC(OCC([N+]([O-])=O)([N+]([O-])=O)COC(C)=O)=O,514.15,10.1002/prep.201600066 
+entry713,"2,2-dinitropropane-1,3-diyl dicarbamate",O=C(OCC(COC(N[N+]([O-])=O)=O)([N+]([O-])=O)[N+]([O-])=O)N[N+]([O-])=O,431.15,10.1021/acs.joc.5b00655
+entry714,"2,2-dinitropropane-1,3-diyl diacetate",O=C1OCC(COC1=O)([N+]([O-])=O)[N+]([O-])=O,474.15,10.1002/chem.201101896
+entry715,"2,2-dinitropropane-1,3-diyl bis(nitrocarbamate)",O=C(OCC([N+]([O-])=O)([N+]([O-])=O)COC(CC)=O)CC,516.15,10.1002/prep.201600066 
+entry716,"2,2-dinitropropane-1,3-diyl bis(2,2,2-trinitroethyl) bis(carbonate)",O=C(OCC(COC(N)=O)([N+]([O-])=O)[N+]([O-])=O)N,455.15,10.1021/acs.joc.5b00655
+entry717,"2,2-dinitropropane-1,3-diyl bis((2,2,2-trinitroethyl)carbamate)",O=C(OCC([N+]([O-])=O)([N+]([O-])=O)COC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O)OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,449.15, 10.1002/zaac.201300563
+entry718,"2,2-dinitro-N-(2,4,6-trinitrophenyl)ethene-1,1-diamine",N/C(N1C(C=C([N+]([O-])=O)C=C2[N+]([O-])=O)=C2C=N1)=N\N=C\C3=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C3[N+]([O-])=O,462.15,10.1039/d0nj03476b
+entry719,"2,2-dinitroethene-1,1-diamine",CN([N+]([O-])=O)CNC(OCN([N+]([O-])=O)C)=O,453.15,10.1002/ejic.201402441
+entry720,"2,2-bis(azidomethyl)propane-1,3-diyl dipropionate",O=C(OCC(CN=[N+]=[N-])(CN=[N+]=[N-])COC(CCC)=O)CCC,499.15,10.1002/prep.201600066 
+entry721,"2,2-bis(azidomethyl)propane-1,3-diyl dibutyrate",CC(OCC(CN=[N+]=[N-])(CN=[N+]=[N-])COC(C)=O)=O,503.15,10.1002/prep.201600066 
+entry722,"2,2-bis(azidomethyl)propane-1,3-diyl diacetate",CN1N=NC(/N=[N+]([O-])/C2=NN(C)N=N2)=N1,481.15, 10.1039/c7nj02724a
+entry723,"2,2-bis((nitrooxy)methyl)propane-1,3-diyl dinitrate",O=[N+](OCC(CO[N+]([O-])=O)(CO[N+]([O-])=O)CO[N+]([O-])=O)[O-],460.85,10.1016/j.tca.2013.05.032
+entry724,"2,2-bis((nitrooxy)methyl)propane-1,3-diyl dinitrate",O=[N+](OC[C@@H]1[C@H](CO[N+]([O-])=O)[C@H](CO[N+]([O-])=O)[C@@H]1CO[N+]([O-])=O)[O-],467.45,10.1021/jacs.9b06961
+entry725,"2,2-bis(((nitrocarbamoyl)oxy)methyl)propane-1,3-diyl bis(nitrocarbamate)",O=C(N([H])[N+]([O-])=O)OCC(COC(N([N+]([O-])=O)[H])=O)(COC(N([N+]([O-])=O)[H])=O)COC(N([H])[N+]([O-])=O)=O,469.15,10.1002/ejoc.201403265
+entry726,"2,2-bis(((nitrocarbamoyl)oxy)methyl)propane-1,3-diyl bis(nitrocarbamate)",O=C(NN=C1[N+]([O-])=O)[C-]1[N+]#N,424.15,10.1039/c7nj00876g
+entry727,"2,2-bis(((nitrocarbamoyl)oxy)methyl)propane-1,3-diyl bis(nitrocarbamate)",O=C(N/N=C/C1=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C1[N+]([O-])=O)N2C(C=C([N+]([O-])=O)C=C3[N+]([O-])=O)=C3C=N2,517.15,10.1039/d0nj03476b
+entry728,"2,2',5,5'-tetranitro-2H,2'H-3,3'-bipyrazole",[H][C@]1(CC(OO)(OO)C2)[C@]2([H])CC(OO)(OO)C1,373.15,10.1039/c5cc05015d
+entry729,"2,2,2-trinitro-N-(2,2,2-trinitroethyl)ethan-1-imine",CN([N+]([O-])=O)CN([N+]([O-])=O)C(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O,420.15,10.1002/ejic.201301114
+entry730,"2,2,2-trinitroethyl N-nitro-N-(2,2,2-trinitroethyl)glycinate",CN(CC(NC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O)=O)[N+]([O-])=O,423.15,10.1002/asia.201601148
+entry731,"2,2,2-trinitroethyl N-methyl-N-nitroglycinate",O=C(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N[N+]([O-])=O,413.15, 10.1002/zaac.201300426
+entry732,"2,2,2-trinitroethyl nitrocarbamate",O=C(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N[N+]([O-])=O,426.15,10.1021/acs.joc.5b00655
+entry733,"2,2,2-trinitroethyl nitrocarbamate",O=[N+](C(COC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)[O-],465.15, 10.1002/zaac.201100340
+entry734,"2,2,2-trinitroethyl nitro((nitro(2,2,2-trinitroethyl)amino)methyl)carbamate",O=C(NCN([N+]([O-])=O)CC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,443.15,10.1002/chem.201301190
+entry735,"2,2,2-trinitroethyl carbamate",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)COC(N)=O)[O-],419.15, 10.1002/zaac.201300426
+entry736,"2,2,2-trinitroethyl carbamate",O=C(C(N=[N+]=[N-])=O)OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,323.15, 10.1002/ejic.201600357
+entry737,"2,2,2-trinitroethyl 4,4,4-trinitrobutanoate",O=C(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)C1=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C1[N+]([O-])=O,466.35,10.1039/c6nj02198k
+entry738,"2,2,2-trinitroethyl 2-azido-2-oxoacetate",O=C(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)CCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,428.15,10.1039/c6dt03779h
+entry739,"2,2,2-trinitroethyl 2,4,6-trinitrobenzoate",O=C(NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,459.15,10.1016/j.jfluchem.2013.06.019
+entry740,"2,2,2-trinitroethyl (N-methyl-N-nitroglycyl)carbamate",O=C(N([N+]([O-])=O)CN([N+]([O-])=O)CC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,434.15,10.1002/chem.201301190
+entry741,"2,2,2-trinitroethyl (4,4,4-trinitrobutanoyl)carbamate",O=C(C(OCCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O)OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,441.15, 10.1002/ejic.201600357
+entry742,"2,2,2-trinitroethyl (3,3,3-trinitropropyl) oxalate",O=[N+](C1=NN(COCN2N=NC([N+]([O-])=O)=N2)N=N1)[O-],476.15,10.1039/c5ta03884g
+entry743,"2,2,2-trinitroethyl (2,2,2-trinitroethyl)carbamate",O=C(CN([N+]([O-])=O)CC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,456.15,10.1002/chem.201301190
+entry744,"2,2,2-trinitroethyl ((nitro(2,2,2-trinitroethyl)amino)methyl)carbamate",O=C(NC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O)CCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,456.15, 10.1002/ejic.201600357
+entry745,"2,2,2-trinitroethyl ((methyl(nitro)amino)methyl)carbamate",CN(CC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O)[N+]([O-])=O,451.15,10.1002/asia.201601148
+entry746,"2,2,2-trinitroethyl ((methyl(nitro)amino)methyl)(nitro)carbamate",CN([N+]([O-])=O)CNC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O,456.15,10.1002/ejic.201301114
+entry747,"2,2',2''-(((1E,4E)-pentaaza-1,4-diene-1,3,5-triyl)tris(2H-tetrazole-5,2-diyl))tris(ethan-1-ol)",N#CCN1N=C(N(/N=N/C2=NN(CC#N)N=N2)/N=N/C3=NN(CC#N)N=N3)N=N1,401.15,10.1039/c6cc08179g
+entry748,"2,2',2''-(((1E,4E)-pentaaza-1,4-diene-1,3,5-triyl)tris(2H-tetrazole-5,2-diyl))triacetonitrile",C1(N(/N=N/C2=NN(CC3=CC=CC=C3)N=N2)/N=N/C4=NN(CC5=CC=CC=C5)N=N4)=NN(CC6=CC=CC=C6)N=N1,405.15,10.1039/c6cc08179g
+entry749,"2,2'-(oxybis(methylene))bis(5-nitro-2H-tetrazole)",O=[N+](C(C1=NN(COCN2N=NC(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=N2)N=N1)([N+]([O-])=O)[N+]([O-])=O)[O-],403.15,10.1039/c5ta03884g
+entry750,"2,2'-(oxybis(methylene))bis(5-(trinitromethyl)-2H-tetrazole)",O=[N+](C1=NN2C(C3=NC([N+]([O-])=O)=NN3CCC2)=N1)[O-],601.15,10.1039/c8ta02704h
+entry751,"2,2'-(oxalylbis(nitroazanediyl))diacetic acid",O=C(CCN(C(C(N(CCC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O)[N+]([O-])=O)=O)=O)[N+]([O-])=O)OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,453.15,10.1002/slct.202102271
+entry752,"2,2'-(ethane-1,2-diylbis(2H-tetrazole-5,2-diyl))diacetic acid",N/C(NNC=O)=N\[N+]([O-])=O,468.11, 10.1002/prep.202000338
+entry753,"2,10-dinitro-6,7-dihydro-5H-bis([1,2,4]triazolo)[1,5-a:5',1'-c][1,4]diazepine",O=[N+](NC1=NON=C1C2=NN=C(C3=NON=C3N[N+]([O-])=O)O2)[O-],340.15,10.1002/anie.202014207
+entry754,2-(trinitromethyl)pyridine,O=[N+](N=C1NN=C(C2=NN=C(C[N+]([O-])=O)O2)N1)[O-],423.55,10.1016/j.cej.2021.132503
+entry755,"2-(nitromethyl)-5-(2,4,6-trinitrophenyl)-1,3,4-oxadiazole",[O-]/[N+](C(C)(C)[N+]([O-])=O)=N\[N+]([O-])=O,377.15, 10.1002/ejoc.201801533
+entry756,2-(methyl(nitro)amino)-N-nitroacetamide,CN(CC(N)=O)[N+]([O-])=O,459.15,10.1002/asia.201601148
+entry757,2-(methyl(nitro)amino)ethyl nitrate,CN([N+]([O-])=O)CCO[N+]([O-])=O,453.15, 10.1002/zaac.201100262
+entry758,2-(methyl(nitro)amino)acetamide,O=[N+](/C([N+]([O-])=O)=C1NC2C(CCCC2)N/1)[O-],508.51,10.1039/c6ta08831g
+entry759,2-(dinitromethylene)octahydro-1H-benzo[d]imidazole,OC1N/C(NC1O)=C([N+]([O-])=O)\[N+]([O-])=O,457.96,10.1039/c6ta08831g
+entry760,"2-(dinitromethylene)imidazolidine-4,5-diyl diacetate",O=C(OC1N/C(NC1OC(C)=O)=C([N+]([O-])=O)\[N+]([O-])=O)C,438.51,10.1039/c6ta08831g
+entry761,"2-(dinitromethylene)imidazolidine-4,5-diyl diacetate",O=C(OC1N=C(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N([N+]([O-])=O)C1OC(C)=O)C,391.26,10.1039/c6ta08831g
+entry762,"2-(dinitromethylene)imidazolidine-4,5-diol",O=C(OC(N/1)C(OC(C)=O)NC1=C([N+]([O-])=O)/[N+]([O-])=O)C,426.72,10.1002/cjoc.201180394
+entry763,"2-(dinitromethylene)imidazolidine-4,5-diol",O=[N+](/C([N+]([O-])=O)=C1NCCCN/1)[O-],513.18,10.1039/c6ta08831g
+entry764,2-(dinitromethylene)imidazolidine,O=[N+](/C([N+]([O-])=O)=C1NCCN/1)[O-],530.15,10.1002/anie.201501973
+entry765,2-(dinitromethylene)imidazolidine,O=[N+](/C([N+]([O-])=O)=C1NCCCCN/1)[O-],476.71,10.1002/cjoc.201180283
+entry766,2-(dinitromethylene)hexahydropyrimidine,O=[N+](/C([N+]([O-])=O)=C1NC(OCCO2)C2N\1)[O-],464.88,10.1039/c6ta08831g
+entry767,"2-(dinitromethylene)hexahydro-1H-[1,4]dioxino[2,3-d]imidazole",CC(CN/1)NC1=C([N+]([O-])=O)/[N+]([O-])=O,510.98,10.1039/c6ta08831g
+entry768,2-(dinitromethylene)-4-methylimidazolidine,O=[N+](/C([N+]([O-])=O)=C1NCCN/1)[O-],492.94,10.1002/cjoc.200990320
+entry769,"2-(dinitromethylene)-1,3-diazepane",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NN(C([N+]([O-])=O)[N+]([O-])=O)N=N1)[O-],346.15,10.1021/acs.orglett.9b01565
+entry770,2-(dinitromethyl)-5-(trinitromethyl)-2H-tetrazole,O=[N+](C(C([N+]([O-])=O)=NN1)=C1C2=NN=C(C3=CC([N+]([O-])=O)=NN3)O2)[O-],527.15,10.1039/d0nj00518e
+entry771,"2-(6-oxo-1,6-dihydro-1,2,4,5-tetrazin-3-yl)hydrazine-1-carboximidamide",NC1=C([N+]([O-])=O)C2=NON=C2[N+]([O-])=N1,448.15,10.1002/chem.201703930
+entry772,2-(5-nitro-2H-tetrazol-2-yl)acetonitrile,O=C1OCC(CO[N+]([O-])=O)(CO[N+]([O-])=O)N1[N+]([O-])=O,433.15,10.1002/ejoc.201700434
+entry773,"2-(5-amino-1H-tetrazol-4-ium-1-yl)diazene 1,1-dioxide",NC1=NC(C(NN)=O)=NN1,674.15,10.1039/c8dt01760c
+entry774,2-(5-amino-1H-tetrazol-1-yl)ethyl nitrate,OCCN1N=NN/C1=N\[N+]([O-])=O,411.15,10.1002/chem.200802203
+entry775,2-(5-(nitroamino)-2H-tetrazol-2-yl)ethyl nitrate,NC(N/N=C(NC(N)=O)/C([N+]([O-])=O)[N+]([O-])=O)=O,402.15,10.1021/acs.jpca.7b01742
+entry776,2-(5-(nitroamino)-1H-tetrazol-1-yl)ethyl nitrate,NC1=NN=NN1CCO[N+]([O-])=O,436.15,10.1016/j.poly.2011.05.042
+entry777,"2-(5-((2,2,2-trinitroethyl)amino)-1H-tetrazol-1-yl)ethan-1-ol",[N-]=[N+]=N/C(N=[N+]=[N-])=N/N1N=NN=C1N=[N+]=[N-],397.15, 10.1002/anie.201100300
+entry778,2-(4-nitro-1H-pyrazol-3-yl)-1-(4-nitro-1H-pyrazol-5-yl)diazene 1-oxide,[O-][N+](C1=NN([N+]([O-])=O)C=C1[N+]([O-])=O)=NC2=NN([N+]([O-])=O)C=C2[N+]([O-])=O,434.15, 10.1039/D1DT03357C
+entry779,"2-(4-amino-1,3,5-triazin-2-yl)-2-nitroethene-1,1-diamine",N/C(N)=C([N+]([O-])=O)\[N+]([O-])=O,547.15,10.1002/anie.201501973
+entry780,"2-(3,4-dinitro-1H-pyrazol-5-yl)-5-(3-nitro-1H-pyrazol-5-yl)-1,3,4-oxadiazole",CN([N+]([O-])=O)CN1N=C(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N=N1,407.15, 10.1002/chem.201405659
+entry781,"2-(2,4,6-trinitrophenyl)guanidine",N/C(C([N+]([O-])=O)[N+]([O-])=O)=N\N=C\C=N\N=C(N)\C([N+]([O-])=O)[N+]([O-])=O,498.75,10.1039/c6cc02669a
+entry782,2-(1-methylhydrazineyl)ethan-1-amine,N/C(NNC(N)=O)=C([N+]([O-])=O)\[N+]([O-])=O,443.15,10.1021/acs.jpca.7b01742
+entry783,"2-(1-amino-2,2-dinitrovinyl)hydrazine-1-carboxamide",O=[N+](C1=NC2=CC=CC=C2N1)[O-],453.15, 10.1002/prep.201400045
+entry784,"2-((3-((1,3-bis(nitrooxy)-2-((nitrooxy)methyl)propan-2-yl)(nitro)amino)-2-(nitrooxy)propyl)(nitro)amino)-2-((nitrooxy)methyl)propane-1,3-diyl dinitrate",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)CN([N+]([O-])=O)C1=NC(C2=NON=C2N([N+]([O-])=O)CC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NN1)[O-],364.97,10.1002/chem.201801597
+entry785,"2-((2,4-dinitrophenoxy)methyl)-2-((nitrooxy)methyl)propane-1,3-diyl dinitrate",O=C(NC(N[N+]([O-])=O)=O)NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,387.15,10.1039/c7nj01119a
+entry786,1-vinyl-5-(2-(2-vinyl-2H-tetrazol-5-yl)ethyl)-1H-tetrazole,NC1=[NH+]N=NN1[N-][N+]([O-])=O,386.15,10.1007/s10870-012-0319-4
+entry787,1-nitro-3-propylguanidine,N=C(NCCC)N[N+]([O-])=O,503.05,10.3969/j.issn.1003-1480.2019.04.009 
+entry788,"1-nitro-3,5-bis((3,4,5-trinitro-1H-pyrazol-1-yl)methyl)-1H-1,2,4-triazole",O=[N+](C1=C([N+]([O-])=O)C([N+]([O-])=O)=NN1CC2=NNC(CN3N=C([N+]([O-])=O)C([N+]([O-])=O)=C3[N+]([O-])=O)=N2)[O-],491.15,10.1002/chem.201501612
+entry789,1-nitro-3-(trinitromethyl)-1H-pyrazole,O=[N+](OCC1=NN([N+]([O-])=O)C(CO[N+]([O-])=O)=N1)[O-],408.15,10.1002/chem.201500098
+entry790,"1-nitro-3-(4-nitro-1,2,5-oxadiazol-3-yl)urea",[O-][N+](ON=C1C)=C1[N+]([O-])=O,449.15,10.3390/molecules25245836
+entry791,"1-nitro-2-(trinitromethyl)-4,5-dihydro-1H-imidazole-4,5-diyl diacetate",O=[N+](C1=NC(C2=NNN=C2C3=NNC([N+]([O-])=O)=N3)=NN1)[O-],463.15,10.1039/d1nj00076d
+entry792,"1-nitro-2-(trinitromethyl)-4,5-dihydro-1H-imidazole",N#CC1=NNC([N+]([O-])=O)=N1,469.15, 10.1002/chem.201301339
+entry793,"1-nitro-2-(trinitromethyl)-3a,5,6,7a-tetrahydro-1H-[1,4]dioxino[2,3-d]imidazole",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NCCCN1[N+]([O-])=O)[O-],407.92,10.1039/c6ta08831g
+entry794,"1-nitro-2-(trinitromethyl)-1,4,5,6-tetrahydropyrimidine",CN1C(NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NN=N1,417.15,10.1002/chem.201300994
+entry795,"1-methyl-N-(2,2,2-trinitroethyl)-1H-tetrazol-5-amine",CN1C([N+]([O-])=O)=NN=N1,428.15,10.1039/b812529e
+entry796,"1-methyl-5-nitro-3-(trinitromethyl)-1H-1,2,4-triazole",CN1N=NN/C1=N/[N+]([O-])=O,398.15,10.1002/zaac.200800430
+entry797,1-methyl-5-nitro-1H-tetrazole,CN1C([N+]([O-])=O)=NC(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=N1,426.15,10.1021/ja2013455
+entry798,"1-methyl-3,5-dinitro-1H-pyrazol-4-amine",CN(C([N+]([O-])=O)=C1N)N=C1[N+]([O-])=O,543.15,10.1039/c2ta01359b
+entry799,"1-methyl-3,4,5-trinitro-1H-pyrazole",CN(C([N+]([O-])=O)=C1[N+]([O-])=O)N=C1[N+]([O-])=O,558.15,10.1039/c2ta01359b
+entry800,"1-methoxy-N-(2,2,2-trinitroethyl)-1H-tetrazol-5-amine",[N-]=[N+]=NC1=NC=NN1,433.15, 10.1002/ejoc.201101450
+entry801,"1-hydrazineyl-2,2-dinitroethen-1-amine",N/C(NC1=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C1[N+]([O-])=O)=C([N+]([O-])=O)\[N+]([O-])=O,400.75,10.1002/cplu.201900236
+entry802,"1H-[1,2,4]triazolo[4,3-b][1,2,4]triazole-3,6-diamine",[O-][N+]1=NC2=NN=C(N)N2N=C1N,469.15,10.1039/c9cc04496e
+entry803,"1H,4'H-[3,3'-bi(1,2,4-triazole)]-4',5,5'-triamine",NC1=NN=C(N1)C2=NNC(C3=NN=C(N)N3)=C2,489.15,10.1039/d1nj03433b
+entry804,"1H,2'H-[5,5'-bitetrazole]-1,2'-diamine",C1(/N=N/C2=NN=NN2C3=NNN=N3)=NN=NN1C4=NNN=N4,475.15, 10.1039/d0ta08153a
+entry805,"1H,2'H-[5,5'-bitetrazol]-2'-ol",ON1N=NN=C1C2=NOC=N2,416.15,10.1039/c7dt03320f
+entry806,"1H,1'H-[5,5'-bitetrazole]-1,1'-diol dihydrate",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)CNC1=NN=NN1CCO)[O-],419.15,10.1002/chem.201300994
+entry807,"1H,1'H-[5,5'-bitetrazole]-1,1'-diamine",NN1C(C2=NC([N+]([O-])=O)=C([N+]([O-])=O)N2N)=NC([N+]([O-])=O)=C1[N+]([O-])=O,489.95,10.1080/07370652.2016.1267278
+entry808,1-azido-4-nitrobenzene,O=[N+](C1=NNN=C1C(N2)=NNC2=N[N+]([O-])=O)[O-],441.6,10.1039/c7ta08941d
+entry809,1-azido-3-nitrobenzene,NC(N=N1)=NN2C1=NN=C2N[N+]([O-])=O,514.15,10.1021/acsaem.0c00487
+entry810,"1-azido-3,5-dinitrobenzene",OC1=C([N+]([O-])=O)NN=C1[N+]([O-])=O,445.15, 10.1021/acsaem.9b01608
+entry811,1-azido-3-(1-methylhydrazineyl)propan-2-ol,[N-]=[N+]=NC(C=CC=C1)=C1[N+]([O-])=O,344.49,10.1007/s10973-009-0572-8
+entry812,1-azido-2-nitrobenzene,IC1=C(N=[N+]=[N-])C(I)=C([N+]([O-])=O)C(I)=C1[N+]([O-])=O,443.15,10.1016/j.cej.2019.122119
+entry813,"1-azido-2,4,6-triiodo-3,5-dinitrobenzene",CN(N=NN1N)C1=N,440.15, 10.1002/zaac.200700539
+entry814,"1-amino-3,4-dinitro-1H-pyrazole-5-carbonitrile",N/C(NC)=C([N+]([O-])=O)/[N+]([O-])=O,517.61,10.1002/cjoc.201090116
+entry815,"1-amino-1H-1,2,3-triazole 3-oxide",C=CCN1N=NC(CCC2=NN=NN2CC=C)=N1,503.15, 10.1515/znb-2016-0146
+entry816,1-allyl-5-(2-(2-allyl-2H-tetrazol-5-yl)ethyl)-1H-tetrazole,O=[N+](C(N(C([N+]([O-])=O)=C1)N=C1N2C=NN=N2)([N+]([O-])=O)[N+]([O-])=O)[O-],405.15,10.1002/asia.201800214
+entry817,"1,5'-dinitro-2'-(trinitromethyl)-1H,2'H-3,3'-bi(1,2,4-triazole)",NC1=C([N+]([O-])=O)N=C([N+]([O-])=O)N1N,463.35,10.1039/c6cc03833f
+entry818,"1,5'-dinitro-1H,2'H-3,3'-bi(1,2,4-triazole)",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)N1N=C([N+]([O-])=O)N=C1C2=NN(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)C=N2)[O-],425.15,10.1021/acsaem.0c00724
+entry819,"1,4-dihydro-5H-tetrazol-5-one",O=C1NN=NN1,512.15,10.1002/prep.201100108
+entry820,"1,4-bis(dihydroperoxymethyl)benzene",[N-]=[N+]=NCN1C2=C(N(CN=[N+]=[N-])N=C2[N+]([O-])=O)C([N+]([O-])=O)=N1,469.15,10.1039/c6ta02384c
+entry821,"1,4-bis(azidomethyl)-3,6-dinitro-1,4-dihydropyrazolo[4,3-c]pyrazole",NN(N=C1[N+]([O-])=O)C2=C1N(N)N=C2[N+]([O-])=O,513.15,10.1039/c6ra19556c
+entry822,"1,4-bis(azidomethyl)-3,6-dinitro-1,4-dihydropyrazolo[4,3-c]pyrazole",[N-]=[N+]=NC1=NN=NN1CCCCN2C(N=[N+]=[N-])=NN=N2,437.15,10.1002/ejoc.200900411
+entry823,"1,4-bis(5-azido-1H-tetrazol-1-yl)butane",O=[N+](C1=NN([N+]([O-])=O)C=C1)[O-],444.15,10.1002/cplu.201800318
+entry824,"1,3-dinitro-6-(trinitromethyl)-1,2,3,4-tetrahydro-1,3,5-triazine",O=[N+](C1=C(C(N(CCC2)N=C3[N+]([O-])=O)=C3[N+]([O-])=O)N2N=C1[N+]([O-])=O)[O-],553.15,10.1039/c8ta02704h
+entry825,"1,3-dinitro-1H-pyrazole",O=[N+](NCC(O[N+]([O-])=O)CN[N+]([O-])=O)[O-],441.15, 10.1002/zaac.200800342
+entry826,"1,3-bis(trinitromethyl)-1H-1,2,4-triazole",IC1=C(I)C(I)=NN1CN([N+]([O-])=O)CN2C(I)=C(I)C(I)=N2,543.35, 10.1021/acs.inorgchem.7b02277
+entry827,"1,3-bis(nitroamino)propan-2-yl nitrate",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NN(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)C=N1)[O-],430.15, 10.1021/acs.orglett.8b04114
+entry828,"1,3-bis(2,2,2-trinitroethyl)urea",O=C(NC(NC(OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O)=O)OCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,442.15, 10.1002/zaac.201300563
+entry829,"1,3-bis(1,1,1-trinitropropan-2-yl)urea",O=[N+](N(CC1=NN=NN1)CC2=NN=NN2)[O-],471.15,10.1016/j.cej.2021.128697
+entry830,"1,3-bis((methyl(nitro)amino)methyl)urea",C12=NON=C1NC3=NC4=NON=C4NC3=N2,418.15, 10.1039/c8ob02155d
+entry831,"1,3,7,9-tetranitrobenzo[d]benzo[4,5][1,2,3]triazolo[2,1-a][1,2,3]triazol-11-ium-6-ide",IC1=C([N+]([O-])=O)C(I)=C([N+]([O-])=O)C(I)=C1[N+]([O-])=O,640.15,10.1016/j.cej.2019.122119
+entry832,"1,3,5-triiodo-2,4,6-trinitrobenzene",C=CN1N=C(N(/N=N/C2=NN(C=C)N=N2)/N=N/C3=NN(C=C)N=N3)N=N1,395.15,10.1039/c6cc08179g
+entry833,"1,3,5,5-tetranitrohexahydropyrimidine",O=[N+](C1=NN([N+]([O-])=O)C2=C1N([N+]([O-])=O)N=C2[N+]([O-])=O)[O-],418.15,10.1002/anie.201606894
+entry834,"1,3,4,6-tetranitro-1,4-dihydropyrazolo[4,3-c]pyrazole",C1(CCC(C2=NN=NN2)(C3=NN=NN3)CCC4=NN=NN4)=NN=NN1,494.17,10.1007/s10973-018-7073-6
+entry835,"1,2-di(1H-tetrazol-5-yl)hydrazine",O=[N+](C1=NNC([N+]([O-])=O)=C1C2=NN=C(C3=NN=C(O3)C4=C([N+]([O-])=O)NN=C4[N+]([O-])=O)O2)[O-],614.15, 10.1021/acscentsci.9b01096
+entry836,"1,2-di(1H-tetrazol-5-yl)ethane",[N-]=[N+]=NC(N=N1)=NN2C1=NN=C2/N=N\C3=NN=C4N3N=C(N=[N+]=[N-])N=N4,456.15,10.1039/c9ta01717h
+entry837,"1,2-bis(5-azido-3,4-dinitro-1H-pyrazol-1-yl)ethane",[N-]=[N+]=NC1=NN=NN1CCN2C(N=[N+]=[N-])=NN=N2,442.15,10.1002/ejoc.200900411
+entry838,"1,2-bis(5-azido-1H-tetrazol-1-yl)ethane",CC(CN1C(N=[N+]=[N-])=NN=N1)N2N=NN=C2N=[N+]=[N-],443.15,10.1002/ejoc.200900411
+entry839,"1,2-bis(5-(5-nitro-2H-1,2,3-triazol-4-yl)-1H-1,2,4-triazol-3-yl)diazene",[O-][N+]1=C(C2=NOC(N[N+]([O-])=O)=N2)C(/N=N/C3=NO[N+]([O-])=C3C4=NOC(N[N+]([O-])=O)=N4)=NO1,399.15,10.1039/c9dt02684c
+entry840,"1,2-bis(5-(4-nitro-1,2,5-oxadiazol-3-yl)-1,3,4-oxadiazol-2-yl)diazene",O=[N+](C1=C(N=[N+]=[N-])C([N+]([O-])=O)=NN1CCN2N=C([N+]([O-])=O)C(N=[N+]=[N-])=C2[N+]([O-])=O)[O-],408.15,10.1002/chem.201404991
+entry841,"1,2-bis(5-(1-methylhydrazineyl)-1H-tetrazol-1-yl)ethane",C1(CCC2=NN=NN2)=NN=NN1,524.15, 10.1002/slct.201600494
+entry842,"1,2-bis(5-(1H-tetrazol-5-yl)-2H-1,2,3-triazol-4-yl)diazene",[O-]/[N+](C1=NON=C1NC2=NN=CN=N2)=N/C3=NON=C3NC4=NN=CN=N4,505.15,10.1021/acs.joc.9b02484
+entry843,"1,2-bis(4-azido-3,5-dinitro-1H-pyrazol-1-yl)ethane",C1(C2=NNN=C2N=NC3=NNN=C3C4=NN=NN4)=NN=NN1,401.15,10.1039/c5dt03044g
+entry844,"1,2-bis(4,6-diazido-1,3,5-triazin-2-yl)hydrazine",[N-]=[N+]=NC1=NC(/N=N/C2=NC(N=[N+]=[N-])=NC(N=[N+]=[N-])=N2)=NC(N=[N+]=[N-])=N1,459.15,10.1016/j.tca.2015.01.026
+entry845,"1,2-bis(4,6-diazido-1,3,5-triazin-2-yl)hydrazine",[N-]=[N+]=NC1=NC(N=NC2=NC(N=[N+]=[N-])=NC(N=[N+]=[N-])=N2)=NC(N=[N+]=[N-])=N1,473.15,10.1080/07370650490893054
+entry846,"1,2-bis(4,6-diazido-1,3,5-triazin-2-yl)diazene",O=[N+](C1=C(C(C(N(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N=C2[N+]([O-])=O)=C2[N+]([O-])=O)=NN1)[N+]([O-])=O)[O-],423.15,10.1039/c7ta11172j
+entry847,"1,2-bis(3,5-dinitro-1H-pyrazol-4-yl)ethane",O=[N+](C1=C([N+]([O-])=O)C([N+]([O-])=O)=NN1CCN2N=C([N+]([O-])=O)C([N+]([O-])=O)=C2[N+]([O-])=O)[O-],523.15,10.1002/chem.201404991
+entry848,"1,2-bis(3,4,5-trinitro-1H-pyrazol-1-yl)ethane",O=[N+](C1=NN(CC2=NOC(/N=N/C3=NC(CN(N=C4[N+]([O-])=O)C([N+]([O-])=O)=C4[N+]([O-])=O)=NO3)=N2)C([N+]([O-])=O)=C1[N+]([O-])=O)[O-],523.35,10.1021/acs.cgd.0c00016
+entry849,"1,2-bis(3-(4-nitro-1,2,5-oxadiazol-3-yl)-1,2,4-oxadiazol-5-yl)diazene",NC1=NC(C2=NON=C2[N+]([O-])=O)=NO1,362.35, 10.1021/acs.cgd.8b01016
+entry850,"1,2-bis(2-vinyl-2H-tetrazol-5-yl)ethane",C=CCN(N=N1)N=C1CCC2=NN(CC=C)N=N2,498.15, 10.1515/znb-2016-0146
+entry851,"1,2-bis(2-allyl-2H-tetrazol-5-yl)ethane",O=[N+](N1N=C(C2=NC(/N=N/C3=NNC(C4=NN([N+]([O-])=O)C=N4)=N3)=NN2)N=C1)[O-],439.15,10.1021/acsaem.0c00724
+entry852,"1,2-bis(1-methylhydrazineyl)ethane",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)CNC1=NN=NN1CCCCN2N=NN=C2NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)[O-],439.15,10.1002/chem.201300994
+entry853,"1,2-bis(1,4-dinitro-1H-pyrazol-3-yl)diazene 1-oxide",O=[N+](C1=C2C3=C([N+]([O-])=O)C([N+]([O-])=O)=NN3N=NN2N=C1[N+]([O-])=O)[O-],506.15, 10.1021/jacs.7b08789
+entry854,"1,2,9,10-tetranitrodipyrazolo[1,5-d:5',1'-f][1,2,3,4]tetrazine",O=[N+](C1=C2N(N=C1[N+]([O-])=O)CCN3C2=C(C([N+]([O-])=O)=N3)[N+]([O-])=O)[O-],534.15,10.1039/c8ta02704h
+entry855,"1,2,9,10-tetranitro-5,6-dihydrodipyrazolo[1,5-a:5',1'-c]pyrazine",O=[N+](C(CNC1=NON=C1NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)[O-],427.55,10.1039/c4ra03885a
+entry856,"1,2,3,4,5-pentanitrobenzene",O=[N+](C1=C([N+]([O-])=O)C([N+]([O-])=O)=C([N+]([O-])=O)C=C1[N+]([O-])=O)[O-],493.15, 10.1002/zaac.201800471
+entry857,"1,2,10,11-tetranitro-6,7-dihydro-5H-dipyrazolo[1,5-a:5',1'-c][1,4]diazepine",O=[N+](C1=NN2C(NC3=C([N+]([O-])=O)C([N+]([O-])=O)=NN3CCC2)=C1[N+]([O-])=O)[O-],549.15,10.1002/anie.201704687
+entry858,"1,2,10,11-tetranitro-6,7-dihydro-5H,12H-dipyrazolo[1,5-a:5',1'-d][1,3,5]triazocine",O=[N+](N1C=CC(C2=NN([N+]([O-])=O)C=C2)=N1)[O-],456.15,10.1002/chem.201804418
+entry859,"1,1'-methylenebis(3,5-dinitro-1H-pyrazol-4-amine)",O=C(C1=NC([N+]([O-])=O)=NN1C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)C2=NC([N+]([O-])=O)=NN2C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,437.15, 10.1021/jacs.9b11326
+entry860,"1,1'-methylenebis(3-(2,2,2-trinitroethyl)urea)",O=C(N([N+]([O-])=O)CN([N+]([O-])=O)C(NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O)NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,394.65, 10.1002/ejoc.201900415
+entry861,"1,1'-methylenebis(1-nitro-3-(2,2,2-trinitroethyl)urea)",N1(N2C=CN=N2)C=CN=N1,428.35, 10.1021/acs.joc.9b00801
+entry862,"1,1'-dinitro-1H,1'H-3,3'-bipyrazole",NN1C(C2=NN=NN2N)=NN=N1,458.15,10.1039/c2dt30684k
+entry863,"1,1'-dimethyl-4,4',5,5'-tetranitro-1H,1'H-2,2'-biimidazole",O=C(CN1N=NC(CCC2=NN(CC(O)=O)N=N2)=N1)O,492.15, 10.1002/slct.201600494
+entry864,"1,1'-bi(1,2,3-triazole)",N1(/N=N/N2N=NC=C2)C=CN=N1,460.65, 10.22211/cejem/70373
+entry865,"1,1',4,4'-tetranitro-1H,1'H-3,3'-bipyrazole",OOC1(OO)CCC(OO)(OO)CC1,390.15,10.1039/c5cc05015d
+entry866,"1,1,4,4-tetrahydroperoxycyclohexane",O=C(OC(C)C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N[N+]([O-])=O,406.15,10.1515/znb-2016-0022
+entry867,"1,1,1-trinitropropan-2-yl nitrocarbamate",NC(OC(C)C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O,427.15,10.1515/znb-2016-0022
+entry868,"1,1,1-trinitropropan-2-yl carbamate",NC1=C(N(COCN2C([N+]([O-])=O)=C(N)C([N+]([O-])=O)=N2)N=C1[N+]([O-])=O)[N+]([O-])=O,476.15,10.1039/c5ta03884g
+entry869,"1,1'-(propane-1,3-diyl)bis(N-(2,2,2-trinitroethyl)-1H-tetrazol-5-amine)",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)CNC1=NN=NN1OCCON2N=NN=C2NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)[O-],420.15,10.1002/chem.201300994
+entry870,"1,1'-(propane-1,2-diyl)bis(5-azido-1H-tetrazole)",O=[N+](C1=NON=C1C2=NN=C(N=NC3=NN=C(C4=NON=C4[N+]([O-])=O)O3)O2)[O-],551.15,10.1021/acs.cgd.8b01404
+entry871,"1,1'-(oxybis(methylene))bis(4,5-dinitro-1H-imidazole)",O=[N+](C1=NN(COCN2N=C(N=C2)[N+]([O-])=O)C=N1)[O-],593.15,10.1039/c5ta03884g
+entry872,"1,1'-(oxybis(methylene))bis(3-nitro-1H-1,2,4-triazole)",O=[N+](C1=NN(COCN2N=C(C=C2[N+]([O-])=O)[N+]([O-])=O)C([N+]([O-])=O)=C1)[O-],572.15,10.1039/c5ta03884g
+entry873,"1,1'-(oxybis(methylene))bis(3,5-dinitro-1H-pyrazole)",O=[N+](C1=CN(COCN2N=C(C([N+]([O-])=O)=C2)[N+]([O-])=O)N=C1[N+]([O-])=O)[O-],571.15,10.1039/c5ta03884g
+entry874,"1,1'-(oxybis(methylene))bis(3,5-dinitro-1H-pyrazol-4-amine)",O=[N+](C(N=CN1COCN2C=NC([N+]([O-])=O)=C2[N+]([O-])=O)=C1[N+]([O-])=O)[O-],543.15,10.1039/c5ta03884g
+entry875,"1,1'-(oxybis(methylene))bis(3,4-dinitro-1H-pyrazole)",NC1=NC([N+]([O-])=O)=NN1CCN2N=C([N+]([O-])=O)N=C2N,580.15,10.1002/anie.201408127
+entry876,"1,1'-(ethane-1,2-diylidenebis(hydrazin-1-yl-2-ylidene))bis(2,2-dinitroethen-1-amine)",O=C(OCCOC(N[N+]([O-])=O)=O)N[N+]([O-])=O,430.15, 10.1002/zaac.201500795
+entry877,"1,1'-(ethane-1,2-diylbis(oxy))bis(N-(2,2,2-trinitroethyl)-1H-tetrazol-5-amine)",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)CNC1=NN=NN1CCN2N=NN=C2NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)[O-],456.15,10.1002/chem.201300994
+entry878,"1,1'-(ethane-1,2-diyl)bis(N-(2,2,2-trinitroethyl)-1H-tetrazol-5-amine)",[O-]C1=C([N+]#N)C([N+]([O-])=O)=NN1CCN2N=C([N+]([O-])=O)C([N+]#N)=C2[O-],520.15,10.1002/chem.201404991
+entry879,"1,1'-(ethane-1,2-diyl)bis(3-nitro-1H-1,2,4-triazol-5-amine)",NC1=NN(C2=NN=C(N3C(N)=NC(N)=N3)N=N2)C(N)=N1,629.05,10.1039/c7dt00935f
+entry880,"1,1'-(ethane-1,2-diyl)bis(3,5-dinitro-1H-pyrazol-4-amine)",NC(C([N+]([O-])=O)=N1)=C([N+]([O-])=O)N1CN2C([N+]([O-])=O)=C(N)C([N+]([O-])=O)=N2,583.15,10.1002/anie.201609267
+entry881,"1,1'-(ethane-1,2-diyl)bis(3,5-dinitro-1H-pyrazol-4-amine)",NC1=C([N+]([O-])=O)C([N+]([O-])=O)=NN1CCN2N=C([N+]([O-])=O)C([N+]([O-])=O)=C2N,529.15,10.1002/chem.201404991
+entry882,"1,1'-(ethane-1,2-diyl)bis(3,4-dinitro-1H-pyrazol-5-amine)",CN(N)CCN(N)C,519.15,10.1002/asia.202001084
+entry883,"1,1'-(butane-1,4-diyl)bis(N-(2,2,2-trinitroethyl)-1H-tetrazol-5-amine)",O=[N+](C1=CN([N+]([O-])=O)N=C1C2=NN([N+]([O-])=O)C=C2[N+]([O-])=O)[O-],479.15,10.1002/chem.201804418
+entry884,"1,1'-(4-methyl-1,3-phenylene)bis(2-nitrodiazene 1-oxide)",[N-]=[N+]=NC1=NC(N[N+]([O-])=O)=NC(N=[N+]=[N-])=N1,426.55,10.1016/j.tca.2015.01.026
+entry885,"1,1'-(2,2-dinitropropane-1,3-diyl)bis(3,4,5-triiodo-1H-pyrazole)",C=CN(N=N1)N=C1N/N=N/C2=NN(C=C)N=N2,431.15,10.1016/j.cclet.2017.04.006
+entry886,"1,1'-(2,2-dinitropropane-1,3-diyl)bis(2,4,5-triiodo-1H-imidazole)",O=[N+](C1=CC([N+]([O-])=O)=CC2=C1[N-]N3[N+]2=NC4=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C43)[O-],664.85,10.1016/j.fpc.2021.02.006
+entry887,"1,1'-(1,2,5-oxadiazole-3,4-diyl)diurea",O=C(N[N+]([O-])=O)NC1=NON=C1NC(N[N+]([O-])=O)=O,413.15, 10.1002/jhet.3109
+entry888,"1,1'-(1,2,5-oxadiazole-3,4-diyl)bis(3-nitrourea)",O=[N+](C1=CNN=C1[N+]([O-])=O)[O-],558.15,10.1002/cplu.201800318
+entry889,"1,1'-(1,2,4,5-tetrazine-3,6-diyl)bis(3-nitro-1H-1,2,4-triazol-5-amine)",CN1C([N+]([O-])=O)=C([N+]([O-])=O)N=C1C2=NC([N+]([O-])=O)=C([N+]([O-])=O)N2C,531.15,10.1002/zaac.201200188
+entry890,"1,1'-(1,2,4,5-tetrazine-3,6-diyl)bis(3-azido-1H-1,2,4-triazol-5-amine)",[O-][N+]1=NC2=NC3=NON=C3NC2=N1,554.15,10.1002/chem.201303469
+entry891,"1,1'-(1,2,4,5-tetrazine-3,6-diyl)bis(1H-1,2,4-triazole-3,5-diamine)",C1(C2=NN=C(C3=NNN=N3)N=N2)=NNN=N1,499.15,10.1002/zaac.201200363
+entry892,"1,1'-(1,2,4,5-tetrazine-3,6-diyl)bis(1H-1,2,4-triazole-3,5-diamine)",NC1=NC([N+]([O-])=O)=NN1C2=NN=C(N3C(N)=NC([N+]([O-])=O)=N3)N=N2,554.75,10.1039/c7dt00935f
+entry893,"1,1'-([3,3'-bi(1,2,5-oxadiazole)]-4,4'-diyl)diurea",NC(NC1=NON=C1/N=[N+]([O-])/C2=NON=C2NC(N)=O)=O,533.15, 10.1002/jhet.3109
+entry894,"1,1'-((4-amino-4H-1,2,4-triazole-3,5-diyl)bis(methylene))bis(3,5-dinitro-1H-pyrazol-4-amine)",NN1C(CN2N=C([N+]([O-])=O)C3=C2[N+]([O-])=NN3)=NN=C1CN4N=C([N+]([O-])=O)C5=C4[N+]([O-])=NN5,581.15,10.1002/chem.201501612
+entry895,"1-(tert-butyl)-4-(dinitromethylene)-1,3,5-triazinane",O=C(CN(CC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)[N+]([O-])=O)OCC,445.15,10.1002/chem.201301190
+entry896,"1-(hydroxyamino)-2,2-dinitroethen-1-amine",NN1N=[N+]([O-])C=C1,483.15,10.1002/prep.201400224
+entry897,"1-(6-amino-1,2,4,5-tetrazin-3-yl)-1H-1,2,4-triazole-3,5-diamine",[O-][N+]1=C(N)[N+]([O-])=NC(C2=NN=NN2)=N1,454.15,10.1002/chem.201405122
+entry898,"1-(6-((3-amino-1H-1,2,4-triazol-5-yl)amino)-1,2,4,5-tetrazin-3-yl)-1H-1,2,4-triazole-3,5-diamine",NC1=NC([N+]([O-])=O)=NN1CN([N+]([O-])=O)C,497.15,10.1039/c6nj00202a
+entry899,1-(5-nitro-1-(trinitromethyl)-1H-pyrazol-3-yl)-1H-tetrazole,O=[N+](C1=CN(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N=C1N2C=NN=N2)[O-],400.15,10.1002/asia.201800214
+entry900,1-(4-nitrophenyl)-1H-tetrazole,CN([N+]([O-])=O)CN([N+]([O-])=O)C1=NON=C1[N+]([O-])=O,399.15,10.1002/zaac.201700037
+entry901,"1-(4-nitro-1,2,5-oxadiazol-3-yl)urea",O=C(N[N+]([O-])=O)NC1=NON=C1[N+]([O-])=O,395.15, 10.1002/jhet.3109
+entry902,1-(4-nitro-1-(trinitromethyl)-1H-pyrazol-3-yl)-1H-tetrazole,[NH2+]=C(N([N+]([O-])=O)CN([N+]([O-])=O)CN([N+]([O-])=O)C([N-][N+]([O-])=O)=[NH2+])[N-][N+]([O-])=O,447.15, 10.1002/zaac.200900560
+entry903,"1-(4-methyl-3,5-dinitrophenyl)-2-nitrodiazene 1-oxide",IC1=NN2C(NC3=C([N+]([O-])=O)C(I)=NN3C2)=C1[N+]([O-])=O,596.15, 10.1021/acs.inorgchem.8b01600
+entry904,"1-(4-methyl-1H-1,2,3-triazol-1-yl)-1H-tetrazol-5-amine",CN([N+]([O-])=O)CN1N=C([N+]([O-])=O)C(N)=C1[N+]([O-])=O,438.15,10.1039/c6nj00202a
+entry905,1-(3-nitrophenyl)-1H-tetrazole,CN([N+]([O-])=O)CN1C([N+]([O-])=O)=NNC1=O,424.15,10.1039/c6nj00202a
+entry906,"1-(3-nitro-1H-1,2,4-triazol-5-yl)-1H-tetrazol-5-amine",O=[N+](C1=C2C(N=NN2)=CC([N+]([O-])=O)=C1)[O-],564.15,10.1002/chem.201502812
+entry907,"1-(3,5-dinitro-1H-pyrazol-4-yl)guanidine",O=[N+](N1C2N([N+]([O-])=O)C3C1N(CN=[N+]=[N-])C4C(N3[N+]([O-])=O)N([N+]([O-])=O)C2N4[N+]([O-])=O)[O-],479.15,10.1039/d0nj01453b
+entry908,"1-(3,5-dinitro-1H-pyrazol-4-yl)-3-nitroguanidine",CN([N+]([O-])=O)CN1N=C([N+]([O-])=O)N=C1[N+]([O-])=O,438.15,10.1039/c6nj00202a
+entry909,"1-(3-(4-amino-3,5-dinitro-1H-pyrazol-1-yl)propyl)-1H-tetrazol-5-amine",NC1=NN=NN1CCCN2C([N+]([O-])=O)=C(C([N+]([O-])=O)=N2)[N+]([O-])=O,407.15,10.1039/c6ta02387h
+entry910,"1-(3-(3,4,5-trinitro-1H-pyrazol-1-yl)propyl)-1H-tetrazol-5-amine",CN([N+]([O-])=O)CN1C=NN=N1,467, 10.1002/zaac.200900521
+entry911,1-(2-azidophenyl)ethan-1-one,[N-]=[N+]=NCCN1N=NN/C1=N\[N+]([O-])=O,413.15,10.1002/chem.200802203
+entry912,1-(2-azidoethyl)-1-methylhydrazine,IC1=NN(C2=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C2)C(I)=C1I,472.15,10.1016/j.cej.2019.02.192
+entry913,"1-(2,4-dinitrophenyl)-3-nitroguanidine",N=C(N[N+]([O-])=O)NC1=CC=C([N+]([O-])=O)C=C1[N+]([O-])=O,503.15,10.1080/07370652.2015.1107661 
+entry914,"1-(2,4-dinitrophenyl)-3,4,5-triiodo-1H-pyrazole",CN([N+]([O-])=O)CN1C=C([N+]([O-])=O)N=C1[N+]([O-])=O,456.15,10.1039/c6nj00202a
+entry915,"1-(2-(bis(2-(5-((2,2,2-trinitroethyl)amino)-1H-tetrazol-1-yl)ethyl)amino)ethyl)-N-(2,2,2-trinitroethyl)-1H-tetrazol-5-amine",NC1=NN=NN1CCN(N=N2)N=C2[N+]([O-])=O,507.15,10.1039/c6ta03536a
+entry916,1-(2-(5-nitro-2H-tetrazol-2-yl)ethyl)-1H-tetrazol-5-amine,NC1=NN=NN1CCN2N=C([N+]([O-])=O)C([N+]([O-])=O)=C2N=[N+]=[N-],439.15,10.1039/c7nj00327g
+entry917,"1-(2-(5-azido-3,4-dinitro-1H-pyrazol-1-yl)ethyl)-1H-tetrazol-5-amine",NC1=NN=NN1CCN(C(N)=N2)N=C2[N+]([O-])=O,550.15,10.1039/c6ta03536a
+entry918,"1-(2-(5-amino-3-nitro-1H-1,2,4-triazol-1-yl)ethyl)-1H-tetrazol-5-amine",NC1=NN=NN1CCN(C(N)=C2[N+]([O-])=O)N=C2[N+]([O-])=O,512.15,10.1039/c6ta03536a
+entry919,"1-(2-(5-amino-3,4-dinitro-1H-pyrazol-1-yl)ethyl)-1H-tetrazol-5-amine",NC1=NN=NN1CCN(C([N+]([O-])=O)=C2N=[N+]=[N-])N=C2[N+]([O-])=O,432.15,10.1039/c6ta03536a
+entry920,"1-(2-(4-azido-3,5-dinitro-1H-pyrazol-1-yl)ethyl)-1H-tetrazol-5-amine",NC(C([N+]([O-])=O)=NN1CCN2N=NN=C2N)=C1[N+]([O-])=O,530.15,10.1039/c6ta02387h
+entry921,"1-(2-(4-amino-3,5-dinitro-1H-pyrazol-1-yl)ethyl)-1H-tetrazol-5-amine",NC1=NN=NN1CCN(C=C2)N=C2[N+]([O-])=O,527.15,10.1039/c6ta03536a
+entry922,1-(2-(3-nitro-1H-pyrazol-1-yl)ethyl)-1H-tetrazol-5-amine,NC1=NN=NN1CCN(C=N2)N=C2[N+]([O-])=O,528.15,10.1039/c6ta03536a
+entry923,"1-(2-(3-nitro-1H-1,2,4-triazol-1-yl)ethyl)-1H-tetrazol-5-amine",NC1=NN=NN1CCN(C(N=[N+]=[N-])=C2[N+]([O-])=O)N=C2N=[N+]=[N-],400.15,10.1039/c6ta03536a
+entry924,"1-(2-(3,5-diazido-4-nitro-1H-pyrazol-1-yl)ethyl)-1H-tetrazol-5-amine",NC1=NN=NN1CCN(C=C2[N+]([O-])=O)N=C2[N+]([O-])=O,505.15,10.1039/c6ta03536a
+entry925,"1-(2-(3,4-dinitro-1H-pyrazol-1-yl)ethyl)-1H-tetrazol-5-amine",NC1=NN=NN1CCN(C([N+]([O-])=O)=C2[N+]([O-])=O)N=C2[N+]([O-])=O,408.15,10.1039/c6ta02387h
+entry926,"1-(2-(3,4,5-trinitro-1H-pyrazol-1-yl)ethyl)-1H-tetrazol-5-amine",IC1=C(I)C(I)=NN1CCN2C(N)=NN=N2,520.45,10.1002/chem.201704798
+entry927,"1-(2-(3,4,5-triiodo-1H-pyrazol-1-yl)ethyl)-1H-tetrazol-5-amine",NC1=NN=NN1CCN2N=C(I)C(I)=C2I,520.45,10.1016/j.cej.2018.06.056
+entry928,"1-(2-(3,4,5-triiodo-1H-pyrazol-1-yl)ethyl)-1H-tetrazol-5-amine",IC1=C(I)N=C(I)N1CCN2C(N)=NN=N2,459.35,10.1002/chem.201704798
+entry929,"1-(2-(2,4,5-triiodo-1H-imidazol-1-yl)ethyl)-1H-tetrazol-5-amine",NC1=NN=NN1CCN2N=CC=C2,527.15,10.1039/c6ta02387h
+entry930,1-(2-(1H-pyrazol-1-yl)ethyl)-1H-tetrazol-5-amine,N/C(NC(N)=O)=C([N+]([O-])=O)\[N+]([O-])=O,482.15,10.1021/acs.jpca.7b01742
+entry931,"1-(1-amino-2,2-dinitrovinyl)urea",N/C(N1C(C)(O)CC(C)=N1)=C([N+]([O-])=O)/[N+]([O-])=O,436.41,10.1007/s10593-017-2113-x
+entry932,"1-(1-amino-2,2-dinitrovinyl)-3,5-dimethyl-4,5-dihydro-1H-pyrazol-5-ol",NC1=NC([N+]([O-])=O)=NN1CC2=NN=NN2,515.15,10.1039/d0dt02223c
+entry933,"1-((1H-tetrazol-5-yl)methyl)-3-nitro-1H-1,2,4-triazol-5-amine",NC1=C([N+]([O-])=O)N(CC2=NN=NN2)N=C1[N+]([O-])=O,481.15,10.1002/chem.201700786
+entry934,"1-((1H-tetrazol-5-yl)methyl)-3,5-dinitro-1H-pyrazol-4-amine",NC1=NN=NN1CC2=NN=NN2,490.15,10.1039/c7ta05394k
+entry935,1-((1H-tetrazol-5-yl)methyl)-1H-tetrazol-5-amine,O=[N+](OCCC1=CC(C2=NOC(CCO[N+]([O-])=O)=C2)=NO1)[O-],473.65,10.1002/prep.201800315
+entry936,"[3,3'-biisoxazole]-5,5'-diylbis(methylene) dinitrate",NC1=NON=C1/C(N)=N/N,471.55,10.1039/c9ra09555a
+entry937,"[3,3'-biisoxazole]-5,5'-diylbis(methylene) dinitrate",O=C(N1)ON=C1/N=N\C(N2)=NOC2=O,396.15,10.1039/c4ra10821c
+entry938,"[3,3'-biisoxazole]-5,5'-diylbis(ethane-2,1-diyl) dinitrate",O=[N+](OCCC1=C(CCO[N+]([O-])=O)C(C2=NOC(CCO[N+]([O-])=O)=C2CCO[N+]([O-])=O)=NO1)[O-],461.45,10.1002/prep.201800315
+entry939,"[3,3'-biisoxazole]-4,4',5,5'-tetrayltetrakis(methylene) tetranitrate",O=C1ON=C(N=NC2=NOC(N2)=O)N1,400.4,10.11943/CJEM2018278
+entry940,"[3,3'-biisoxazole]-4,4',5,5'-tetrayltetrakis(ethane-2,1-diyl) tetranitrate",[O-][N+]1=NC=NN2C1=NN=C2,493.15,10.1016/j.cej.2020.124027
+entry941,"[3,3'-bi(1,2,4-oxadiazole)]-5,5'-diylbis(methylene) dinitrate",O=[N+](OCC1=CC(C2=NOC(CO[N+]([O-])=O)=C2)=NO1)[O-],462.35,10.1002/cplu.201900710
+entry942,"[3,3'-bi(1,2,4-oxadiazole)]-5,5'-diylbis(methylene) dinitrate",O=[N+](OCC1=CC(C2=NOC(CO[N+]([O-])=O)=C2)=NO1)[O-],462.35,10.1002/cplu.201600470
+entry943,"[3,3':4',3''-ter(1,2,5-oxadiazole)]-4,4''-diamine",O=[N+](NC1=NNC(CC2=NON=C2/N=N\C3=NON=C3CC4=NC(N[N+]([O-])=O)=NN4)=N1)[O-],469.45,10.1002/anie.201701659
+entry944,"[2,2'-bi(1,3,4-oxadiazole)]-5,5'-diamine",O=[N+](C1=NN(/N=N/N2N=C([N+]([O-])=O)C=N2)N=C1)[O-],500.15,10.1021/acs.orglett.0c03510
+entry945,"[1,2,5]oxadiazolo[3,4-b]pyrazine-5,6(4H,7H)-dione",O=C(OCC(OC(N[N+]([O-])=O)=O)C(OC(N[N+]([O-])=O)=O)COC(N[N+]([O-])=O)=O)N[N+]([O-])=O,448.15, 10.1002/zaac.202000387
+entry946,"[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazine 8-oxide",O=[N+](C1=NN(CCN2N=NN/C2=N/[N+]([O-])=O)C(N[N+]([O-])=O)=N1)[O-],369.15,10.1039/c6ta03536a
+entry947,"[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazine",NC1=NC(N=[N+]=[N-])=NN1C2=NN=C(N3C(N)=NC(N=[N+]=[N-])=N3)N=N2,458.85,10.1039/c7dt00935f
+entry948,"[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazin-6-ol",C[C@]1(OO)OO[C@@](O)(C)CC1,404.15,10.1002/ejic.201600767
+entry949,"(Z)-tris([1,2,5]oxadiazolo)[3,4-c:3',4'-e:3'',4''-g][1,2]diazocine 1,4,11-trioxide",[O-][N+]1=C(C2=NN=C(N[N+]([O-])=O)O2)C([N+]([O-])=O)=NO1,359.15,10.1016/j.enmf.2020.09.004
+entry950,"(Z)-N'-hydroxy-5-nitro-1H-1,2,4-triazole-3-carbimidoyl azide",NN1C(N)=NC([N+]([O-])=O)=N1,517.15,10.1039/c3ta15057g
+entry951,"(Z)-N'-hydroxy-5-(nitroamino)-1H-1,2,4-triazole-3-carbimidoyl azide",CC1=CN(N=N1)N2C(C)=NN=N2,407.95, 10.1021/acs.joc.9b00801
+entry952,"(Z)-N,N'-(diazene-1,2-diylbis(1,2,5-oxadiazole-4,3-diyl))dinitramide",N1(/N=N/N2C=NN=C2)C=NN=C1,548.15, 10.22211/cejem/70373
+entry953,"(Z)-N,N'-(diazene-1,2-diylbis(1,2,5-oxadiazole-4,3-diyl))dinitramide",O=[N+](N1C2N([N+]([O-])=O)C3C1N(CN=[N+]=[N-])C4C(N3CN=[N+]=[N-])N([N+]([O-])=O)C2N4[N+]([O-])=O)[O-],452.15,10.1039/d0nj01453b
+entry954,"(Z)-N,N'-((diazene-1,2-diylbis(1,2,5-oxadiazole-4,3-diyl))bis(1H-1,2,4-triazole-5,3-diyl))dinitramide",C1(N2C(NC3=NN=NN3C4=NNN=N4)=NN=N2)=NNN=N1,471.15, 10.1039/d1ce00674f
+entry955,"(Z)-N,N'-(((diazene-1,2-diylbis(1,2,5-oxadiazole-4,3-diyl))bis(methylene))bis(1H-1,2,4-triazole-5,3-diyl))dinitramide",O=C(C(O1)=NN=C1C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)C(O2)=NN=C2C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,381.15,10.1002/chem.201704939
+entry956,"(Z)-N-(6-methyl-2,7-dihydro-3H-[1,2,4]triazolo[4,3-b][1,2,4]triazol-3-ylidene)nitramide",NC1=NN(C(N)=C([N+]([O-])=O)N=N2)C2=C1[N+]([O-])=O,628.15, 10.1021/acsaem.9b00049
+entry957,"(Z)-N-(5-nitro-1',4'-dihydro-2H,5'H-[3,3'-bi(1,2,4-triazol)]-5'-ylidene)nitramide",[N-]=[N+]=NC1=NNN=C1C2=NN=NN2,425.15,10.1039/c5dt03044g
+entry958,"(Z)-N-(5-amino-1,3,4-oxadiazol-2(3H)-ylidene)nitramide",NN1N=C([N+]([O-])=O)C=N1,373.15,10.1002/open.202000053
+entry959,"(Z)-N-(5-(4-nitro-1H-pyrazol-3-yl)-2,4-dihydro-3H-1,2,4-triazol-3-ylidene)nitramide",O=[N+](C1=CNN=C1C2=NC([N+]([O-])=O)=NN2)[O-],551.15,10.1016/j.cej.2019.122331
+entry960,"(Z)-N-(5-(1H-tetrazol-5-yl)-2,4-dihydro-3H-1,2,4-triazol-3-ylidene)nitramide",O=[N+](C1=NNC(C2=NN/C(N2)=N\[N+]([O-])=O)=N1)[O-],423.15,10.1039/c3dt51205c
+entry961,"(Z)-N-(1-methyl-1,4-dihydro-5H-tetrazol-5-ylidene)nitramide",CN1N=NN/C1=N/[N+]([O-])=O,398.15,10.1002/zaac.200800430
+entry962,"(Z)-N-(1-methyl-1,4-dihydro-5H-tetrazol-5-ylidene)nitramide",CN1C(N[N+]([O-])=O)=NC([N+]([O-])=O)=N1,381.15,10.1002/ejic.201101416
+entry963,"(Z)-N-(1-(2-(3-nitro-5-(nitroamino)-1H-1,2,4-triazol-1-yl)ethyl)-1,4-dihydro-5H-tetrazol-5-ylidene)nitramide",O=[N+](C1=NN(CCN2N=NN/C2=N/[N+]([O-])=O)C=N1)[O-],454.15,10.1039/c6ta03536a
+entry964,"(Z)-N-(1-(2-(3-nitro-1H-1,2,4-triazol-1-yl)ethyl)-1,4-dihydro-5H-tetrazol-5-ylidene)nitramide",O=[N+](C1=NN(CCN2N=NN/C2=N/[N+]([O-])=O)C=C1[N+]([O-])=O)[O-],430.15,10.1039/c6ta03536a
+entry965,"(Z)-N-(1-(2-(3,5-diiodo-4-nitro-1H-pyrazol-1-yl)ethyl)-1,4-dihydro-5H-tetrazol-5-ylidene)nitramide",O=[N+](/N=C1N(CCN2N=C([N+]([O-])=O)C([N+]([O-])=O)=C2[N+]([O-])=O)N=NN/1)[O-],421.15,10.1039/c7nj00327g
+entry966,"(Z)-N-(1-(2-(3,4-dinitro-1H-pyrazol-1-yl)ethyl)-1,4-dihydro-5H-tetrazol-5-ylidene)nitramide",O/N=C/C1=NO[N+]([O-])=C1/C=N/O,441.15,10.1002/prep.201000057
+entry967,"(Z)-5-azido-N'-hydroxy-1H-1,2,4-triazole-3-carboximidamide",O=C1N=NC2=N[N+]([H])=C(N)N2[N-]1,500.15,10.1039/d1nj00924a
+entry968,"(Z)-5,5'-((diazene-1,2-diylbis(1,2,5-oxadiazole-4,3-diyl))bis(methylene))bis(4H-1,2,4-triazole-3,4-diamine)",NC1=NOC(C2=NON=C2N)=N1,522.15, 10.1021/acs.orglett.8b03639
+entry969,"(Z)-4-hydrazineyl-1,2,5-oxadiazole-3-carbohydrazonamide",[O-][N+]1=NC2=NON=C2N1,326.15,10.1021/acsaem.0c01769
+entry970,"(Z)-4-amino-1,2,5-oxadiazole-3-carbohydrazonamide",O=C(OC1(CC2(OC(N[N+]([O-])=O)=O)C3)CC(C2)(OC(N[N+]([O-])=O)=O)CC3(OC(N[N+]([O-])=O)=O)C1)N[N+]([O-])=O,453.15, 10.1002/cplu.201700542
+entry971,"(Z)-4,4'-(diazene-1,2-diyl)bis(N-(1,2,4,5-tetrazin-3-yl)-1,2,5-oxadiazol-3-amine)",O=[N+](C1=NNC([N+]([O-])=O)=C1CC2=C([N+]([O-])=O)NN=C2[N+]([O-])=O)[O-],535.15, 10.1021/acscentsci.9b01096
+entry972,"(Z)-3,3'-(diazene-1,2-diylbis(1,2,5-oxadiazole-4,3-diyl))bis(1,2,4-oxadiazol-5(4H)-one)",N/C(NN)=C([N+]([O-])=O)\C1=NN=NN1,510.15,10.1016/j.cej.2021.128990
+entry973,"(Z)-3,3'-(diazene-1,2-diyl)bis(6-amino-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazine 7-oxide)",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NCN([N+]([O-])=O)CN1)[O-],409.15,10.1039/c8cc05562a
+entry974,"(Z)-3,3'-(diazene-1,2-diyl)bis(1,2,4-oxadiazol-5-amine)",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NNC(C2=NC(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NN2)=N1)[O-],421.15,10.1039/c7nj03939e
+entry975,"(Z)-3,3'-(diazene-1,2-diyl)bis(1,2,4-oxadiazol-5(4H)-one)",O=[N+](OCC1=NN=C(CO[N+]([O-])=O)N1/N=N/N2C(CO[N+]([O-])=O)=NN=C2CO[N+]([O-])=O)[O-],419.15,10.1002/chem.201500098
+entry976,"(Z)-2-nitro-1-(4-nitro-1,2,5-oxadiazol-3-yl)diazene 1-oxide",[O-]/[N+](C1=NON=C1/N=N/C2=NON=C2[N+]([O-])=O)=N\[N+]([O-])=O,382.15,10.1002/slct.202003182
+entry977,"(Z)-2-nitro-1-(4-((Z)-1-(4-nitro-1,2,5-oxadiazol-3-yl)-1-oxidodiazen-2-yl)-1,2,5-oxadiazol-3-yl)diazene 1-oxide",[O-]/[N+](C1=NON=C1[N+]([O-])=O)=N\N2N=C([N+]([O-])=O)N=C2,501.15, 10.1039/d1ra03919a
+entry978,"(Z)-2-nitro-1-(4-((E)-(4-nitro-1,2,5-oxadiazol-3-yl)diazenyl)-1,2,5-oxadiazol-3-yl)diazene 1-oxide",O=[N+](C1=NC(C2=NON=C2[N+]([O-])=O)=NN1)[O-],464.3,10.1002/chem.201801597
+entry979,(Z)-2-nitro-1-(2-nitropropan-2-yl)diazene 1-oxide,O=[N+](C1=NC=CN1C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)[O-],399.15,10.1002/cplu.201800305
+entry980,(Z)-2-methylene-N'-nitrohydrazine-1-carboximidamide,O=[N+](OCC(O[N+]([O-])=O)C(O[N+]([O-])=O)C(O[N+]([O-])=O)C(O[N+]([O-])=O)CO[N+]([O-])=O)[O-],442.55,10.1016/j.tca.2013.05.032
+entry981,"(Z)-2-methyl-1-(4-(nitroamino)-1,2,5-oxadiazol-3-yl)diazene 1-oxide",O=[N+](/C([N+]([O-])=O)=C1NCOCN/1)[O-],482.35,10.1002/anie.201501973
+entry982,(Z)-2-(tert-butyl)-1-(((Z)-2-nitro-1-oxidodiazen-1-yl)methyl)diazene 1-oxide,O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=CC=CC(C#N)=N1)[O-],379.15,10.3390/molecules23010002
+entry983,"(Z)-2-(2,2-dinitro-1-ureidoethylidene)hydrazine-1-carboxamide",NN(C)CCN,496.15,10.1002/asia.202001084
+entry984,(Z)-1-hydrazineyl-2-nitro-2-(1H-tetrazol-5-yl)ethen-1-amine,O=C1C2=CNN=C2N=[N+]([O-])N1,548.15,10.1016/j.cej.2021.129190 
+entry985,"(Z)-1,2-bis(6-azido-[1,2,4]triazolo[4,3-b][1,2,4,5]tetrazin-3-yl)diazene",CCOC(C1=NN=NN1CCN2C(C(OCC)=O)=NN=N2)=O,485.15,10.1002/ejoc.201201201
+entry986,"(Z)-1,2-bis(4-ureido-1,2,5-oxadiazol-3-yl)diazene 1-oxide",O=[N+](/C([N+]([O-])=O)=C1NN=C(N\1)C(N/2)=NNC2=C([N+]([O-])=O)/[N+]([O-])=O)[O-],394.15, 10.1002/chem.201202483
+entry987,"(Z)-1,2-bis(4-(nitroamino)-1,2,5-oxadiazol-3-yl)diazene 1-oxide",[N-]=[N+]=NC1=NC(C2=NNC(N=[N+]=[N-])=N2)=NN1,474.15, 10.1002/chem.201202483
+entry988,"(Z)-1,2-bis(4-(azidomethyl)-1,2,5-oxadiazol-3-yl)diazene",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NNC(C2=NON=C2/N=N/C3=NON=C3C4=NC(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NN4)=N1)[O-],417.15,10.1039/c9nj01065c
+entry989,"(Z)-1,2-bis(2-methyl-2H-tetrazol-5-yl)diazene 1-oxide",[O-]/[N+](C1=NN(CCO[N+]([O-])=O)N=N1)=N\C2=NN(CCO[N+]([O-])=O)N=N2,448.15, 10.1039/c7nj02724a
+entry990,"(Z)-1,2-bis(2-(cyanomethyl)-2H-tetrazol-5-yl)diazene 1-oxide",O=C(OCC(CN=[N+]=[N-])(CN=[N+]=[N-])COC(CC)=O)CC,500.15,10.1002/prep.201600066 
+entry991,"(Z)-1,2-bis(2-(2-azidoethyl)-2H-tetrazol-5-yl)diazene 1-oxide",O=[N+](C1=NN(/N=N/N2N=C([N+]([O-])=O)N=N2)N=N1)[O-],323.15, 10.22211/cejem/70373
+entry992,"(Z)-1,2-bis(2-(2-(nitrooxy)ethyl)-2H-tetrazol-5-yl)diazene 1-oxide",[O-]/[N+](C1=NN(CCN=[N+]=[N-])N=N1)=N\C2=NN(CCN=[N+]=[N-])N=N2,462.15, 10.1039/c7nj02724a
+entry993,"(Z)-1,2-bis([1,2,4]triazolo[4,3-b][1,2,4,5]tetrazin-3-yl)diazene",[O-][N+](C1=C([N+]([O-])=O)C=NN1)=NC2=NNC=C2[N+]([O-])=O,512.15, 10.1039/D1DT03357C
+entry994,"(Z)-1-(4-nitro-1,2,5-oxadiazol-3-yl)-2-(3-nitro-1H-1,2,4-triazol-1-yl)diazene 1-oxide",O=[N+](C1=NON=C1C2=NN=NN2)[O-],488.15,10.1016/j.molstruc.2019.127358
+entry995,"(Z)-1-(4-amino-7-nitro-[1,2,4]triazolo[5,1-c][1,2,4]triazin-3-yl)-2-nitrodiazene 1-oxide",NC1=C(C2=NN=NN2)N=NC3=NC([N+]([O-])=O)=NN31,454.15,10.1039/c9cc01777a
+entry996,"(Z)-1-(4-amino-1,2,5-oxadiazol-3-yl)-2-(3-nitro-1H-1,2,4-triazol-1-yl)diazene 1-oxide",NC1=NON=C1C2=NN=C(C[N+]([O-])=O)O2,457.85,10.1016/j.cej.2021.132503
+entry997,"(Z)-(diazene-1,2-diylbis(1,2,5-oxadiazole-4,3-diyl))bis(methylene) dinitrate",[O-][N+]1=C(C2=NON=C2N([N+]([O-])=O)CC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)C(C3=NON=C3N([N+]([O-])=O)CC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NO1,381.75,10.1002/slct.201601656
+entry998,(S)-2-amino-3-(4-azidophenyl)propanoic acid,[N-]=[N+]=NC1=NNN=C1[N+]([O-])=O,422.15,10.1039/c2ta00136e
+entry999,"(oxalylbis(azanediyl))bis(ethane-2,1-diyl) dinitrate",CN1N=C(N=N1)/N=N/NC2=NN(C)N=N2,456.15,10.1016/j.poly.2008.09.015
+entry1000,"(oxalylbis(azanediyl))bis(ethane-2,1-diyl) bis(nitrocarbamate)",OC(CN([N+]([O-])=O)C(C(N([N+]([O-])=O)CC(O)=O)=O)=O)=O,405.15,10.1002/slct.202102271
+entry1001,(methyl(nitro)amino)methyl ((methyl(nitro)amino)methyl)carbamate,CN([N+]([O-])=O)CNC(NCN([N+]([O-])=O)C)=O,435.15,10.1002/ejic.201402441
+entry1002,"(E,E)-1,1'-(1,2,4,5-tetrazine-3,6-diyl)bis(2'-nitroguanidine)",[O-][N+]1=C(C2=CC([N+]([O-])=O)=CC([N+]([O-])=O)=C2)C(C3=CC([N+]([O-])=O)=CC([N+]([O-])=O)=C3)=NO1,508.55,10.3969/j.issn.1006-2793.2011.05.018
+entry1003,(E)-N'-nitrohydrazinecarboximidamide,NN(N=C1[N+]([O-])=O)C2=C1NN=C2[N+]([O-])=O,451.15,10.1039/c6ra19556c
+entry1004,"(E)-N'-nitro-2-((E)-2,4,6-trinitrobenzylidene)hydrazine-1-carboximidamide",N/C(N/N=C/C1=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C1[N+]([O-])=O)=N\[N+]([O-])=O,455.95,10.1080/07370652.2014.956191
+entry1005,"(E)-N-methyl-N-((5-(nitroimino)-4,5-dihydro-1H-tetrazol-1-yl)methyl)nitramide",CN([N+]([O-])=O)CN(N=NN/1)C1=N\[N+]([O-])=O,393, 10.1002/zaac.200900521
+entry1006,"(E)-N-methyl-N-((5-(nitroimino)-4,5-dihydro-1H-tetrazol-1-yl)methyl)nitramide",NC1=NN=NN1CN(C)[N+]([O-])=O,457, 10.1002/zaac.200900521
+entry1007,"(E)-N,N'-(diazene-1,2-diylbis(4H-1,2,4-triazole-4,3-diyl))bis(1H-tetrazol-1-amine)",O=[N+](C1=C(N=[N+]=[N-])N(CCN(N=NN/2)C2=N\[N+]([O-])=O)N=C1[N+]([O-])=O)[O-],404.15,10.1039/c7nj00327g
+entry1008,"(E)-N,N'-(diazene-1,2-diylbis(1,2,5-oxadiazole-4,3-diyl))dinitramide",[O-]/[N+](C1=NON=C1N[N+]([O-])=O)=N\C2=NON=C2N[N+]([O-])=O,343.15,10.1002/chem.201400362
+entry1009,"(E)-N,N'-(diazene-1,2-diylbis(1,2,4-oxadiazole-3,5-diyl))dinitramide",NC1=NN=C(C2=NN=C(N)N2N[N+]([O-])=O)N1N[N+]([O-])=O,532.15, 10.1002/asia.201500701
+entry1010,"(E)-N-(7-oxo-2,4,6,7-tetrahydro-5H-[1,2,3]triazolo[4,5-d]pyrimidin-5-ylidene)nitramide",[N-]=[N+]=NC(N=N1)=NN2C1=NN=C2N[N+]([O-])=O,423.15,10.1039/c9ta01717h
+entry1011,"(E)-N-(3-amino-1,2,4-oxadiazol-5(4H)-ylidene)nitramide",NC(NO/1)=NC1=N/[N+]([O-])=O,423.15,10.1016/j.cej.2021.130912
+entry1012,"(E)-N-(3-amino-1,2,4-oxadiazol-5(2H)-ylidene)nitramide",NC1=NON=C1[N+]([O-])=O,416.15,10.3390/cryst5040418
+entry1013,"(E)-N-(3-((5-amino-3,4-dinitro-1H-pyrazol-1-yl)methyl)-1,2,4-oxadiazol-5(4H)-ylidene)nitramide",NC1=[N+]([O-])N=NC2=C1NN=N2,467.15,10.1021/acsaem.9b01889
+entry1014,"(E)-N-(3-((3,4,5-trinitro-1H-pyrazol-1-yl)methyl)-1,2,4-oxadiazol-5(4H)-ylidene)nitramide",O=[N+](NN1C(NN2N=NN=C2)=NN=C1)[O-],450.15,10.1016/j.cej.2020.124027
+entry1015,"(E)-N-(2,7-dihydro-3H-[1,2,4]triazolo[4,3-b][1,2,4]triazol-3-ylidene)nitramide",[O-][N+]1=C2C3=[N+]([O-])ON=C3C(N=CN4[N+]([O-])=O)=C4C2=NO1,420.65,10.1039/c6dt02438f
+entry1016,"(E)-N-(1-(nitroamino)-1,4-dihydro-5H-tetrazol-5-ylidene)nitramide",IC1=C(I)C(I)=NN1CN([N+]([O-])=O)CN([N+]([O-])=O)CN2C(I)=C(I)C(I)=N2,517.05, 10.1021/acs.inorgchem.7b02277
+entry1017,"(E)-N-(1-(2-hydroxyethyl)-1,4-dihydro-5H-tetrazol-5-ylidene)nitramide",OCCN1N=NN/C1=N\[N+]([O-])=O,411.15,10.1002/ejic.201100535
+entry1018,"(E)-N-(1-(2-hydroxyethyl)-1,4-dihydro-5H-tetrazol-5-ylidene)nitramide",O=C(C)C1=C(N=[N+]=[N-])C=CC=C1,355.31,10.1007/s10973-009-0572-8
+entry1019,"(E)-N-(1-(2-azidoethyl)-1,4-dihydro-5H-tetrazol-5-ylidene)nitramide",NN(C)CCN=[N+]=[N-],426.05,10.1002/asia.202001084
+entry1020,"(E)-N-(1-(2-(5-azido-3,4-dinitro-1H-pyrazol-1-yl)ethyl)-1,4-dihydro-5H-tetrazol-5-ylidene)nitramide",NC1=C([N+]([O-])=O)C([N+]([O-])=O)=NN1CCN(N=NN/2)C2=N\[N+]([O-])=O,425.15,10.1039/c7nj00327g
+entry1021,"(E)-N-(1-(2-(5-amino-3,4-dinitro-1H-pyrazol-1-yl)ethyl)-1,4-dihydro-5H-tetrazol-5-ylidene)nitramide",[N-]=[N+]=NC1=C([N+]([O-])=O)N(CCN(N=NN/2)C2=N\[N+]([O-])=O)N=C1[N+]([O-])=O,410.15,10.1039/c7nj00327g
+entry1022,"(E)-N-(1-(2-(4-nitro-1H-pyrazol-1-yl)ethyl)-1,4-dihydro-5H-tetrazol-5-ylidene)nitramide",IC1=C([N+]([O-])=O)C(I)=NN1CCN2/C(NN=N2)=N\[N+]([O-])=O,384.45,10.1002/chem.201704798
+entry1023,"(E)-N-(1-(2-(4-azido-3,5-dinitro-1H-pyrazol-1-yl)ethyl)-1,4-dihydro-5H-tetrazol-5-ylidene)nitramide",O=[N+](/N=C1N(CCN2N=C([N+]([O-])=O)C([N+]([O-])=O)=C2N[N+]([O-])=O)N=NN/1)[O-],362.15,10.1039/c7nj00327g
+entry1024,"(E)-N-(1-(2-(3,4-dinitro-5-(nitroamino)-1H-pyrazol-1-yl)ethyl)-1,4-dihydro-5H-tetrazol-5-ylidene)nitramide",IC(N=C1I)=C(I)N1CC2=NN=C(CN3C(I)=NC(I)=C3I)N2/N=N/N4C(CN5C(I)=C(N=C5I)I)=NN=C4CN6C(I)=NC(I)=C6I,463.15,10.1016/j.cej.2019.02.192
+entry1025,"(E)-N-(1-(2-(3,4,5-trinitro-1H-pyrazol-1-yl)ethyl)-1,4-dihydro-5H-tetrazol-5-ylidene)nitramide",O=[N+](C1=NN(CC2=NN=NN2)C(N[N+]([O-])=O)=N1)[O-],422.15,10.1039/d0dt02223c
+entry1026,"(E)-N-(1-((1H-tetrazol-5-yl)methyl)-1,4-dihydro-5H-tetrazol-5-ylidene)nitramide",O=[N+](C1=NOC(NC(N=N2)=NN3C2=NN=C3)=N1)[O-],499.35,10.1002/asia.201801145
+entry1027,"(E)-5,5'-(triaz-1-ene-1,3-diyl)bis(2-vinyl-2H-tetrazole)",O=C(CN(N=N1)N=C1N/N=N/C2=NN(CC(OC)=O)N=N2)OC,442.15,10.1016/j.cclet.2017.04.006
+entry1028,"(E)-5,5'-(triaz-1-ene-1,3-diyl)bis(2-methyl-2H-tetrazole)",CN1N=C(N=N1)/N=N/N(C)C2=NN(C)N=N2,468.15,10.1016/j.poly.2008.09.015
+entry1029,"(E)-5,5'-(triaz-1-ene-1,3-diyl)bis(2-allyl-2H-tetrazole)",IC1=C(I)N=C(I)N1CN([N+]([O-])=O)CN2C(I)=C(I)N=C2I,472.55, 10.1021/acs.inorgchem.7b02277
+entry1030,"(E)-5,5'-(triaz-1-ene-1,3-diyl)bis(2-(2-azidoethyl)-2H-tetrazole)",C=CCN(N=N1)N=C1N/N=N/C2=NN(CC=C)N=N2,480.15,10.1016/j.cclet.2017.04.006
+entry1031,"(E)-5,5'-(triaz-1-ene-1,3-diyl)bis(1-methyl-1H-tetrazole)",CN1N=NN=C1N(C)/N=N/C2=NN=NN2C,473.15,10.1016/j.poly.2008.09.015
+entry1032,"(E)-5,5'-(ethene-1,2-diyl)bis(4H-1,2,4-triazole-3,4-diamine)",C1(/NN=NN1C2=NNN=N2)=N/N3N=NN=C3NC4=NNN=N4,484.15, 10.1039/d0ta08153a
+entry1033,"(E)-5,5'-(diazene-1,2-diylbis(1,2,5-oxadiazole-4,3-diyl))bis(1,2,4-oxadiazol-3-amine)",NC1=NOC(C2=[N+]([O-])ON=C2N)=N1,492.15, 10.1021/acs.orglett.8b03639
+entry1034,"(E)-5,5'-(diazene-1,2-diyl)bis(1H-tetrazol-1-ol)",O=[N+](C1=CN(N=N1)/N=N/N2C=C([N+]([O-])=O)N=N2)[O-],433.15,10.1021/acs.orglett.0c03510
+entry1035,"(E)-5,5'-(3-methyltriaz-1-ene-1,3-diyl)bis(2-methyl-2H-tetrazole)",IC1=C(I)N(CN2C(I)=NC(I)=C2I)C(I)=N1,537.15, 10.1021/acs.inorgchem.8b01600
+entry1036,"(E)-5,5'-(3-methyltriaz-1-ene-1,3-diyl)bis(1-methyl-1H-tetrazole)",[O-][N+]1=C(C2=NOC=N2)C(C3=NOC=N3)=NO1,500.1,10.1002/cplu.201800563
+entry1037,"(E)-5-(2-(2,4,6-trinitrobenzylidene)hydrazineyl)-1H-tetrazole",O=[N+](C1=C2C(N=NN2)=CC([N+]([O-])=O)=C1)[O-],564.15,10.1002/ejic.201501126
+entry1038,"(E)-4,6-dinitro-N'-(2,4,6-trinitrobenzylidene)-1H-indazole-1-carbohydrazide",O=C(N/N=C/C1=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C1[N+]([O-])=O)N/N=C/C2=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C2[N+]([O-])=O,476.15,10.1039/d0nj03476b
+entry1039,"(E)-4,6-dinitro-N'-((E)-2,4,6-trinitrobenzylidene)-1H-indazole-1-carbohydrazonamide",N/C(N)=C([N+]([O-])=O)\C1=NN=NN1,548.15,10.1021/jacs.0c01640
+entry1040,"(E)-4,6-dinitro-1-(6-(2-(2,4,6-trinitrobenzylidene)hydrazineyl)-1,2,4,5-tetrazin-3-yl)-1H-indazole",O=[N+](C1=CC([N+]([O-])=O)=CC2=C1C=NN2/C(N/N=C/C3=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C3[N+]([O-])=O)=N\N=CC4=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C4[N+]([O-])=O)[O-],465.15,10.1039/d0nj03476b
+entry1041,"(E)-4,4'-(diazene-1,2-diylbis(1,2,4-oxadiazole-5,3-diyl))bis(3-cyano-1,2,5-oxadiazole 2-oxide)",[O-][N+](ON=C1C2=C([N+]([O-])=O)C=C(C=C2)C3=NO[N+]([O-])=C3[N+]([O-])=O)=C1[N+]([O-])=O,472.15,10.3390/molecules25245836
+entry1042,"(E)-4,4'-(diazene-1,2-diyl)bis(3-methyl-1,2,5-oxadiazole 2-oxide)",O=C(OC)N/N=C(N=[N+]=[N-])/C(N=[N+]=[N-])=N/NC(OC)=O,375.15,10.1039/c7dt00536a
+entry1043,"(E)-4,4'-(diazene-1,2-diyl)bis(3-cyano-1,2,5-oxadiazole 2-oxide)",[O-][N+](ON=C1/N=N/C2=NO[N+]([O-])=C2C(N)=O)=C1C(N)=O,461.15,10.3390/molecules25245836
+entry1044,"(E)-4,4'-(diazene-1,2-diyl)bis(3-carbamoyl-1,2,5-oxadiazole 2-oxide)",COC(N/N=C(N=[N+]=[N-])/C(N=[N+]=[N-])=N/NC(OC)=O)=O,423.15,10.1002/anie.201404790
+entry1045,"(E)-4,4'-(diazene-1,2-diyl)bis(3-(5-oxo-4,5-dihydro-1,2,4-oxadiazol-3-yl)-1,2,5-oxadiazole 2-oxide)",[O-]/[N+](C1=NON=C1/N=N/C2=NON=C2/[N+]([O-])=N/N3N=C([N+]([O-])=O)N=C3)=N\N4N=C([N+]([O-])=O)N=C4,457.15, 10.1039/d1ra03919a
+entry1046,"(E)-4,4'-(diazene-1,2-diyl)bis(3-(5-(nitroamino)-1,2,4-oxadiazol-3-yl)-1,2,5-oxadiazole 2-oxide)",O=C1NC(C2=[N+]([O-])ON=C2/N=N/C3=NO[N+]([O-])=C3C4=NOC(N4)=O)=NO1,462.15,10.1039/c9dt02684c
+entry1047,"(E)-4,4'-(diazene-1,2-diyl)bis(2,4-dihydro-3H-1,2,4-triazol-3-one)",N#[N+]C1=C([N+]([O-])=O)C(C2=N[N-]C([N+]#N)=C2[N+]([O-])=O)=N[N-]1,423.15,10.1021/acs.orglett.9b02875
+entry1048,"(E)-4,4'-(1-oxidodiazene-1,2-diyl)bis(3-methyl-1,2,5-oxadiazole 2-oxide)",[O-][N+](ON=C1/N=N/C2=NO[N+]([O-])=C2C)=C1C,418.15,10.3390/molecules25245836
+entry1049,"(E)-4-((2-(4-amino-4H-1,2,4-triazol-3-yl)hydrazineylidene)methyl)-3-methyl-1,2,5-oxadiazole 2-oxide",O=[N+](C(C=C1[N+]([O-])=O)=NN1C2=NON=C2[N+]([O-])=O)[O-],498.15,.10.1021/acs.orglett.0c01960
+entry1050,"(E)-4-((2-(1H-tetrazol-5-yl)hydrazineylidene)methyl)-3-methyl-1,2,5-oxadiazole 2-oxide",[O-][N+]1=C(C(N=[N+]=[N-])=NO1)C2=NO[N+]([O-])=C2[N+]([O-])=O,392.15,10.1021/acsaem.0c01162
+entry1051,"(E)-3,3'-(diazene-1,2-diylbis(1H-1,2,4-triazole-5,3-diyl))bis(4-azido-1,2,5-oxadiazole 2-oxide)",[O-][N+]1=C(C2=NN=C(/N=N/C3=NN=C(O3)C4=[N+]([O-])ON=C4[N+]([O-])=O)O2)C([N+]([O-])=O)=NO1,467.15,10.1002/chem.202101987 
+entry1052,"(E)-3,3'-(diazene-1,2-diylbis(1,3,4-oxadiazole-5,2-diyl))bis(4-nitro-1,2,5-oxadiazole 2-oxide)",[O-][N+]1=C(C2=NOC(/N=N/C3=NC(C4=[N+]([O-])ON=C4N=[N+]=[N-])=NO3)=N2)C(N=[N+]=[N-])=NO1,428.15,10.1002/chem.202101987 
+entry1053,"(E)-3,3'-(diazene-1,2-diylbis(1,2,4-oxadiazole-5,3-diyl))bis(4-nitro-1,2,5-oxadiazole 2-oxide)",[O-]C1=C(C([N+]([O-])=O)=NN1CCN(N=C2[N+]([O-])=O)C([O-])=C2[N+]#N)[N+]#N,505.45,10.1016/j.fpc.2021.03.002
+entry1054,"(E)-3,3'-(diazene-1,2-diylbis(1,2,4-oxadiazole-5,3-diyl))bis(4-azido-1,2,5-oxadiazole 2-oxide)",[O-][N+]1=C(C([N+]([O-])=O)=NO1)C2=CC=C([N+]([O-])=O)C(C3=[N+]([O-])ON=C3[N+]([O-])=O)=C2,446.15,10.3390/molecules25245836
+entry1055,"(E)-3,3'-(diazene-1,2-diyl)bis(4-nitro-1,2,5-oxadiazole 2-oxide)",CC1=[N+]([O-])ON=C1/N=[N+](C2=NO[N+]([O-])=C2C)/[O-],445.15,10.3390/molecules25245836
+entry1056,"(E)-3-(2-(2,4,6-trinitrobenzylidene)hydrazineyl)-4H-1,2,4-triazol-4-amine",NN1C=NN=C1N/N=C/C2=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C2[N+]([O-])=O,458.15,10.1039/c9ce00782b
+entry1057,"(E)-3-(2-(2,4,6-trinitrobenzylidene)hydrazineyl)-4H-1,2,4-triazol-4-amine",NN1C(N2C(C=C([N+]([O-])=O)C=C3[N+]([O-])=O)=C3C=N2)=NN=C1,540.15,10.1039/d0nj03476b
+entry1058,(E)-2-formyl-N'-nitrohydrazine-1-carboximidamide,N/C(NNC(C)=O)=N\[N+]([O-])=O,462.32, 10.1002/prep.202000338
+entry1059,(E)-2-acetyl-N'-nitrohydrazine-1-carboximidamide,NC1=NN(C2=NN=C(NC3=NC(N)=NN3)N=N2)C(N)=N1,585.95,10.1039/c7dt00935f
+entry1060,"(E)-2,2'-(triaz-1-ene-1,3-diylbis(2H-tetrazole-5,2-diyl))diacetonitrile",[N-]=[N+]=NCCN(N=N1)N=C1N/N=N/C2=NN(CCN=[N+]=[N-])N=N2,456.15,10.1016/j.cclet.2017.04.006
+entry1061,"(E)-2,2'-(triaz-1-ene-1,3-diylbis(2H-tetrazole-5,2-diyl))bis(ethan-1-ol)",N#CCN(N=N1)N=C1N/N=N/C2=NN(CC#N)N=N2,412.15,10.1016/j.cclet.2017.04.006
+entry1062,"(E)-2-(6-(3,5-dimethyl-1H-pyrazol-1-yl)-1,2,4,5-tetrazin-3-yl)-N'-nitrohydrazine-1-carboximidamide",NC1=NC(C2=[N+]([O-])ON=C2N=[N+]=[N-])=NN1,406.15,10.1002/chem.202101987 
+entry1063,"(E)-2-(5-(nitroimino)-4,5-dihydro-1H-tetrazol-1-yl)ethyl nitrate",O=[N+](/N=C1NN=NN\1CCO[N+]([O-])=O)[O-],395.15,10.1016/j.poly.2011.05.042
+entry1064,"(E)-2-(5-(nitroimino)-4,5-dihydro-1H-tetrazol-1-yl)ethyl nitrate",O=[N+](NC1=NN=NN1CCO[N+]([O-])=O)[O-],372.35, 10.1002/slct.201903408
+entry1065,(E)-2-(2-(1H-tetrazol-5-yl)hydrazineylidene)-2-nitroacetamide,N=C(N/N=C/C1=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C1[N+]([O-])=O)N/N=C/C2=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C2[N+]([O-])=O,453.15,10.1039/d0nj03476b
+entry1066,"(E)-1,2-di(4H-1,2,4-triazol-4-yl)diazene",O=[N+](N(CN([N+]([O-])=O)C1=NON=C1C(O)=O)C2=NON=C2C(O)=O)[O-],388.15, 10.1021/acs.cgd.7b01264
+entry1067,"(E)-1,2-di(2'H-[1,5'-bitetrazol]-5-yl)diazene",CN(N)C1=NN=NN1CCN2N=NN=C2N(N)C,538.15,10.1002/ejic.201301283
+entry1068,"(E)-1,2-di(1H-1,2,3-triazol-1-yl)diazene",CC1=NN=NN1/N=N/N2C(C)=NN=N2,385.65, 10.22211/cejem/70373
+entry1069,"(E)-1,2-bis(5-nitro-2H-tetrazol-2-yl)diazene",O=[N+](/N=C1OC(C2=NN/C(O2)=N\[N+]([O-])=O)=NN/1)[O-],473.15, 10.1002/chem.201702191
+entry1070,"(E)-1,2-bis(5-methyl-1H-tetrazol-1-yl)diazene",O=[N+](/N=C1N(OCON2N=NN/C2=N\[N+]([O-])=O)N=NN/1)[O-],430.15, 10.1002/ange.201003866
+entry1071,"(E)-1,2-bis(5-(trinitromethyl)-1H-1,2,4-triazol-3-yl)diazene",C1(NNC2=NN=NN2)=NN=NN1,481.15,10.1021/cm703657k
+entry1072,"(E)-1,2-bis(5-(dinitromethyl)-1H-1,2,4-triazol-3-yl)diazene",O=[N+](C1=NNN=C1C2=NC(N=NC3=NNC(C4=NNN=C4[N+]([O-])=O)=N3)=NN2)[O-],482.65,10.1039/c7ta08941d
+entry1073,"(E)-1,2-bis(5-(dinitromethyl)-1,2,4-oxadiazol-3-yl)diazene",O=[N+](NC1=NC(/N=N/C2=NOC(N[N+]([O-])=O)=N2)=NO1)[O-],413.15,10.1002/anie.201600068
+entry1074,"(E)-1,2-bis(4-nitro-2H-1,2,3-triazol-2-yl)diazene",N/C(NNC(CC(NN/C(N)=N/[N+]([O-])=O)=O)=O)=N\[N+]([O-])=O,453.48, 10.1002/prep.202000338
+entry1075,"(E)-1,2-bis(4-nitro-1H-1,2,3-triazol-1-yl)diazene",O=[N+](C1=NN(/N=N/N2N=C([N+]([O-])=O)C=C2[N+]([O-])=O)C([N+]([O-])=O)=C1)[O-],476.05, 10.22211/cejem/70373
+entry1076,"(E)-1,2-bis(4,6-diazido-1,3,5-triazin-2-yl)diazene",[N-]=[N+]=NC1=NC(NNC2=NC(N=[N+]=[N-])=NC(N=[N+]=[N-])=N2)=NC(N=[N+]=[N-])=N1,475.15,10.1080/07370650490893054
+entry1077,"(E)-1,2-bis(4-(nitroamino)-1,2,5-oxadiazol-3-yl)diazene 1-oxide",O=[N+](NC1=NON=C1/N=N\C2=NON=C2N[N+]([O-])=O)[O-],373.15,10.1016/j.molstruc.2020.129536
+entry1078,"(E)-1,2-bis(4-(nitroamino)-1,2,5-oxadiazol-3-yl)diazene 1-oxide",ON1N=C([N+]([O-])=O)N=C1C2=NC([N+]([O-])=O)=NN2O,464.15,10.1021/ja404164j
+entry1079,"(E)-1,2-bis(4-(dinitromethyl)-1,2,5-oxadiazol-3-yl)diazene",[N-]=[N+]=NCC1=NON=C1/N=N\C2=NON=C2CN=[N+]=[N-],482.15,10.1016/j.dt.2021.08.008
+entry1080,"(E)-1,2-bis(4-(3-(trinitromethyl)-1H-1,2,4-triazol-5-yl)-1,2,5-oxadiazol-3-yl)diazene",[O-][N+]1=C(C2=NON=C2NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)C(C3=NON=C3NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=NO1,440.45,10.1002/slct.201601656
+entry1081,"(E)-1,2-bis(4-(3-(dinitromethyl)-1H-1,2,4-triazol-5-yl)-1,2,5-oxadiazol-3-yl)diazene",O=[N+](/C([N+]([O-])=O)=C1NCN(CN2CN/C(NC2)=C([N+]([O-])=O)/[N+]([O-])=O)CN\1)[O-],461.15,10.1039/c9nj01932d
+entry1082,"(E)-1,2-bis(4-(1H-tetrazol-5-yl)-1,2,5-oxadiazol-3-yl)diazene",[H]N1N=N[N]2=C1C3=NON=C3/N=N/C4=NON=C4C5=NN=NN5[H]2,521.15,10.1039/c8ce01825a
+entry1083,"(E)-1,2-bis(4-((1,2,4,5-tetrazin-3-yl)amino)-1,2,5-oxadiazol-3-yl)diazene 1-oxide",O=[N+](C1=NNC([N+]([O-])=O)=C1CCC2=C([N+]([O-])=O)NN=C2[N+]([O-])=O)[O-],624.15, 10.1021/acscentsci.9b01096
+entry1084,"(E)-1,2-bis(3-nitro-1H-1,2,4-triazol-5-yl)diazene",O=[N+](C1=NNC(C2=CC([N+]([O-])=O)=NN2)=C1)[O-],649.15,10.1002/chem.201804418
+entry1085,"(E)-1,2-bis(3,5-dinitro-1H-pyrazol-1-yl)diazene",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)CNC1=NN=NN1CCCN2N=NN=C2NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)[O-],416.15,10.1002/chem.201300994
+entry1086,"(E)-1,2-bis(3,5-bis(azidomethyl)-4H-1,2,4-triazol-4-yl)diazene",NC1=C([N+]([O-])=O)N(N=C1[N+]([O-])=O)CC2=NN=C(CN3N=C([N+]([O-])=O)C(N)=C3[N+]([O-])=O)N2/N=N/N4C(CN5N=C([N+]([O-])=O)C(N)=C5[N+]([O-])=O)=NN=C4CN6N=C([N+]([O-])=O)C(N)=C6[N+]([O-])=O,487.15,10.1002/chem.201501612
+entry1087,"(E)-1,2-bis(3,5-bis((3,4-dinitro-1H-pyrazol-1-yl)methyl)-4H-1,2,4-triazol-4-yl)diazene",O=[N+](C(C([N+]([O-])=O)=C1[N+]([O-])=O)=NN1CC2=NN=C(CN3N=C([N+]([O-])=O)C([N+]([O-])=O)=C3[N+]([O-])=O)N2/N=N/N4C(CN5N=C([N+]([O-])=O)C([N+]([O-])=O)=C5[N+]([O-])=O)=NN=C4CN6N=C([N+]([O-])=O)C([N+]([O-])=O)=C6[N+]([O-])=O)[O-],424.15,10.1002/chem.201501612
+entry1088,"(E)-1,2-bis(3,5-bis((3,4,5-trinitro-1H-pyrazol-1-yl)methyl)-4H-1,2,4-triazol-4-yl)diazene",[N-]=[N+]=NC1=NN=C(N=[N+]=[N-])N1N2C(N=[N+]=[N-])=NN=C2N=[N+]=[N-],398.54,10.1016/j.poly.2016.06.025
+entry1089,"(E)-1,2-bis(3,5-bis((3,4,5-triiodo-1H-pyrazol-1-yl)methyl)-4H-1,2,4-triazol-4-yl)diazene",NC1=NN=C(/C=C/C2=NN=C(N)N2N)N1N,603.15,10.1039/c7dt01261f
+entry1090,"(E)-1,2-bis(3,5-bis((2,4,5-triiodo-1H-imidazol-1-yl)methyl)-4H-1,2,4-triazol-4-yl)diazene",IC1=C(I)C(I)=NN1CC2=NN=C(CN3C(I)=C(I)C(I)=N3)N2/N=N/N4C(CN5C(I)=C(I)C(I)=N5)=NN=C4CN6C(I)=C(I)C(I)=N6,519.15,10.1016/j.cej.2019.02.192
+entry1091,"(E)-1,2-bis(3-((3,4,5-trinitro-1H-pyrazol-1-yl)methyl)-1,2,4-oxadiazol-5-yl)diazene",C=CN1N=NC(CCC2=NN(C=C)N=N2)=N1,463.15, 10.1515/znb-2016-0146
+entry1092,"(E)-1,2-bis(1-nitro-1H,2'H-[3,3'-bi(1,2,4-triazol)]-5'-yl)diazene",O=[N+](C1=NN(CC2=NN=NN2)C(/N=N/C3=NC([N+]([O-])=O)=NN3CC4=NN=NN4)=N1)[O-],444.15,10.1039/d0dt02223c
+entry1093,"(E)-1,2-bis(1-methyl-5-(trinitromethyl)-1H-1,2,4-triazol-3-yl)diazene",O=C(NCNC(NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)=O)NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,472.15, 10.1002/ejoc.201900415
+entry1094,"(E)-1,2-bis(1-((1H-tetrazol-5-yl)methyl)-3-nitro-1H-1,2,4-triazol-5-yl)diazene",N12N=CN=NC1=NN=C2/N=N\C3=NN=C4N3N=CN=N4,578.15,10.1039/c9ta01717h
+entry1095,"(E)-1,1',1'',1'''-((diazene-1,2-diylbis(4H-1,2,4-triazole-4,3,5-triyl))tetrakis(methylene))tetrakis(3,5-dinitro-1H-pyrazol-4-amine)",O=[N+](C(C([N+]([O-])=O)=C1)=NN1CC2=NN=C(CN3N=C([N+]([O-])=O)C([N+]([O-])=O)=C3)N2/N=N/N4C(CN5N=C([N+]([O-])=O)C([N+]([O-])=O)=C5)=NN=C4CN6N=C([N+]([O-])=O)C([N+]([O-])=O)=C6)[O-],435.15,10.1002/chem.201501612
+entry1096,"(E)-1,1'-(diazene-1,2-diylbis(1,2,5-oxadiazole-4,3-diyl))diurea",NC(NC1=NON=C1C2=NON=C2NC(N)=O)=O,513.15, 10.1002/jhet.3109
+entry1097,"(E)-1-(2'H-[1,5'-bitetrazol]-5(4H)-ylideneamino)-N-(2H-tetrazol-5-yl)-1H-tetrazol-5-amine",O/N=N/C1=NN=NN1CCN2N=CC=C2,393.15,10.1039/c6ta02387h
+entry1098,"(E)-1-(2,4-dinitrophenyl)-2-(1-nitrocyclohexyl)diazene",NC1=C([N+]([O-])=O)C2=NN=NN2N=C1N=[N+]=[N-],436.15,10.1021/jacs.0c00161
+entry1099,"(E)-1-(2,4,6-trinitrobenzylidene)-2-(2,4,6-trinitrophenyl)hydrazine",O=[N+](C1=C(/C=N/NC(N/N=C/C2=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C2[N+]([O-])=O)=N/N=C/C3=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C3[N+]([O-])=O)C([N+]([O-])=O)=CC([N+]([O-])=O)=C1)[O-],451.15,10.1039/d0nj03476b
+entry1100,(E)-1-(2-(1H-pyrazol-1-yl)ethyl)-5-(hydroxydiazenyl)-1H-tetrazole,O=C1N(CO[N+]([O-])=O)C2=NC3=NON=C3N=C2N1CO[N+]([O-])=O,463.15,10.1039/c6ta02384c
+entry1101,"(E)-(diazene-1,2-diylbis(5-amino-4H-1,2,4-triazole-1-ium-3,4-diyl))bis(nitroamide)",[O-][N+]1=C(N[N+]([O-])=O)C(C2=NO[N+]([O-])=C2N[N+]([O-])=O)=NO1,347.65,10.1039/c6ta03619h
+entry1102,"(E)-(diazene-1,2-diylbis(4H-1,2,4-triazole-4,3,5-triyl))tetramethanol",[N-]=[N+]=NCC1=NN=C(CN=[N+]=[N-])N1/N=N/N2C(CN=[N+]=[N-])=NN=C2CN=[N+]=[N-],409.15,10.1002/chem.201500098
+entry1103,"(E)-(diazene-1,2-diylbis(4H-1,2,4-triazole-4,3,5-triyl))tetrakis(methylene) tetranitrate",OCC1=NN=C(CO)N1/N=N/N2C(CO)=NN=C2CO,487.15,10.1002/chem.201500098
+entry1104,"(6-oxo-5H-imidazo[4,5-b][1,2,5]oxadiazolo[3,4-e]pyrazine-5,7(6H)-diyl)bis(methylene) dinitrate",[NH2+]=C1OC([C-]([N+]([O-])=O)[N+]([O-])=O)=NN1,411.15,10.1039/c9cc08182h
+entry1105,"(5-iminio-4-methyl-4,5-dihydro-1H-tetrazol-1-yl)(nitro)amide",NC(N1N[N+]([O-])=O)=NN=C1C2=NN=C(N[N+]([O-])=O)N2,409.15,10.1002/prep.202000316
+entry1106,"(5-iminio-4,5-dihydro-1,3,4-oxadiazol-2-yl)dinitromethanide",O=[N+](N(CN1C(N=[N+]=[N-])=C([N+]([O-])=O)C([N+]([O-])=O)=N1)CN2C(N=[N+]=[N-])=C([N+]([O-])=O)C([N+]([O-])=O)=N2)[O-],442.15,10.1002/chem.201300747
+entry1107,(5-azido-1H-tetrazol-1-yl)carbonimidoyl diazide,CN(N)CC(O)CN=[N+]=[N-],413.05,10.1002/asia.202001084
+entry1108,(5-amino-1H-tetrazol-4-ium-1-yl)(nitro)amide,O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NN([N+]([O-])=O)C=C1)[O-],386.15,10.1039/c8dt04712j
+entry1109,"(5,5'-dinitro-2H,2'H-[3,3'-bi(1,2,4-triazole)]-2,2'-diyl)bis(methylene) dinitrate",O=[N+](C1=CN(CN([N+]([O-])=O)CN2C=C([N+]([O-])=O)C=N2)N=C1)[O-],535.15,10.1002/chem.201300747
+entry1110,"(4H,8H-bis([1,2,5]oxadiazolo)[3,4-b:3',4'-e]pyrazine-4,8-diyl)bis(methylene) dinitrate",O=[N+](N(CN1C([N+]([O-])=O)=C(N=[N+]=[N-])C([N+]([O-])=O)=N1)CN2C([N+]([O-])=O)=C(N=[N+]=[N-])C([N+]([O-])=O)=N2)[O-],439.15,10.1002/chem.201300747
+entry1111,"(4-amino-5-iminio-4,5-dihydro-1,3,4-oxadiazol-2-yl)dinitromethanide",NC1=C([N+]([O-])=O)N(CN([N+]([O-])=O)CN2C([N+]([O-])=O)=C(N)C([N+]([O-])=O)=N2)N=C1[N+]([O-])=O,505.15,10.1002/chem.201300747
+entry1112,"(4-(2-amino-1,3,4-oxadiazol-3-ium-5-yl)-1,2,5-oxadiazol-3-yl)(nitro)amide",[O-][N+]1=NC2=NN=C([N+]([O-])=O)N2N=C1N,493.15,10.1039/c9cc04496e
+entry1113,"(4-((2,2,2-trinitroethyl)amino)-4H-1,2,4-triazole-3,5-diyl)dimethanol",O=[N+](N1C(N2[N+]([O-])=O)C3N([N+]([O-])=O)C1C4N([N+]([O-])=O)C(N3CC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)C2N4[N+]([O-])=O)[O-],493.15,10.1007/s11172-017-1855-z
+entry1114,"(3Z,4Z)-N'3,N'4-dihydroxy-1,2,5-oxadiazole-3,4-bis(carboximidamide)",[O-]/[N+](C1=NON=C1/N=N/C2=NON=C2/[N+]([O-])=N/[N+]([O-])=O)=N\[N+]([O-])=O,356.15,10.1002/slct.202003182
+entry1115,"(3S,6S)-6-hydroperoxy-3,6-dimethyl-1,2-dioxan-3-ol",O=C(N[N+]([O-])=O)OC1C2C3([N+]([O-])=O)C(O1)C(OC(N[N+]([O-])=O)=O)OC3C(OC(N[N+]([O-])=O)=O)O2,445.15,10.1002/zaac.201700230
+entry1116,"(3S,6S)-3,6-dihydroperoxy-3,6-dimethyl-1,2-dioxane",NC1=NNC2=NC(N)=NN21,534.15,10.1039/d0nj05152g
+entry1117,"(3S,5S)-5-hydroperoxy-3,5-dimethyl-1,2-dioxolan-3-ol",CC1[C@](OO)(C)OO[C@@]1(O)C,355.15,10.1002/ejic.201600767
+entry1118,"(3S,5S)-5-hydroperoxy-3,4,5-trimethyl-1,2-dioxolan-3-ol",O[C@]1(C)C(C)(C)[C@@](OO)(C)OO1,340.15,10.1002/ejic.201600767
+entry1119,"(3S,5S)-3,5-dihydroperoxy-3,5-dimethyl-1,2-dioxolane",CC1[C@](OO)(C)OO[C@@]1(OO)C,369.15,10.1002/ejic.201600767
+entry1120,"(3S,5S)-3,5-dihydroperoxy-3,4,5-trimethyl-1,2-dioxolane",C[C@@]1(OO)OO[C@@](OO)(C)C1(C)C,337.15,10.1002/ejic.201600767
+entry1121,"(3S,5R)-5-hydroperoxy-3,4,4,5-tetramethyl-1,2-dioxolan-3-ol",O=[N+](/C([N+]([O-])=O)=C1NN=NN/1)[O-],361.15,10.1002/prep.200900049
+entry1122,"(3S,5R)-3,5-dihydroperoxy-3,4,4,5-tetramethyl-1,2-dioxolane",O[C@@]1(CC)C[C@@](OO)(CC)OO1,368.15,10.1002/ejic.201600767
+entry1123,"(3R,5R)-3,5-diethyl-5-hydroperoxy-1,2-dioxolan-3-ol",CC[C@@]1(OO)OO[C@@](CC)(OO)C1,402.15,10.1002/ejic.201600767
+entry1124,"(3R,5R)-3,5-diethyl-3,5-dihydroperoxy-1,2-dioxolane",NC1=NC(N)=C([N+]([O-])=O)N=N1,498.15,10.1021/acs.cgd.1c00241
+entry1125,"(3-nitro-2-oxooxazolidine-4,4-diyl)bis(methylene) dinitrate",O=[N+](C1=NNN=C1C2=NC([N+]([O-])=O)=NN2)[O-],483.98,10.1039/c7ta08941d
+entry1126,"(3aS,7aS)-1-nitro-2-(trinitromethyl)-3a,4,5,6,7,7a-hexahydro-1H-benzo[d]imidazole",[H][C@]12CCCC[C@]1([H])N=C(C([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N2[N+]([O-])=O,393.31,10.1039/c6ta08831g
+entry1127,"(3as,6as)-2,2,5,5-tetrahydroperoxyoctahydropentalene",C[C@]1(CC(OO)(OO)C2)[C@]2(C)CC(OO)(OO)C1,390.15,10.1039/c5cc05015d
+entry1128,"(3as,6ar)-2,2,5,5-tetrahydroperoxy-3a-methyloctahydropentalene",O=[N+](C(CN=CC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)[O-],408.45,10.1039/c4ra03885a
+entry1129,"(3aR,7aS)-1-nitro-2-(trinitromethyl)-3a,4,5,6,7,7a-hexahydro-1H-benzo[d]imidazole",O=C(NNCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)NNCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O,392.05,10.1039/c4ra03885a
+entry1130,"(3ar,6ar)-2,2,5,5-tetrahydroperoxy-3a,6a-dimethyloctahydropentalene",C[C@]1(CC(OO)(OO)C2)[C@]2([H])CC(OO)(OO)C1,371.15,10.1039/c5cc05015d
+entry1131,"(3,6-dinitropyrazolo[4,3-c]pyrazole-1,4-diyl)bis(methylene) dinitrate",ON(N=C1[N+]([O-])=O)C2=C1N(O)N=C2[N+]([O-])=O,569.15,10.1039/c6ra19556c
+entry1132,"(3,6-dinitropyrazolo[4,3-c]pyrazole-1,4-diyl)bis(methylene) dinitrate",O=[N+](N(CN1C([N+]([O-])=O)=CC([N+]([O-])=O)=N1)CN2C([N+]([O-])=O)=CC([N+]([O-])=O)=N2)[O-],523.15,10.1002/chem.201300747
+entry1133,"(3,6-dinitropyrazolo[4,3-c]pyrazole-1,4-diyl)bis(methylene) dinitrate",O=[N+](C1=CC2=C(C=NN2C3=NN=NN3)C([N+]([O-])=O)=C1)[O-],589.15,10.1039/c9ce00782b
+entry1134,"(2R,4R,6R)-2a1-nitrohexahydro-2H-1,3,5-trioxacyclopenta[cd]pentalene-2,4,6-triyl trinitrate",[O-][N+]1=NC2=NN=NN2N=C1N,458.15,10.1002/asia.201500086
+entry1135,(2-azidophenyl)methanol,O=CC1=C(N=[N+]=[N-])C=CC=C1,386.21,10.1007/s10973-009-0572-8
+entry1136,(2-azidophenyl)(phenyl)methanone,N/C(N)=N\C1=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C1[N+]([O-])=O,505.15,10.1002/prep.201500338
+entry1137,"(1Z,1'Z)-N',N''''-((1E,2E)-ethane-1,2-diylidene)bis(2,2-dinitroacetohydrazonamide)",NC1=C([N+]([O-])=O)C2=NN=C([N+]([O-])=O)N2N=C1N,507.15,10.1016/j.cej.2021.129635
+entry1138,"(1Z,1'Z)-1,1'-(1,2,5-oxadiazole-3,4-diyl)bis(2-nitrodiazene 1-oxide)",[O-][N+]1=C(C2=NOC(CO[N+]([O-])=O)=C2)C(C3=NOC(CO[N+]([O-])=O)=C3)=NO1,466.95,10.1002/cplu.201900710
+entry1139,"(1Z,1'Z)-1,1'-((methylenebis(nitroazanediyl))bis(1,2,5-oxadiazole-4,3-diyl))bis(2-(3-nitro-1H-1,2,4-triazol-1-yl)diazene 1-oxide)",N=C(NN)C1=NON=C1N([N+]([O-])=O)CN([N+]([O-])=O)C2=NON=C2C(NN)=N,411.15,10.1039/c6ta08055c
+entry1140,"(1Z,1'Z)-1,1'-(((Z)-1-oxidodiazene-1,2-diyl)bis(1,2,5-oxadiazole-4,3-diyl))bis(2-nitrodiazene 1-oxide)",O=[N+](C(CNC1=NNC=N1)([N+]([O-])=O)[N+]([O-])=O)[O-],406.75,10.1039/c4ra03885a
+entry1141,"(1Z,1'Z)-1,1'-(((E)-diazene-1,2-diyl)bis(1,2,5-oxadiazole-4,3-diyl))bis(2-nitrodiazene 1-oxide)",CN(CC(NNC(CN([N+]([O-])=O)C)=O)=O)[N+]([O-])=O,474.15,10.1002/asia.201601148
+entry1142,"(1Z,1'Z)-1,1'-(((E)-diazene-1,2-diyl)bis(1,2,5-oxadiazole-4,3-diyl))bis(2-(3-nitro-1H-1,2,4-triazol-1-yl)diazene 1-oxide)",O=[N+](OCC1=C(CO[N+]([O-])=O)ON=C1C2=NOC(CO[N+]([O-])=O)=C2CO[N+]([O-])=O)[O-],466.85, 10.1002/ejoc.201700280
+entry1143,"(1Z)-4,6-dinitro-N'-((E)-2,4,6-trinitrobenzylidene)-N''-(2,4,6-trinitrobenzylidene)-1H-indazole-1-carbohydrazonhydrazide",O=[N+](C1=CC([N+]([O-])=O)=C(/C=N/NC2=NN=NN2)C([N+]([O-])=O)=C1)[O-],462.15,10.1039/c9ce00782b
+entry1144,"(1R,3R,5R,7R)-2,4,4,6,8,8-hexanitro-2,6-diazaadamantane",O=C(N[N+]([O-])=O)OCC(COC(N[N+]([O-])=O)=O)([N+]([O-])=O)C(COC(N[N+]([O-])=O)=O)([N+]([O-])=O)COC(N[N+]([O-])=O)=O,445.15,10.1002/zaac.201700230
+entry1145,"(1-nitro-1H-1,2,4-triazole-3,5-diyl)bis(methylene) dinitrate",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)C1=NC(OCCO2)C2N1[N+]([O-])=O)[O-],408.07,10.1039/c6ta08831g
+entry1146,"(1-methyl-1H-1,2,3-triazol-3-ium-3-yl)dinitromethanide",NC1=NC(NN=N2)=C2C(N)=N1,638.15,10.1016/j.cej.2020.126514
+entry1147,"(1E,1'E)-2,2'-malonylbis(N'-nitrohydrazine-1-carboximidamide)",N/C(NNC(NN/C(N)=N/[N+]([O-])=O)=O)=N\[N+]([O-])=O,470.79, 10.1002/prep.202000338
+entry1148,"(1E,1'E)-2,2'-carbonylbis(N'-nitrohydrazine-1-carboximidamide)",O=[N+](N1C(C2=CC([N+]([O-])=O)=NN2[N+]([O-])=O)=CC([N+]([O-])=O)=N1)[O-],425.15,10.1002/chem.201804418
+entry1149,"(1E,1'E)-2,2'-(1,2,4,5-tetrazine-3,6-diyl)bis(N'-nitrohydrazine-1-carboximidamide)",O=[N+](C([N+]([O-])=O)([N+]([O-])=O)CNC1=NON=C1NC2=NN=C(NC3=NON=C3NCC([N+]([O-])=O)([N+]([O-])=O)[N+]([O-])=O)N=N2)[O-],477.15,10.1021/acsami.0c08526
+entry1150,"((1s,2s,3s,4s)-cyclobutane-1,2,3,4-tetrayl)tetrakis(methylene) tetranitrate",O=[N+](OC[C@@H]1[C@H](CO[N+]([O-])=O)[C@@H](CO[N+]([O-])=O)[C@@H]1CO[N+]([O-])=O)[O-],459.95,10.1021/jacs.9b06961
+entry1151,"((1s,2R,3r,4S)-2,3,4-tris((nitrooxy)methyl)cyclobutyl)methyl nitrate",O=[N+](OC[C@@H]1[C@@H](CO[N+]([O-])=O)[C@H](CO[N+]([O-])=O)[C@H]1CO[N+]([O-])=O)[O-],472.85,10.1021/jacs.9b06961
+entry1152,"((1R,2R,3S,4S)-cyclobutane-1,2,3,4-tetrayl)tetrakis(methylene) tetranitrate",O=[N+](NC1=NON=C1[N+]([O-])=O)[O-],338.15,10.1002/zaac.201700037
+entry1153,"((1r,2r,3r,4r)-cyclobutane-1,2,3,4-tetrayl)tetrakis(methylene) tetranitrate",O=[N+](OC[C@@H]1[C@@H](CO[N+]([O-])=O)[C@@H](CO[N+]([O-])=O)[C@@H]1CO[N+]([O-])=O)[O-],471.65,10.1021/jacs.9b06961
+entry1154,((((nitroazanediyl)bis(methylene))bis(nitroazanediyl))bis(iminiomethylene))bis(nitroamide),IC1=C(I)C(I)=NN1CN([N+]([O-])=O)CN([N+]([O-])=O)CN([N+]([O-])=O)CN2C(I)=C(I)C(I)=N2,517.75, 10.1021/acs.inorgchem.7b02277
